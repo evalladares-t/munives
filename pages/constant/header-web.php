@@ -54,7 +54,7 @@
 
                     <div class="header-column justify-content-end " style="width:20px;">
                         <div class="header-row" >
-                                    <a href="blog-post.html" class="text-decoration-none ">
+                                    <a href="../transparencia/" class="text-decoration-none ">
                                         <img src="../../img/blog/portaltransparencia.png" class="img-fluid hover-effect-2 mb-3" alt="" />
                                     </a>
                         </div>		

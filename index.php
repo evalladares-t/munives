@@ -14,7 +14,7 @@
         <meta name="author" content="munives.gob.pe">
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
         <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
         <!-- Mobile Metas -->
@@ -70,10 +70,13 @@
         </style>
 
     </head>
-
+	
 		
 	<body>
 
+	<?php
+		include 'pages/constant/modal-web.php';
+	?>
 		<div class="body">
 			<header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 148, 'stickySetTop': '-148px', 'stickyChangeLogo': true}">
 				<div class="header-body border-color-primary border-top-0 box-shadow-none">
@@ -131,7 +134,7 @@
 
 							<div class="header-column justify-content-end " style="width:20px;">
 								<div class="header-row" >
-											<a href="blog-post.html" class="text-decoration-none ">
+											<a href="pages/transparencia" class="text-decoration-none ">
 												<img src="img/blog/portaltransparencia.png" class="img-fluid hover-effect-2 mb-3" alt="" />
 											</a>
 								</div>		
@@ -699,8 +702,6 @@
 							</div>
 						</div>
 						
-
-
 						<section id="IDlineasestrategicas" class="section section-height-2 border-0 m-0 pb-3  bg-primary">
 							<div class="container">
 								<div class="row">
@@ -853,8 +854,6 @@
 							</div>
 						</section>
 
-
-
 						<section class="section bg-color-grey-scale-1 section-height-3 border-0 m-0">
 							<div class="container pb-2">
 								<div class="row">
@@ -989,17 +988,15 @@
 		<script src="js/theme.init.js"></script>
 		<script src="js/examples/examples.portfolio.js"></script>
 		<script src="js/examples/examples.carousels.js"></script>
-		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
+
 		<script>
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		
-			ga('create', 'UA-12345678-1', 'auto');
-			ga('send', 'pageview');
+
+		$(document).ready(function() {
+    		$('#defaultModal').modal('toggle')
+		});
 		</script>
-		 -->
+		
+		 
 		<script>
 			$(document).ready(function () {
 
@@ -1026,8 +1023,6 @@
 						scrollLeft: "-=336"
 					}, 750);
 				});
-
-
 			});
 
 		</script>
