@@ -256,7 +256,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/base_legal_entidad.pdf" target="_blank"><i class="far fa-file-alt"></i></a>
 													</td>
 													<td style="text-align: center;">
 														Normatividad aplicable a la entidad
@@ -274,11 +274,11 @@
 									</div>
 									<div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple5">
 										<h4>Plan de Desarrollo Institucional</h4>
-										<h5 class="pt-3">Plan de Desarrollo Institucional Municipal</h5>
+										<h5 class="pt-3 pl-4">Plan de Desarrollo Institucional Municipal</h5>
 										<p style="text-align: justify;">La Municipalidad de Villa El Salvador se orienta en el logro de una gestión democrática, participativa, transparente y constructora de ciudadanía.</p>
 										<p style="text-align: justify;">Desde una perspectiva sistémica efectivizando nuestro alineamiento con el Plan Integral de Desarrollo Concertado de la ciudad y teniendo como principal valor a las personas de nuestra corporación municipal hemos formulado de forma colectiva el Plan de Desarrollo Institucional.</p>
 										<p style="text-align: justify;">Los objetivos establecidos a través de lineamientos estratégicos nos permitirá mejorar la efectividad de nuestra acción municipal en crear las condiciones y contribuir en el desarrollo sostenible en mejorar la calidad de vida de nuestros ciudadanos y ciudadanas.</p>
-										<h5 class="pt-3">Imagen Municipal</h5>
+										<h5 class="pt-3 pl-4">Imagen Municipal</h5>
 										<p style="text-align: justify;">Municipalidad reconocida a nivel internacional, líder en el Perú por su modelo de gestión democrática, participativa, transparente y constructora de ciudadanía.</p>
 										<p style="text-align: justify;">Guiada por el Plan Integral de Desarrollo Concertado y en cogestión con actores públicos y privados; trabaja articuladamente a nivel Metropolitano y de Lima Sur; brinda servicios de calidad a los ciudadanos y ciudadanas.</p>
 										<p style="text-align: justify;">Su personal es solidario, altamente calificado, competente, innovador e identificado con su institución y su ciudad. </p>
