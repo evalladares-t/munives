@@ -256,7 +256,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/base_legal_entidad.pdf" target="_blank"><i class="far fa-file-alt"></i></a>
+														<a href="../../resources/municipalidad/pdf/base_legal_entidad/base_legal_entidad.pdf" target="_blank"><i class="far fa-file-alt"></i></a>
 													</td>
 													<td style="text-align: center;">
 														Normatividad aplicable a la entidad
@@ -299,7 +299,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/PDLC2017-2021MVES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>
 														Plan de Desarrollo Local Concertado del 2017-2021
@@ -307,7 +307,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/Ordenanza347-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Municipal Nº 347-2016 que aprueba el Plan de Desarrollo Local Concertado del 2017-2021
@@ -315,7 +315,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																																
 														Norma Legal que aprueba el Plan de Desarrollo Local Concertado del 2017-2021
@@ -340,7 +340,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/planinver.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>
 														Plan concertado de Fomento de la Inversión Privada
@@ -348,7 +348,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/declainver.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Declaración de Iniciativa Privada
@@ -356,7 +356,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/proinver.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																																
 														Proyecto Económico y Comercial
@@ -385,7 +385,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2020G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -393,7 +393,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2020I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -416,7 +416,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2019G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -424,7 +424,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2019I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -447,7 +447,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2018G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -455,7 +455,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2018I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -478,7 +478,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2017G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -486,7 +486,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2017I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -509,7 +509,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2016G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -517,7 +517,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2016I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -573,7 +573,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/RAS/ordenanza363-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														RAS (Ordenanza Nº 363-2016)
@@ -581,7 +581,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/RAS/ordenanza385-2017.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														RAS (Ordenanza Nº 385-2017)
@@ -606,7 +606,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUSNE/res_alcaldia836-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Modificación de TUSNE (Carnet de Sanidad)
@@ -614,7 +614,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUSNE/res_alcaldia975-2015.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Texto Único de Servicios No Exclusivos (TUSNE)
@@ -639,7 +639,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUSNE/ordenanza419-2019.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														ROF
@@ -664,7 +664,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza406-2019.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Nº 406-MVES que aprueba la adecuación de los Procedimientos Administrativos de Licencia de Funcionamiento de la Subgerencia de Licencias, Autorizaciones e Inspecciones Técnicas de Seguridad en Edificaciones.
@@ -672,7 +672,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza394-2018.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Nº 394-MVES y Anexos N° 1.
@@ -680,7 +680,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza391-2018.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Nº 391-MVES que aprueba la Modificatoria del TUPA aprobado por la Ordenanza Nº 310-MVES.
@@ -688,7 +688,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUPA/alcaldia001-2017.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Decreto de Alcaldia Nº 001-2017-ALC/MVES que Aprueba la Actualización del porcentaje UIT 2017 (Derogado).
@@ -696,7 +696,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza360-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Nº 360-MVES que Modifica el TUPA aprobado por la Ordenanza Nº 310-2014-MVES (Derogado).
@@ -704,7 +704,7 @@
 												</tr>		
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUPA/alcaldia002-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Decreto de Alcaldia Nº 002-2016-ALC/MVES que Aprueba la Modificatoria del TUPA aprobado por la Ordenanza Nº 310-MVES (Derogado).
@@ -712,7 +712,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza310-2014.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Municipal Nº 310-2014-MVES que Aprueba el TUPA.
@@ -737,7 +737,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/CAP_Provisional/CAP_PROVISIONAL.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														CAP
@@ -762,7 +762,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Manual_Clasificacion_Cargo/Manual_CC.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Manual de Clasificación de Cargo
@@ -787,7 +787,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Estructura_Organizacional/ORGANIGRAMA_ORD_419-2019.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Estructura Organizacional
@@ -816,7 +816,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Estructura_Organizacional/MEMORIAINSTITUCIONAL2014MVES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2014</td>
 													<td>																
@@ -825,7 +825,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Estructura_Organizacional/MEMORIAINSTITUCIONAL2013MVES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2013</td>
 													<td>																
@@ -854,7 +854,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/Res_alcaldia136-2018.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2019</td>
 													<td>																
@@ -863,7 +863,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/Res_alcaldia059-2018.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2018</td>
 													<td>																
@@ -872,7 +872,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/Res_alcaldia230-2017.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2017</td>
 													<td>																
@@ -881,7 +881,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/POI2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2016</td>
 													<td>																
@@ -890,7 +890,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/POI2015.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2015</td>
 													<td>																
@@ -899,7 +899,7 @@
 												</tr>		
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/MEMORIAINSTITUCIONAL2014MVES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2014</td>
 													<td>																
@@ -908,7 +908,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/POI2013.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2013</td>
 													<td>																
@@ -943,7 +943,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20162T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														INFORME MONITOREO AL II TRIM POI 2016
@@ -951,7 +951,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20163T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														INFORME MONITOREO AL III TRIM POI 2016
@@ -959,7 +959,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="#" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														INFORME MONITOREO AL IV TRIM POI 2016
@@ -982,7 +982,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20151T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														INFORME MONITOREO AL I TRIM POI 2015
@@ -998,7 +998,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20153T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														INFORME MONITOREO AL III TRIM POI 2015
@@ -1006,7 +1006,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20154T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														INFORME MONITOREO AL IV TRIM POI 2015
@@ -1032,7 +1032,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/PMI2021_2023.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Diagnóstico de la situación de las brechas en el distrito(PMI 2021-2023)
@@ -1040,7 +1040,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/PMI2020_2022.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Diagnóstico de la situación de las brechas en el distrito(PMI 2020-2022)
