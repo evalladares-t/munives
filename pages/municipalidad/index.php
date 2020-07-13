@@ -369,7 +369,7 @@
 										<p style="text-align: justify;">Este es el primer paso que expresa una firme voluntad política para lograr la presencia de los medianos y grandes inversionistas privados de manera que participen en la creación de riqueza, empleo y contribuyan a crear y mejorar servicios e infraestructura local. Junto a este paso, la Municipalidad se apresta a establecer modificaciones en su estructura orgánica, su reglamento de organización y funciones, y a nivel de sus recursos humanos para que su misión ligada a la promoción del desarrollo integral de la comunidad pueda verse realizada de manera exitosa.</p>
 									</div>
 									<div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple8">
-										<h4 class="pb-4">Presupuesto Inicial de Apertura (PIA)</h4>
+										<h4 class="pb-4">Presupuesto Inicial de Apertura (PIA)</h4>									
 										<h5 style="text-align: center;" class="pt-3">PIA 2020</h5>
 										<table class="table table-striped">
 											<thead>
@@ -385,7 +385,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2020G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2020G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -393,7 +393,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2020I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2020I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -416,7 +416,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2019G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2019G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -424,7 +424,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2019I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2019I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -447,7 +447,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2018G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2018G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -455,7 +455,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2018I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2018I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -478,7 +478,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2017G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2017G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -486,7 +486,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2017I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2017I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -509,7 +509,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2016G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2016G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -517,7 +517,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/PromocionInversionPrivada/PIA2016I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2016I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -555,7 +555,7 @@
 													</td>
 												</tr>													
 											</tbody>
-										</table>
+										</table>								
 									</div>
 									<div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple9">
 										<h4 class="pb-4">Reglamento de Aplicación de Sanciones Administrativas (RAS)</h4>

@@ -18,25 +18,25 @@
 								<h4 class="mb-2">Gestión Municipal</h4>
 								<div class="row process my-5">
 									<div class="process-step col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-										<a href="trasnf_gestion_2018.php">
+										<a href="trasnf_gestion.php">
 											<div class="process-step-circle">
 												<strong class="process-step-circle-content"><i class="icons icon-user text-5 text-primary"></i></strong>
 											</div>
 										</a>									
 										<div class="process-step-content">
-											<a href="trasnf_gestion_2018.php"><h4 class="mb-1 text-5 font-weight-bold">TRANSFERENCIA DE GESTIÓN</h4></a>
+											<a href="trasnf_gestion.php"><h4 class="mb-1 text-5 font-weight-bold">TRANSFERENCIA DE GESTIÓN</h4></a>
 											<br>
 											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus nulla dui, in dapibus magna aliquam et.</p>
 										</div>
                                     </div>
                                     <div class="process-step col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-										<a href="">
+										<a href="trib_munic.php">
 											<div class="process-step-circle">
 												<strong class="process-step-circle-content"><i class="icons icon-user text-5 text-primary"></i></strong>
 											</div>
 										</a>
 										<div class="process-step-content">
-											<a href=""><h4 class="mb-1 text-5 font-weight-bold">TRIBUTOS MUNICIPALES</h4></a>
+											<a href="trib_munic.php"><h4 class="mb-1 text-5 font-weight-bold">TRIBUTOS MUNICIPALES</h4></a>
 											<br>
 											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus nulla dui, in dapibus magna aliquam et.</p>
 										</div>
