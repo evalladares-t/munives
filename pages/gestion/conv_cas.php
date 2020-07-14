@@ -138,7 +138,7 @@
                                                                             <a class="nav-link" href="#tabsconvcas2019" data-toggle="tab">Convocatoria CAS - 2019</a>
                                                                         </li>
                                                                         <li class="nav-item">
-                                                                            <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">Convocatoria CAS - 2018</a>
+                                                                            <a class="nav-link" href="#tabsconvcas2018" data-toggle="tab">Convocatoria CAS - 2018</a>
                                                                         </li>  
                                                                         <li class="nav-item">
                                                                             <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">Convocatoria CAS - 2017</a>
@@ -168,16 +168,14 @@
                                                                         <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
                                                                             <div class="header-nav-feature header-nav-features-search d-inline-flex">
                                                                                 <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">
-                                                                                    <form role="search" action="page-search-results.html" method="get">
-                                                                                        <div class="simple-search input-group">
-                                                                                            <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                            <span class="input-group-append">
-                                                                                                <button class="btn" type="submit">
-                                                                                                    <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                                </button>
-                                                                                            </span>
-                                                                                        </div>
-                                                                                    </form>
+                                                                                    <div class="simple-search input-group">
+                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
+                                                                                        <span class="input-group-append">
+                                                                                            <button class="btn" type="submit">
+                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
+                                                                                            </button>
+                                                                                        </span>
+                                                                                    </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -194,16 +192,14 @@
                                                                         <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
                                                                             <div class="header-nav-feature header-nav-features-search d-inline-flex">
                                                                                 <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">
-                                                                                    <form role="search" action="page-search-results.html" method="get">
-                                                                                        <div class="simple-search input-group">
-                                                                                            <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                            <span class="input-group-append">
-                                                                                                <button class="btn" type="submit">
-                                                                                                    <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                                </button>
-                                                                                            </span>
-                                                                                        </div>
-                                                                                    </form>
+                                                                                    <div class="simple-search input-group">
+                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
+                                                                                        <span class="input-group-append">
+                                                                                            <button class="btn" type="submit">
+                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
+                                                                                            </button>
+                                                                                        </span>
+                                                                                    </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -214,11 +210,28 @@
                                                                         ?>
                                                                     </div>
                                                                 </div>
-                                                                <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple3">                                        
-                                                                    <div class="col pb-3">
-                                                                        <h4 class="pb-4 mt-4">FORMATO PARA LA INSCRIPCIÓN</h4>
-                                                                        <br>
-                                                                        <a href="#"><p>Descargar Formulario de Inscripción</p></a>
+                                                                <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2018">                                        
+                                                                    <div class="row">
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2018</h4>
+                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
+                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
+                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
+                                                                                    <div class="simple-search input-group">
+                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
+                                                                                        <span class="input-group-append">
+                                                                                            <button class="btn" type="submit">
+                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
+                                                                                            </button>
+                                                                                        </span>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
+                                                                        <?php
+                                                                            include 'tables/tab_cas2018.html'
+                                                                        ?>
                                                                     </div>
                                                                 </div>
                                                             </div>
