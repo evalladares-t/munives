@@ -44,7 +44,7 @@
                                     <div class="process-step col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
 										<a href="conv_cas.php">
 											<div class="process-step-circle">
-												<strong class="process-step-circle-content"><i class="icons icon-user text-5 text-primary"></i></strong>
+												<strong class="process-step-circle-content"><i class="icons icon-layers text-5 text-primary"></i></strong>
 											</div>
 										</a>
 										<div class="process-step-content">

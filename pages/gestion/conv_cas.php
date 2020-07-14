@@ -132,10 +132,10 @@
                                                                 <div class="tabs tabs-vertical tabs-right tabs-navigation tabs-navigation-simple">
                                                                     <ul class="nav nav-tabs col-sm-3">
                                                                         <li class="nav-item active">
-                                                                            <a class="nav-link" href="#tabsNavigationVertSimple1" data-toggle="tab">Convocatoria CAS - 2020</a>
+                                                                            <a class="nav-link" href="#tabsconvcas2020" data-toggle="tab">Convocatoria CAS - 2020</a>
                                                                         </li>
                                                                         <li class="nav-item">
-                                                                            <a class="nav-link" href="#tabsNavigationVertSimple2" data-toggle="tab">Convocatoria CAS - 2019</a>
+                                                                            <a class="nav-link" href="#tabsconvcas2019" data-toggle="tab">Convocatoria CAS - 2019</a>
                                                                         </li>
                                                                         <li class="nav-item">
                                                                             <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">Convocatoria CAS - 2018</a>
@@ -162,20 +162,56 @@
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-8">
-                                                                <div class="tab-pane tab-pane-navigation active mt-4" id="tabsNavigationVertSimple1">                                            
-                                                                    <h4 style="text-align:justify">CONVOCATORIA CAS - 2020</h4>
-                                                                    <div class="col-lg-8" style="margin-left:18%">
+                                                                <div class="tab-pane tab-pane-navigation active mt-4" id="tabsconvcas2020">                                            
+                                                                    <div class="row">
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2020</h4>
+                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
+                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
+                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">
+                                                                                    <form role="search" action="page-search-results.html" method="get">
+                                                                                        <div class="simple-search input-group">
+                                                                                            <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
+                                                                                            <span class="input-group-append">
+                                                                                                <button class="btn" type="submit">
+                                                                                                    <i class="fa fa-search header-nav-top-icon"></i>
+                                                                                                </button>
+                                                                                            </span>
+                                                                                        </div>
+                                                                                    </form>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
                                                                         <?php
                                                                             include 'tables/tab_cas2020.html'
                                                                         ?>
                                                                     </div>
                                                                 </div>
-                                                                <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple2">                                        
-                                                                    <div class="col pb-2">
-                                                                        <h4 class="mt-4">PROCESO DE INSCRIPCION</h4>
-                                                                        <br>
-                                                                        <p style="text-align:justify;">Los postulantes deben tener presente lo siguiente: </p>
-                                                                        <p style="text-align:justify;">La Contratación Administrativa de Servicios (CAS) es una modalidad diferente a la Contratación Laboral Directa (regida por el Decreto Legislativo 276 y el Decreto Legislativo 728). Antes de inscribirse para participar en un proceso de selección, los postulantes deben verificar que cumplen todos los requisitos establecidos en el Aviso de Convocatoria.</p>
+                                                                <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2019">                                        
+                                                                    <div class="row">
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2019</h4>
+                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
+                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
+                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">
+                                                                                    <form role="search" action="page-search-results.html" method="get">
+                                                                                        <div class="simple-search input-group">
+                                                                                            <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
+                                                                                            <span class="input-group-append">
+                                                                                                <button class="btn" type="submit">
+                                                                                                    <i class="fa fa-search header-nav-top-icon"></i>
+                                                                                                </button>
+                                                                                            </span>
+                                                                                        </div>
+                                                                                    </form>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
+                                                                        <?php
+                                                                            include 'tables/tab_cas2019.html'
+                                                                        ?>
                                                                     </div>
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple3">                                        
