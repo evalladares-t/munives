@@ -6,6 +6,10 @@
 		?>
 		
 	<body>
+        <?php
+            $src_modal=array("../../img/modal/popup_cas.jpg");
+            include '../constant/modal-web.php';
+        ?>
         <div class="body">
 			<?php
     			include '../constant/header-web.php';
@@ -141,7 +145,7 @@
                                                                             <a class="nav-link" href="#tabsconvcas2018" data-toggle="tab">Convocatoria CAS - 2018</a>
                                                                         </li>  
                                                                         <li class="nav-item">
-                                                                            <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">Convocatoria CAS - 2017</a>
+                                                                            <a class="nav-link" href="#tabsconvcas2017" data-toggle="tab">Convocatoria CAS - 2017</a>
                                                                         </li> 
                                                                         <li class="nav-item">
                                                                             <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">Convocatoria CAS - 2016</a>
@@ -234,6 +238,30 @@
                                                                         ?>
                                                                     </div>
                                                                 </div>
+                                                                <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2017">                                        
+                                                                    <div class="row">
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2017</h4>
+                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
+                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
+                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
+                                                                                    <div class="simple-search input-group">
+                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
+                                                                                        <span class="input-group-append">
+                                                                                            <button class="btn" type="submit">
+                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
+                                                                                            </button>
+                                                                                        </span>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
+                                                                        <?php
+                                                                            include 'tables/tab_cas2017.html'
+                                                                        ?>
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -255,7 +283,12 @@
         </div>
 		<?php
     		include '../constant/scripts-web.php';
-    	?>
+        ?>
+        <script>
+            $(document).ready(function() {
+                $('#defaultModal').modal('toggle')
+            });
+		</script>
 	</body>
 </html>
         

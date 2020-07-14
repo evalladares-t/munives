@@ -75,6 +75,7 @@
 	<body>
 
 	<?php
+		$src_modal=array("img/modal/popup_licencias.jpg","img/modal/popup_amnistia07_20.jpg");
 		include 'pages/constant/modal-web.php';
 	?>
 		<div class="body">
@@ -994,13 +995,11 @@
 		<script src="js/examples/examples.carousels.js"></script>
 
 		<script>
-
 		$(document).ready(function() {
     		$('#defaultModal').modal('toggle')
 		});
 		</script>
-		
-		 
+				 
 		<script>
 			$(document).ready(function () {
 
