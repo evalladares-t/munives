@@ -164,8 +164,12 @@
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-8">
-                                                                <div class="tab-pane tab-pane-navigation active mt-4" id="tabsconvcas2020">                                            
-                                                                    <div class="row">
+                                                                <div class="tab-pane tab-pane-navigation active mt-4" id="tabsconvcas2020">      
+                                                                    <?php
+                                                                        //include 'tables/tab_cas2020.html'
+                                                                        include 'tables/tab_casgen.php'
+                                                                    ?>                                      
+                                                                    <!--<div class="row">
                                                                         <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2020</h4>
                                                                         <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
                                                                             <div class="header-nav-feature header-nav-features-search d-inline-flex">
@@ -181,12 +185,8 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div>
-                                                                    <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
-                                                                        <?php
-                                                                            include 'tables/tab_cas2020.html'
-                                                                        ?>
-                                                                    </div>
+                                                                    </div>-->
+                                                                    
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2019">                                        
                                                                     <div class="row">
