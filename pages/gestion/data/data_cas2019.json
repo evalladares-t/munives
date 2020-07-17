@@ -1,0 +1,781 @@
+{
+    "ano": "2019",
+    "data": [
+        {
+            "id": 340,
+            "name": "Convocatoria Nº 340 - 2019",
+            "convocatoria": "noviembre/CONV.340.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 340-19.pdf",
+            "resultado": null,
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 339,
+            "name": "Convocatoria Nº 339 - 2019",
+            "convocatoria": "noviembre/CONV.339.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 339-19.pdf",
+            "resultado": "noviembre/resul. 339-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 338,
+            "name": "Convocatoria Nº 338 - 2019",
+            "convocatoria": "noviembre/CONV.338.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 338-19.pdf",
+            "resultado": "noviembre/resul. 338-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 337,
+            "name": "Convocatoria Nº 337 - 2019",
+            "convocatoria": "noviembre/CONV.337.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 337-19.pdf",
+            "resultado": "noviembre/resul. 337-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 336,
+            "name": "Convocatoria Nº 336 - 2019",
+            "convocatoria": "noviembre/CONV.336.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 336-19.pdf",
+            "resultado": "noviembre/resul. 336-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 335,
+            "name": "Convocatoria Nº 335 - 2019",
+            "convocatoria": "noviembre/CONV.335.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 335-19.pdf",
+            "resultado": "noviembre/resul. 335-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 334,
+            "name": "Convocatoria Nº 334 - 2019",
+            "convocatoria": "noviembre/CONV.334.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 337-19.pdf",
+            "resultado": "noviembre/resul. 334-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 333,
+            "name": "Convocatoria Nº 333 - 2019",
+            "convocatoria": "noviembre/CONV.333.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 333-19.pdf",
+            "resultado": "noviembre/resul. 333-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 332,
+            "name": "Convocatoria Nº 332 - 2019",
+            "convocatoria": "noviembre/CONV.332.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 332-19.pdf",
+            "resultado": "noviembre/resul. 332-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 331,
+            "name": "Convocatoria Nº 331 - 2019",
+            "convocatoria": "noviembre/CONV.331.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 331-19.pdf",
+            "resultado": "noviembre/resul. 331-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 330,
+            "name": "Convocatoria Nº 330 - 2019",
+            "convocatoria": "noviembre/CONV.330.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 330-19.pdf",
+            "resultado": "noviembre/resul. 330-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 329,
+            "name": "Convocatoria Nº 329 - 2019",
+            "convocatoria": "noviembre/CONV.329.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 329-19.pdf",
+            "resultado": "noviembre/resul. 329-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": "noviembre/FE DE ERRATA 329-19.pdf"
+                }
+            ]
+        },
+        {
+            "id": 328,
+            "name": "Convocatoria Nº 328 - 2019",
+            "convocatoria": "noviembre/CONV.328.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eval. 328-19.pdf",
+            "resultado": "noviembre/resul. 328-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 327,
+            "name": "Convocatoria Nº 327 - 2019",
+            "convocatoria": "noviembre/CONV.327.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 327-19.pdf",
+            "resultado": "noviembre/resul. 327-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 326,
+            "name": "Convocatoria Nº 326 - 2019",
+            "convocatoria": "noviembre/CONV.326.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 326-19.pdf",
+            "resultado": "noviembre/resul. 326-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 325,
+            "name": "Convocatoria Nº 325 - 2019",
+            "convocatoria": "noviembre/CONV.325.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 325-19.pdf",
+            "resultado": "noviembre/resul. 325-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 324,
+            "name": "Convocatoria Nº 324 - 2019",
+            "convocatoria": "noviembre/CONV.324.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 324-19.pdf",
+            "resultado": "noviembre/resul. 324-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 323,
+            "name": "Convocatoria Nº 323 - 2019",
+            "convocatoria": "noviembre/CONV.323.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 323-19.pdf",
+            "resultado": "noviembre/resul. 323-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 322,
+            "name": "Convocatoria Nº 322 - 2019",
+            "convocatoria": "noviembre/CONV.322.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 322-19.pdf",
+            "resultado": "noviembre/resul. 322-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 321,
+            "name": "Convocatoria Nº 321 - 2019",
+            "convocatoria": "noviembre/CONV.321.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 321-19.pdf",
+            "resultado": "noviembre/resul. 321-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 320,
+            "name": "Convocatoria Nº 320 - 2019",
+            "convocatoria": "noviembre/CONV.320.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 320-19.pdf",
+            "resultado": "noviembre/resul. 320-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 319,
+            "name": "Convocatoria Nº 319 - 2019",
+            "convocatoria": "noviembre/CONV.319.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 319-19.pdf",
+            "resultado": "noviembre/resul. 319-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 318,
+            "name": "Convocatoria Nº 318 - 2019",
+            "convocatoria": "noviembre/CONV.318.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 318-19.pdf",
+            "resultado": "noviembre/resul. 318-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 317,
+            "name": "Convocatoria Nº 317 - 2019",
+            "convocatoria": "noviembre/CONV.317.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 317-19.pdf",
+            "resultado": "noviembre/resul. 317-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 316,
+            "name": "Convocatoria Nº 316 - 2019",
+            "convocatoria": "noviembre/CONV.316.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 316-19.pdf",
+            "resultado": "noviembre/resul. 316-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 315,
+            "name": "Convocatoria Nº 315 - 2019",
+            "convocatoria": "noviembre/CONV.315.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 315-19.pdf",
+            "resultado": "noviembre/resul. 315-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 314,
+            "name": "Convocatoria Nº 314 - 2019",
+            "convocatoria": "noviembre/CONV.314.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eva.curri 314-19.pdf",
+            "resultado": "noviembre/resul. 314-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 313,
+            "name": "Convocatoria Nº 313 - 2019",
+            "convocatoria": "octubre/CONV.313-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 313-19.pdf",
+            "resultado": "octubre/resul. 313-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 312,
+            "name": "Convocatoria Nº 312 - 2019",
+            "convocatoria": "octubre/CONV.312-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 312-19.pdf",
+            "resultado": "octubre/resul. 312-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 311,
+            "name": "Convocatoria Nº 311 - 2019",
+            "convocatoria": "octubre/CONV.311-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 311-19.pdf",
+            "resultado": "octubre/resul. 311-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 310,
+            "name": "Convocatoria Nº 310 - 2019",
+            "convocatoria": "octubre/CONV.310-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 310-19.pdf",
+            "resultado": "octubre/resul. 310-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 309,
+            "name": "Convocatoria Nº 309 - 2019",
+            "convocatoria": "octubre/CONV.309-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 309-19.pdf",
+            "resultado": "octubre/resul. 309-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 308,
+            "name": "Convocatoria Nº 308 - 2019",
+            "convocatoria": "octubre/CONV.308-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 308-19.pdf",
+            "resultado": "octubre/resul. 308-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 307,
+            "name": "Convocatoria Nº 307 - 2019",
+            "convocatoria": "octubre/CONV.307-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 307-19.pdf",
+            "resultado": "octubre/resul. 307-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 306,
+            "name": "Convocatoria Nº 306 - 2019",
+            "convocatoria": "octubre/CONV.306-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 306-19.pdf",
+            "resultado": "octubre/resul. 306-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 305,
+            "name": "Convocatoria Nº 305 - 2019",
+            "convocatoria": "octubre/CONV.305-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 305-19.pdf",
+            "resultado": "octubre/resul. 305-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 304,
+            "name": "Convocatoria Nº 304 - 2019",
+            "convocatoria": "octubre/CONV.304-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 304-19.pdf",
+            "resultado": "octubre/resul. 304-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 303,
+            "name": "Convocatoria Nº 303 - 2019",
+            "convocatoria": "octubre/CONV.303-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 303-19.pdf",
+            "resultado": "octubre/resul. 303-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 302,
+            "name": "Convocatoria Nº 302 - 2019",
+            "convocatoria": "octubre/CONV.302-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 302-19.pdf",
+            "resultado": "octubre/resul. 302-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 301,
+            "name": "Convocatoria Nº 301 - 2019",
+            "convocatoria": "octubre/CONV.301-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 301-19.pdf",
+            "resultado": "octubre/resul. 301-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 300,
+            "name": "Convocatoria Nº 300 - 2019",
+            "convocatoria": "octubre/CONV.300-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 300-19.pdf",
+            "resultado": "octubre/resul. 300-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 299,
+            "name": "Convocatoria Nº 299 - 2019",
+            "convocatoria": "octubre/CONV.299-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 299-19.pdf",
+            "resultado": "octubre/resul. 299-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },
+        {
+            "id": 298,
+            "name": "Convocatoria Nº 298 - 2019",
+            "convocatoria": "octubre/CONV.298-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 298-19.pdf",
+            "resultado": "octubre/resul. 298-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 297,
+            "name": "Convocatoria Nº 297 - 2019",
+            "convocatoria": "octubre/CONV.297-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 297-19.pdf",
+            "resultado": "octubre/resul. 297-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 296,
+            "name": "Convocatoria Nº 296 - 2019",
+            "convocatoria": "octubre/CONV.296-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 296-19.pdf",
+            "resultado": "octubre/resul. 296-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 295,
+            "name": "Convocatoria Nº 295 - 2019",
+            "convocatoria": "octubre/CONV.295-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 295-19.pdf",
+            "resultado": "octubre/resul. 295-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 294,
+            "name": "Convocatoria Nº 294 - 2019",
+            "convocatoria": "octubre/CONV.294-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 294-19.pdf",
+            "resultado": "octubre/resul. 294-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 293,
+            "name": "Convocatoria Nº 293 - 2019",
+            "convocatoria": "octubre/CONV.293-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 293-19.pdf",
+            "resultado": "octubre/resul. 293-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 292,
+            "name": "Convocatoria Nº 292 - 2019",
+            "convocatoria": "octubre/CONV.292-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 292-19.pdf",
+            "resultado": "octubre/resul. 292-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 291,
+            "name": "Convocatoria Nº 291 - 2019",
+            "convocatoria": "octubre/CONV.291-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 291-19.pdf",
+            "resultado": "octubre/resul. 291-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 290,
+            "name": "Convocatoria Nº 290 - 2019",
+            "convocatoria": "octubre/CONV.290-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 290-19.pdf",
+            "resultado": "octubre/resul. 290-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 289,
+            "name": "Convocatoria Nº 289 - 2019",
+            "convocatoria": "octubre/CONV.289-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 289-19.pdf",
+            "resultado": "octubre/resul. 289-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 288,
+            "name": "Convocatoria Nº 288 - 2019",
+            "convocatoria": "octubre/CONV.288-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 288-19.pdf",
+            "resultado": "octubre/resul. 288-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 287,
+            "name": "Convocatoria Nº 287 - 2019",
+            "convocatoria": "octubre/CONV.287-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 287-19.pdf",
+            "resultado": "octubre/resul. 287-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 286,
+            "name": "Convocatoria Nº 286 - 2019",
+            "convocatoria": "octubre/CONV.286-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 286-19.pdf",
+            "resultado": "octubre/resul. 286-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 285,
+            "name": "Convocatoria Nº 285 - 2019",
+            "convocatoria": "octubre/CONV.285-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eva.curri 285-19.pdf",
+            "resultado": "octubre/resul. 285-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 284,
+            "name": "Convocatoria Nº 284 - 2019",
+            "convocatoria": "setiembre/CONV.284-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eva.curri 284-19.pdf",
+            "resultado": "setiembre/resul. 284-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": "setiembre/FE DE ERRATA 284-19.pdf"
+                }
+            ]
+        },{
+            "id": 283,
+            "name": "Convocatoria Nº 283 - 2019",
+            "convocatoria": "setiembre/CONV.283-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eva.curri 283-19.pdf",
+            "resultado": "setiembre/resul. 283-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": "/setiembre/FE DE ERRATA 283-19.pdf"
+                }
+            ]
+        },{
+            "id": 282,
+            "name": "Convocatoria Nº 282 - 2019",
+            "convocatoria": "setiembre/CONV.282-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eva.curri 282-19.pdf",
+            "resultado": "setiembre/resul. 282-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": "setiembre/FE DE ERRATA 282-19.pdf"
+                }
+            ]
+        },{
+            "id": 281,
+            "name": "Convocatoria Nº 281 - 2019",
+            "convocatoria": "agosto/CONV.281-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eva.curri 281-19.pdf",
+            "resultado": "setiembre/resul. 281-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 280,
+            "name": "Convocatoria Nº 280 - 2019",
+            "convocatoria": "agosto/CONV.280-19.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eva.curri 280-19.pdf",
+            "resultado": "setiembre/resul. 280-19.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        }
+        
+    ]
+}

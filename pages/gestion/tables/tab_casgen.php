@@ -1,8 +1,29 @@
   
     
 <?php
-    $data = file_get_contents("data/data_cas2020.json");
-    $convocatorias = json_decode($data, true);
+    
+    switch($ano) {
+        case "2020":
+            $data = file_get_contents("data/data_cas2020.json");
+            $convocatorias = json_decode($data, true);   
+        break;
+        case "2019":
+            $data = file_get_contents("data/data_cas2019.json");
+            $convocatorias = json_decode($data, true);   
+        break;
+        case "2018":
+            $data = file_get_contents("data/data_cas2018.json");
+            $convocatorias = json_decode($data, true);   
+        break;
+        case "2017":
+            $data = file_get_contents("data/data_cas2017.json");
+            $convocatorias = json_decode($data, true);   
+        break;
+        case "2016":
+            $data = file_get_contents("data/data_cas2016.json");
+            $convocatorias = json_decode($data, true);   
+        break;
+    }
 ?>
 
     <div class="row">
