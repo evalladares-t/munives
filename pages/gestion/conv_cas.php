@@ -365,13 +365,19 @@
     		include '../constant/scripts-web.php';
         ?>
         <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.21/i18n/Spanish.json"></script>
         <?php
             for($i=2012;$i<2021;$i++){		
         ?>
             <script>
                 // Write on keyup event of keyword input element
+                ////cdn.datatables.net/plug-ins/1.10.21/i18n/Spanish.json
                 $(document).ready( function () {
-                    $('#table<?php print_r($i) ?>').DataTable();
+                    $('#table<?php print_r($i) ?>').DataTable({
+                        "language": {
+                            "sUrl":"//cdn.datatables.net/plug-ins/1.10.21/i18n/Spanish.json",
+                        }
+                    });
                 } );
             </script>
         <?php } ?>

@@ -824,18 +824,6 @@
                 }
             ]
         },{
-            "id": 276,
-            "name": "Convocatoria Nº 276 - 2019",
-            "convocatoria": "setiembre/conv/conv.276-19.pdf",
-            "comunicado": null,
-            "eval_curricular": "setiembre/eval/eval.276-19.pdf",
-            "resultado": "setiembre/resul/resul.276-19.pdf",
-            "fe_errata": [
-                {
-                    "fe_errata_enl": null
-                }
-            ]
-        },{
             "id": 275,
             "name": "Convocatoria Nº 275 - 2019",
             "convocatoria": "setiembre/conv/conv.275-19.pdf",

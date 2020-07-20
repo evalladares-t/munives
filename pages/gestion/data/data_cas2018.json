@@ -3,11 +3,2339 @@
     "data": [
         {
             "id": 195,
-            "name": "Convocatoria Nº 195 - 2019",
-            "convocatoria": "noviembre/conv/conv.195-19.pdf",
-            "comunicado": null,
-            "eval_curricular": "noviembre/eval/eval.340-19.pdf",
+            "name": "Convocatoria Nº 195 - 2018",
+            "convocatoria": "noviembre/conv/conv.195-18.pdf",
+            "comunicado": "noviembre/com/com.195-18.pdf",
+            "eval_curricular": null,
             "resultado": null,
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 194,
+            "name": "Convocatoria Nº 194 - 2018",
+            "convocatoria": "noviembre/conv/conv.194-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eval/eval.194-18.pdf",
+            "resultado": "noviembre/resul/resul.194-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 193,
+            "name": "Convocatoria Nº 193 - 2018",
+            "convocatoria": "noviembre/conv/conv.193-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "noviembre/eval/eval.193-18.pdf",
+            "resultado": "noviembre/resul/resul.193-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 192,
+            "name": "Convocatoria Nº 192 - 2018",
+            "convocatoria": "octubre/conv/conv.192-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.192-18.pdf",
+            "resultado": "octubre/resul/resul.192-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 191,
+            "name": "Convocatoria Nº 191 - 2018",
+            "convocatoria": "octubre/conv/conv.191-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.191-18.pdf",
+            "resultado": "octubre/resul/resul.191-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 190,
+            "name": "Convocatoria Nº 190 - 2018",
+            "convocatoria": "octubre/conv/conv.190-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.190-18.pdf",
+            "resultado": "octubre/resul/resul.190-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 189,
+            "name": "Convocatoria Nº 189 - 2018",
+            "convocatoria": "octubre/conv/conv.189-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.189-18.pdf",
+            "resultado": "octubre/resul/resul.189-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 188,
+            "name": "Convocatoria Nº 188 - 2018",
+            "convocatoria": "octubre/conv/conv.188-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.188-18.pdf",
+            "resultado": "octubre/resul/resul.188-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 187,
+            "name": "Convocatoria Nº 187 - 2018",
+            "convocatoria": "octubre/conv/conv.187-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.187-18.pdf",
+            "resultado": "octubre/resul/resul.187-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 186,
+            "name": "Convocatoria Nº 186 - 2018",
+            "convocatoria": "octubre/conv/conv.186-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.186-18.pdf",
+            "resultado": "octubre/resul/resul.186-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 185,
+            "name": "Convocatoria Nº 185 - 2018",
+            "convocatoria": "octubre/conv/conv.185-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.185-18.pdf",
+            "resultado": "octubre/resul/resul.185-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 184,
+            "name": "Convocatoria Nº 184 - 2018",
+            "convocatoria": "octubre/conv/conv.184-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.184-18.pdf",
+            "resultado": "octubre/resul/resul.184-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 183,
+            "name": "Convocatoria Nº 183 - 2018",
+            "convocatoria": "octubre/conv/conv.183-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.183-18.pdf",
+            "resultado": "octubre/resul/resul.183-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 182,
+            "name": "Convocatoria Nº 182 - 2018",
+            "convocatoria": "octubre/conv/conv.182-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.182-18.pdf",
+            "resultado": "octubre/resul/resul.182-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 181,
+            "name": "Convocatoria Nº 181 - 2018",
+            "convocatoria": "octubre/conv/conv.181-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.181-18.pdf",
+            "resultado": "octubre/resul/resul.181-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 180,
+            "name": "Convocatoria Nº 180 - 2018",
+            "convocatoria": "octubre/conv/conv.180-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.180-18.pdf",
+            "resultado": "octubre/resul/resul.180-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 179,
+            "name": "Convocatoria Nº 179 - 2018",
+            "convocatoria": "octubre/conv/conv.179-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.179-18.pdf",
+            "resultado": "octubre/resul/resul.179-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 178,
+            "name": "Convocatoria Nº 178 - 2018",
+            "convocatoria": "octubre/conv/conv.178-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "octubre/eval/eval.178-18.pdf",
+            "resultado": "octubre/resul/resul.178-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 177,
+            "name": "Convocatoria Nº 177 - 2018",
+            "convocatoria": "setiembre/conv/conv.177-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.177-18.pdf",
+            "resultado": "setiembre/resul/resul.177-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 176,
+            "name": "Convocatoria Nº 176 - 2018",
+            "convocatoria": "setiembre/conv/conv.176-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.176-18.pdf",
+            "resultado": "setiembre/resul/resul.176-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 175,
+            "name": "Convocatoria Nº 175 - 2018",
+            "convocatoria": "setiembre/conv/conv.175-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.175-18.pdf",
+            "resultado": "setiembre/resul/resul.175-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 174,
+            "name": "Convocatoria Nº 174 - 2018",
+            "convocatoria": "setiembre/conv/conv.174-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.174-18.pdf",
+            "resultado": "setiembre/resul/resul.174-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 173,
+            "name": "Convocatoria Nº 173 - 2018",
+            "convocatoria": "setiembre/conv/conv.173-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.173-18.pdf",
+            "resultado": "setiembre/resul/resul.173-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 172,
+            "name": "Convocatoria Nº 172 - 2018",
+            "convocatoria": "setiembre/conv/conv.172-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.172-18.pdf",
+            "resultado": "setiembre/resul/resul.172-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 171,
+            "name": "Convocatoria Nº 171 - 2018",
+            "convocatoria": "setiembre/conv/conv.171-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.171-18.pdf",
+            "resultado": "setiembre/resul/resul.171-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 170,
+            "name": "Convocatoria Nº 170 - 2018",
+            "convocatoria": "setiembre/conv/conv.170-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.170-18.pdf",
+            "resultado": "setiembre/resul/resul.170-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 169,
+            "name": "Convocatoria Nº 169 - 2018",
+            "convocatoria": "setiembre/conv/conv.169-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.169-18.pdf",
+            "resultado": "setiembre/resul/resul.169-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 168,
+            "name": "Convocatoria Nº 168 - 2018",
+            "convocatoria": "setiembre/conv/conv.168-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.168-18.pdf",
+            "resultado": "setiembre/resul/resul.168-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 167,
+            "name": "Convocatoria Nº 167 - 2018",
+            "convocatoria": "setiembre/conv/conv.167-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.167-18.pdf",
+            "resultado": "setiembre/resul/resul.167-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 166,
+            "name": "Convocatoria Nº 166 - 2018",
+            "convocatoria": "setiembre/conv/conv.166-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.166-18.pdf",
+            "resultado": "setiembre/resul/resul.166-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 165,
+            "name": "Convocatoria Nº 165 - 2018",
+            "convocatoria": "setiembre/conv/conv.165-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "setiembre/eval/eval.165-18.pdf",
+            "resultado": "setiembre/resul/resul.165-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 164,
+            "name": "Convocatoria Nº 164 - 2018",
+            "convocatoria": "agosto/conv/conv.164-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.164-18.pdf",
+            "resultado": "agosto/resul/resul.164-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 163,
+            "name": "Convocatoria Nº 163 - 2018",
+            "convocatoria": "agosto/conv/conv.163-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.163-18.pdf",
+            "resultado": "agosto/resul/resul.163-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 162,
+            "name": "Convocatoria Nº 162 - 2018",
+            "convocatoria": "agosto/conv/conv.162-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.162-18.pdf",
+            "resultado": "agosto/resul/resul.162-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 161,
+            "name": "Convocatoria Nº 161 - 2018",
+            "convocatoria": "agosto/conv/conv.161-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.161-18.pdf",
+            "resultado": "agosto/resul/resul.161-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 160,
+            "name": "Convocatoria Nº 160 - 2018",
+            "convocatoria": "agosto/conv/conv.160-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.160-18.pdf",
+            "resultado": "agosto/resul/resul.160-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 159,
+            "name": "Convocatoria Nº 159 - 2018",
+            "convocatoria": "agosto/conv/conv.159-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.159-18.pdf",
+            "resultado": "agosto/resul/resul.159-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 158,
+            "name": "Convocatoria Nº 158 - 2018",
+            "convocatoria": "agosto/conv/conv.158-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.158-18.pdf",
+            "resultado": "agosto/resul/resul.158-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 157,
+            "name": "Convocatoria Nº 157 - 2018",
+            "convocatoria": "agosto/conv/conv.157-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.157-18.pdf",
+            "resultado": "agosto/resul/resul.157-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 156,
+            "name": "Convocatoria Nº 156 - 2018",
+            "convocatoria": "agosto/conv/conv.156-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.156-18.pdf",
+            "resultado": "agosto/resul/resul.156-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 155,
+            "name": "Convocatoria Nº 155 - 2018",
+            "convocatoria": "agosto/conv/conv.155-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.155-18.pdf",
+            "resultado": "agosto/resul/resul.155-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 154,
+            "name": "Convocatoria Nº 154 - 2018",
+            "convocatoria": "agosto/conv/conv.154-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "agosto/eval/eval.154-18.pdf",
+            "resultado": "agosto/resul/resul.154-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 153,
+            "name": "Convocatoria Nº 153 - 2018",
+            "convocatoria": "julio/conv/conv.153-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.153-18.pdf",
+            "resultado": "julio/resul/resul.153-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 152,
+            "name": "Convocatoria Nº 152 - 2018",
+            "convocatoria": "julio/conv/conv.152-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.152-18.pdf",
+            "resultado": "julio/resul/resul.152-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 151,
+            "name": "Convocatoria Nº 151 - 2018",
+            "convocatoria": "julio/conv/conv.151-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.151-18.pdf",
+            "resultado": "julio/resul/resul.151-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 150,
+            "name": "Convocatoria Nº 150 - 2018",
+            "convocatoria": "julio/conv/conv.150-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.150-18.pdf",
+            "resultado": "julio/resul/resul.150-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 149,
+            "name": "Convocatoria Nº 149 - 2018",
+            "convocatoria": "julio/conv/conv.149-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.149-18.pdf",
+            "resultado": "julio/resul/resul.149-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 148,
+            "name": "Convocatoria Nº 148 - 2018",
+            "convocatoria": "julio/conv/conv.148-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.148-18.pdf",
+            "resultado": "julio/resul/resul.148-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 147,
+            "name": "Convocatoria Nº 147 - 2018",
+            "convocatoria": "julio/conv/conv.147-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.147-18.pdf",
+            "resultado": "julio/resul/resul.147-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": "julio/feerrata/feerrata.147-18.pdf"
+                }
+            ]
+        },{
+            "id": 146,
+            "name": "Convocatoria Nº 146 - 2018",
+            "convocatoria": "julio/conv/conv.146-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.146-18.pdf",
+            "resultado": "julio/resul/resul.146-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 145,
+            "name": "Convocatoria Nº 145 - 2018",
+            "convocatoria": "julio/conv/conv.145-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.145-18.pdf",
+            "resultado": "julio/resul/resul.145-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 144,
+            "name": "Convocatoria Nº 144 - 2018",
+            "convocatoria": "julio/conv/conv.144-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.144-18.pdf",
+            "resultado": "julio/resul/resul.144-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 143,
+            "name": "Convocatoria Nº 143 - 2018",
+            "convocatoria": "julio/conv/conv.143-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.143-18.pdf",
+            "resultado": "julio/resul/resul.143-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 142,
+            "name": "Convocatoria Nº 142 - 2018",
+            "convocatoria": "julio/conv/conv.142-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.142-18.pdf",
+            "resultado": "julio/resul/resul.142-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 141,
+            "name": "Convocatoria Nº 141 - 2018",
+            "convocatoria": "julio/conv/conv.141-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.141-18.pdf",
+            "resultado": "julio/resul/resul.141-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 140,
+            "name": "Convocatoria Nº 140 - 2018",
+            "convocatoria": "julio/conv/conv.140-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.140-18.pdf",
+            "resultado": "julio/resul/resul.140-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 139,
+            "name": "Convocatoria Nº 139 - 2018",
+            "convocatoria": "julio/conv/conv.139-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "julio/eval/eval.139-18.pdf",
+            "resultado": "julio/resul/resul.139-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 138,
+            "name": "Convocatoria Nº 138 - 2018",
+            "convocatoria": "junio/conv/conv.138-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.138-18.pdf",
+            "resultado": "junio/resul/resul.138-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 137,
+            "name": "Convocatoria Nº 137 - 2018",
+            "convocatoria": "junio/conv/conv.137-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.137-18.pdf",
+            "resultado": "junio/resul/resul.137-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 136,
+            "name": "Convocatoria Nº 136 - 2018",
+            "convocatoria": "junio/conv/conv.136-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.136-18.pdf",
+            "resultado": "junio/resul/resul.136-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 135,
+            "name": "Convocatoria Nº 135 - 2018",
+            "convocatoria": "junio/conv/conv.135-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.135-18.pdf",
+            "resultado": "junio/resul/resul.135-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 134,
+            "name": "Convocatoria Nº 134 - 2018",
+            "convocatoria": "junio/conv/conv.134-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.134-18.pdf",
+            "resultado": "junio/resul/resul.134-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 133,
+            "name": "Convocatoria Nº 133 - 2018",
+            "convocatoria": "junio/conv/conv.133-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.133-18.pdf",
+            "resultado": "junio/resul/resul.133-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 132,
+            "name": "Convocatoria Nº 132 - 2018",
+            "convocatoria": "junio/conv/conv.132-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.132-18.pdf",
+            "resultado": "junio/resul/resul.132-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 131,
+            "name": "Convocatoria Nº 131 - 2018",
+            "convocatoria": "junio/conv/conv.131-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.131-18.pdf",
+            "resultado": "junio/resul/resul.131-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 130,
+            "name": "Convocatoria Nº 130 - 2018",
+            "convocatoria": "junio/conv/conv.130-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.130-18.pdf",
+            "resultado": "junio/resul/resul.130-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 129,
+            "name": "Convocatoria Nº 129 - 2018",
+            "convocatoria": "junio/conv/conv.129-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.129-18.pdf",
+            "resultado": "junio/resul/resul.129-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 128,
+            "name": "Convocatoria Nº 128 - 2018",
+            "convocatoria": "junio/conv/conv.128-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.128-18.pdf",
+            "resultado": "junio/resul/resul.128-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 127,
+            "name": "Convocatoria Nº 127 - 2018",
+            "convocatoria": "junio/conv/conv.127-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.127-18.pdf",
+            "resultado": "junio/resul/resul.127-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 126,
+            "name": "Convocatoria Nº 126 - 2018",
+            "convocatoria": "junio/conv/conv.126-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.126-18.pdf",
+            "resultado": "junio/resul/resul.126-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 125,
+            "name": "Convocatoria Nº 125 - 2018",
+            "convocatoria": "junio/conv/conv.125-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.125-18.pdf",
+            "resultado": "junio/resul/resul.125-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 124,
+            "name": "Convocatoria Nº 124 - 2018",
+            "convocatoria": "junio/conv/conv.124-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.124-18.pdf",
+            "resultado": "junio/resul/resul.124-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 123,
+            "name": "Convocatoria Nº 123 - 2018",
+            "convocatoria": "junio/conv/conv.123-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.123-18.pdf",
+            "resultado": "junio/resul/resul.123-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 122,
+            "name": "Convocatoria Nº 122 - 2018",
+            "convocatoria": "junio/conv/conv.122-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.122-18.pdf",
+            "resultado": "junio/resul/resul.122-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 121,
+            "name": "Convocatoria Nº 121 - 2018",
+            "convocatoria": "junio/conv/conv.121-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "junio/eval/eval.121-18.pdf",
+            "resultado": "junio/resul/resul.121-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 120,
+            "name": "Convocatoria Nº 120 - 2018",
+            "convocatoria": "mayo/conv/conv.120-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.120-18.pdf",
+            "resultado": "mayo/resul/resul.120-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 119,
+            "name": "Convocatoria Nº 119 - 2018",
+            "convocatoria": "mayo/conv/conv.119-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.119-18.pdf",
+            "resultado": "mayo/resul/resul.119-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 118,
+            "name": "Convocatoria Nº 118 - 2018",
+            "convocatoria": "mayo/conv/conv.118-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.118-18.pdf",
+            "resultado": "mayo/resul/resul.118-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 117,
+            "name": "Convocatoria Nº 117 - 2018",
+            "convocatoria": "mayo/conv/conv.117-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.117-18.pdf",
+            "resultado": "mayo/resul/resul.117-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 116,
+            "name": "Convocatoria Nº 116 - 2018",
+            "convocatoria": "mayo/conv/conv.116-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.116-18.pdf",
+            "resultado": "mayo/resul/resul.116-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 115,
+            "name": "Convocatoria Nº 115 - 2018",
+            "convocatoria": "mayo/conv/conv.115-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.115-18.pdf",
+            "resultado": "mayo/resul/resul.115-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 114,
+            "name": "Convocatoria Nº 114 - 2018",
+            "convocatoria": "mayo/conv/conv.114-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.114-18.pdf",
+            "resultado": "mayo/resul/resul.114-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 113,
+            "name": "Convocatoria Nº 113 - 2018",
+            "convocatoria": "mayo/conv/conv.113-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.113-18.pdf",
+            "resultado": "mayo/resul/resul.113-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 112,
+            "name": "Convocatoria Nº 112 - 2018",
+            "convocatoria": "mayo/conv/conv.112-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.112-18.pdf",
+            "resultado": "mayo/resul/resul.112-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 111,
+            "name": "Convocatoria Nº 111 - 2018",
+            "convocatoria": "mayo/conv/conv.111-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.111-18.pdf",
+            "resultado": "mayo/resul/resul.111-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 110,
+            "name": "Convocatoria Nº 110 - 2018",
+            "convocatoria": "mayo/conv/conv.110-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.110-18.pdf",
+            "resultado": "mayo/resul/resul.110-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 109,
+            "name": "Convocatoria Nº 109 - 2018",
+            "convocatoria": "mayo/conv/conv.109-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.109-18.pdf",
+            "resultado": "mayo/resul/resul.109-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 108,
+            "name": "Convocatoria Nº 108 - 2018",
+            "convocatoria": "mayo/conv/conv.108-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.108-18.pdf",
+            "resultado": "mayo/resul/resul.108-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 107,
+            "name": "Convocatoria Nº 107 - 2018",
+            "convocatoria": "mayo/conv/conv.107-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.107-18.pdf",
+            "resultado": "mayo/resul/resul.107-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 106,
+            "name": "Convocatoria Nº 106 - 2018",
+            "convocatoria": "mayo/conv/conv.106-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "mayo/eval/eval.106-18.pdf",
+            "resultado": "mayo/resul/resul.106-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 105,
+            "name": "Convocatoria Nº 105 - 2018",
+            "convocatoria": "abril/conv/conv.105-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.105-18.pdf",
+            "resultado": "abril/resul/resul.105-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 104,
+            "name": "Convocatoria Nº 104 - 2018",
+            "convocatoria": "abril/conv/conv.104-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.104-18.pdf",
+            "resultado": "abril/resul/resul.104-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 103,
+            "name": "Convocatoria Nº 103 - 2018",
+            "convocatoria": "abril/conv/conv.103-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.103-18.pdf",
+            "resultado": "abril/resul/resul.103-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 102,
+            "name": "Convocatoria Nº 102 - 2018",
+            "convocatoria": "abril/conv/conv.102-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.102-18.pdf",
+            "resultado": "abril/resul/resul.102-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 101,
+            "name": "Convocatoria Nº 101 - 2018",
+            "convocatoria": "abril/conv/conv.101-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.101-18.pdf",
+            "resultado": "abril/resul/resul.101-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 100,
+            "name": "Convocatoria Nº 100 - 2018",
+            "convocatoria": "abril/conv/conv.100-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.100-18.pdf",
+            "resultado": "abril/resul/resul.100-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 99,
+            "name": "Convocatoria Nº 099 - 2018",
+            "convocatoria": "abril/conv/conv.099-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.099-18.pdf",
+            "resultado": "abril/resul/resul.099-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 98,
+            "name": "Convocatoria Nº 098 - 2018",
+            "convocatoria": "abril/conv/conv.098-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.098-18.pdf",
+            "resultado": "abril/resul/resul.098-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 97,
+            "name": "Convocatoria Nº 097 - 2018",
+            "convocatoria": "abril/conv/conv.097-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.097-18.pdf",
+            "resultado": "abril/resul/resul.097-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 96,
+            "name": "Convocatoria Nº 096 - 2018",
+            "convocatoria": "abril/conv/conv.096-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.096-18.pdf",
+            "resultado": "abril/resul/resul.096-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 95,
+            "name": "Convocatoria Nº 095 - 2018",
+            "convocatoria": "abril/conv/conv.095-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.100955-18.pdf",
+            "resultado": "abril/resul/resul.095-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 94,
+            "name": "Convocatoria Nº 094 - 2018",
+            "convocatoria": "abril/conv/conv.094-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.094-18.pdf",
+            "resultado": "abril/resul/resul.094-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 93,
+            "name": "Convocatoria Nº 093 - 2018",
+            "convocatoria": "abril/conv/conv.093-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.093-18.pdf",
+            "resultado": "abril/resul/resul.093-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 92,
+            "name": "Convocatoria Nº 092 - 2018",
+            "convocatoria": "abril/conv/conv.092-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.092-18.pdf",
+            "resultado": "abril/resul/resul.092-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 91,
+            "name": "Convocatoria Nº 091 - 2018",
+            "convocatoria": "abril/conv/conv.091-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.091-18.pdf",
+            "resultado": "abril/resul/resul.091-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 90,
+            "name": "Convocatoria Nº 090 - 2018",
+            "convocatoria": "abril/conv/conv.090-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.090-18.pdf",
+            "resultado": "abril/resul/resul.090-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 89,
+            "name": "Convocatoria Nº 089 - 2018",
+            "convocatoria": "abril/conv/conv.089-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.089-18.pdf",
+            "resultado": "abril/resul/resul.089-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 88,
+            "name": "Convocatoria Nº 088 - 2018",
+            "convocatoria": "abril/conv/conv.088-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.088-18.pdf",
+            "resultado": "abril/resul/resul.088-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 87,
+            "name": "Convocatoria Nº 087 - 2018",
+            "convocatoria": "abril/conv/conv.087-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.087-18.pdf",
+            "resultado": "abril/resul/resul.087-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 86,
+            "name": "Convocatoria Nº 086 - 2018",
+            "convocatoria": "abril/conv/conv.086-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.086-18.pdf",
+            "resultado": "abril/resul/resul.086-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 85,
+            "name": "Convocatoria Nº 085 - 2018",
+            "convocatoria": "abril/conv/conv.085-18.pdf",
+            "comunicado": "abril/com/com.085-18.pdf",
+            "eval_curricular": null,
+            "resultado": null,
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 84,
+            "name": "Convocatoria Nº 084 - 2018",
+            "convocatoria": "abril/conv/conv.084-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.084-18.pdf",
+            "resultado": "abril/resul/resul.084-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 83,
+            "name": "Convocatoria Nº 083 - 2018",
+            "convocatoria": "abril/conv/conv.083-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.083-18.pdf",
+            "resultado": "abril/resul/resul.083-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 82,
+            "name": "Convocatoria Nº 082 - 2018",
+            "convocatoria": "abril/conv/conv.082-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.082-18.pdf",
+            "resultado": "abril/resul/resul.082-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 81,
+            "name": "Convocatoria Nº 081 - 2018",
+            "convocatoria": "abril/conv/conv.081-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.081-18.pdf",
+            "resultado": "abril/resul/resul.081-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 80,
+            "name": "Convocatoria Nº 080 - 2018",
+            "convocatoria": "abril/conv/conv.080-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "abril/eval/eval.080-18.pdf",
+            "resultado": "abril/resul/resul.080-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 79,
+            "name": "Convocatoria Nº 079 - 2018",
+            "convocatoria": "marzo/conv/conv.079-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.079-18.pdf",
+            "resultado": "marzo/resul/resul.079-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 78,
+            "name": "Convocatoria Nº 078 - 2018",
+            "convocatoria": "marzo/conv/conv.078-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.078-18.pdf",
+            "resultado": "marzo/resul/resul.078-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 77,
+            "name": "Convocatoria Nº 077 - 2018",
+            "convocatoria": "marzo/conv/conv.077-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.077-18.pdf",
+            "resultado": "marzo/resul/resul.077-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 76,
+            "name": "Convocatoria Nº 076 - 2018",
+            "convocatoria": "marzo/conv/conv.076-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.076-18.pdf",
+            "resultado": "marzo/resul/resul.076-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 75,
+            "name": "Convocatoria Nº 075 - 2018",
+            "convocatoria": "marzo/conv/conv.075-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.075-18.pdf",
+            "resultado": "marzo/resul/resul.075-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 74,
+            "name": "Convocatoria Nº 074 - 2018",
+            "convocatoria": "marzo/conv/conv.074-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.074-18.pdf",
+            "resultado": "marzo/resul/resul.074-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 73,
+            "name": "Convocatoria Nº 073 - 2018",
+            "convocatoria": "marzo/conv/conv.073-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.073-18.pdf",
+            "resultado": "marzo/resul/resul.073-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 72,
+            "name": "Convocatoria Nº 072 - 2018",
+            "convocatoria": "marzo/conv/conv.072-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.072-18.pdf",
+            "resultado": "marzo/resul/resul.072-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 71,
+            "name": "Convocatoria Nº 071 - 2018",
+            "convocatoria": "marzo/conv/conv.071-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.071-18.pdf",
+            "resultado": "marzo/resul/resul.071-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 70,
+            "name": "Convocatoria Nº 070 - 2018",
+            "convocatoria": "marzo/conv/conv.070-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.070-18.pdf",
+            "resultado": "marzo/resul/resul.070-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 69,
+            "name": "Convocatoria Nº 069 - 2018",
+            "convocatoria": "marzo/conv/conv.069-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.069-18.pdf",
+            "resultado": "marzo/resul/resul.069-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 68,
+            "name": "Convocatoria Nº 068 - 2018",
+            "convocatoria": "marzo/conv/conv.068-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.068-18.pdf",
+            "resultado": "marzo/resul/resul.068-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 67,
+            "name": "Convocatoria Nº 067 - 2018",
+            "convocatoria": "marzo/conv/conv.067-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.067-18.pdf",
+            "resultado": "marzo/resul/resul.067-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 66,
+            "name": "Convocatoria Nº 066 - 2018",
+            "convocatoria": "marzo/conv/conv.066-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.066-18.pdf",
+            "resultado": "marzo/resul/resul.066-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 65,
+            "name": "Convocatoria Nº 065 - 2018",
+            "convocatoria": "marzo/conv/conv.065-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.065-18.pdf",
+            "resultado": "marzo/resul/resul.065-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 64,
+            "name": "Convocatoria Nº 064 - 2018",
+            "convocatoria": "marzo/conv/conv.064-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.064-18.pdf",
+            "resultado": "marzo/resul/resul.064-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 63,
+            "name": "Convocatoria Nº 063 - 2018",
+            "convocatoria": "marzo/conv/conv.063-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.063-18.pdf",
+            "resultado": "marzo/resul/resul.063-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 62,
+            "name": "Convocatoria Nº 062 - 2018",
+            "convocatoria": "marzo/conv/conv.062-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.062-18.pdf",
+            "resultado": "marzo/resul/resul.062-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 61,
+            "name": "Convocatoria Nº 061 - 2018",
+            "convocatoria": "marzo/conv/conv.061-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.061-18.pdf",
+            "resultado": "marzo/resul/resul.061-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 60,
+            "name": "Convocatoria Nº 060 - 2018",
+            "convocatoria": "marzo/conv/conv.060-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.060-18.pdf",
+            "resultado": "marzo/resul/resul.060-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 59,
+            "name": "Convocatoria Nº 059 - 2018",
+            "convocatoria": "marzo/conv/conv.059-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.059-18.pdf",
+            "resultado": "marzo/resul/resul.059-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 58,
+            "name": "Convocatoria Nº 058 - 2018",
+            "convocatoria": "marzo/conv/conv.058-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.058-18.pdf",
+            "resultado": "marzo/resul/resul.058-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 57,
+            "name": "Convocatoria Nº 057 - 2018",
+            "convocatoria": "marzo/conv/conv.057-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.057-18.pdf",
+            "resultado": "marzo/resul/resul.057-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 56,
+            "name": "Convocatoria Nº 056 - 2018",
+            "convocatoria": "marzo/conv/conv.056-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.056-18.pdf",
+            "resultado": "marzo/resul/resul.056-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 55,
+            "name": "Convocatoria Nº 055 - 2018",
+            "convocatoria": "marzo/conv/conv.055-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.055-18.pdf",
+            "resultado": "marzo/resul/resul.055-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 54,
+            "name": "Convocatoria Nº 054 - 2018",
+            "convocatoria": "marzo/conv/conv.054-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "marzo/eval/eval.054-18.pdf",
+            "resultado": "marzo/resul/resul.054-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 53,
+            "name": "Convocatoria Nº 053 - 2018",
+            "convocatoria": "febrero/conv/conv.053-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.053-18.pdf",
+            "resultado": "febrero/resul/resul.053-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 52,
+            "name": "Convocatoria Nº 052 - 2018",
+            "convocatoria": "febrero/conv/conv.052-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.052-18.pdf",
+            "resultado": "febrero/resul/resul.052-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 51,
+            "name": "Convocatoria Nº 051 - 2018",
+            "convocatoria": "febrero/conv/conv.051-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.051-18.pdf",
+            "resultado": "febrero/resul/resul.051-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 50,
+            "name": "Convocatoria Nº 050 - 2018",
+            "convocatoria": "febrero/conv/conv.050-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.050-18.pdf",
+            "resultado": "febrero/resul/resul.050-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 49,
+            "name": "Convocatoria Nº 049 - 2018",
+            "convocatoria": "febrero/conv/conv.049-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.049-18.pdf",
+            "resultado": "febrero/resul/resul.049-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 48,
+            "name": "Convocatoria Nº 048 - 2018",
+            "convocatoria": "febrero/conv/conv.048-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.048-18.pdf",
+            "resultado": "febrero/resul/resul.048-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 47,
+            "name": "Convocatoria Nº 047 - 2018",
+            "convocatoria": "febrero/conv/conv.047-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.047-18.pdf",
+            "resultado": "febrero/resul/resul.047-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 46,
+            "name": "Convocatoria Nº 046 - 2018",
+            "convocatoria": "febrero/conv/conv.046-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.046-18.pdf",
+            "resultado": "febrero/resul/resul.046-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 45,
+            "name": "Convocatoria Nº 045 - 2018",
+            "convocatoria": "febrero/conv/conv.045-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.045-18.pdf",
+            "resultado": "febrero/resul/resul.045-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 44,
+            "name": "Convocatoria Nº 044 - 2018",
+            "convocatoria": "febrero/conv/conv.044-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.044-18.pdf",
+            "resultado": "febrero/resul/resul.044-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 43,
+            "name": "Convocatoria Nº 043 - 2018",
+            "convocatoria": "febrero/conv/conv.043-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.043-18.pdf",
+            "resultado": "febrero/resul/resul.043-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 42,
+            "name": "Convocatoria Nº 042 - 2018",
+            "convocatoria": "febrero/conv/conv.042-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.042-18.pdf",
+            "resultado": "febrero/resul/resul.042-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 41,
+            "name": "Convocatoria Nº 041 - 2018",
+            "convocatoria": "febrero/conv/conv.041-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.041-18.pdf",
+            "resultado": "febrero/resul/resul.041-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 40,
+            "name": "Convocatoria Nº 040 - 2018",
+            "convocatoria": "febrero/conv/conv.040-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.040-18.pdf",
+            "resultado": "febrero/resul/resul.040-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 39,
+            "name": "Convocatoria Nº 039 - 2018",
+            "convocatoria": "febrero/conv/conv.039-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.039-18.pdf",
+            "resultado": "febrero/resul/resul.039-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 38,
+            "name": "Convocatoria Nº 038 - 2018",
+            "convocatoria": "febrero/conv/conv.038-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.038-18.pdf",
+            "resultado": "febrero/resul/resul.038-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 37,
+            "name": "Convocatoria Nº 037 - 2018",
+            "convocatoria": "febrero/conv/conv.037-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.037-18.pdf",
+            "resultado": "febrero/resul/resul.037-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 36,
+            "name": "Convocatoria Nº 036 - 2018",
+            "convocatoria": "febrero/conv/conv.036-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.036-18.pdf",
+            "resultado": "febrero/resul/resul.036-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 35,
+            "name": "Convocatoria Nº 035 - 2018",
+            "convocatoria": "febrero/conv/conv.035-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.035-18.pdf",
+            "resultado": "febrero/resul/resul.035-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 34,
+            "name": "Convocatoria Nº 034 - 2018",
+            "convocatoria": "febrero/conv/conv.034-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.034-18.pdf",
+            "resultado": "febrero/resul/resul.034-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 33,
+            "name": "Convocatoria Nº 033 - 2018",
+            "convocatoria": "febrero/conv/conv.033-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.033-18.pdf",
+            "resultado": "febrero/resul/resul.033-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 32,
+            "name": "Convocatoria Nº 032 - 2018",
+            "convocatoria": "febrero/conv/conv.032-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.032-18.pdf",
+            "resultado": "febrero/resul/resul.032-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 31,
+            "name": "Convocatoria Nº 031 - 2018",
+            "convocatoria": "febrero/conv/conv.031-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.031-18.pdf",
+            "resultado": "febrero/resul/resul.031-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 30,
+            "name": "Convocatoria Nº 030 - 2018",
+            "convocatoria": "febrero/conv/conv.030-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.030-18.pdf",
+            "resultado": "febrero/resul/resul.030-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 29,
+            "name": "Convocatoria Nº 029 - 2018",
+            "convocatoria": "febrero/conv/conv.029-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.029-18.pdf",
+            "resultado": "febrero/resul/resul.029-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 28,
+            "name": "Convocatoria Nº 028 - 2018",
+            "convocatoria": "febrero/conv/conv.028-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.028-18.pdf",
+            "resultado": "febrero/resul/resul.028-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 27,
+            "name": "Convocatoria Nº 027 - 2018",
+            "convocatoria": "febrero/conv/conv.027-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.027-18.pdf",
+            "resultado": "febrero/resul/resul.027-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 26,
+            "name": "Convocatoria Nº 026 - 2018",
+            "convocatoria": "febrero/conv/conv.026-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.026-18.pdf",
+            "resultado": "febrero/resul/resul.026-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 25,
+            "name": "Convocatoria Nº 025 - 2018",
+            "convocatoria": "febrero/conv/conv.025-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.025-18.pdf",
+            "resultado": "febrero/resul/resul.025-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 24,
+            "name": "Convocatoria Nº 024 - 2018",
+            "convocatoria": "febrero/conv/conv.024-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.024-18.pdf",
+            "resultado": "febrero/resul/resul.024-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 23,
+            "name": "Convocatoria Nº 023 - 2018",
+            "convocatoria": "febrero/conv/conv.023-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.023-18.pdf",
+            "resultado": "febrero/resul/resul.023-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 22,
+            "name": "Convocatoria Nº 022 - 2018",
+            "convocatoria": "febrero/conv/conv.022-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "febrero/eval/eval.022-18.pdf",
+            "resultado": "febrero/resul/resul.022-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 21,
+            "name": "Convocatoria Nº 021 - 2018",
+            "convocatoria": "enero/conv/conv.021-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.021-18.pdf",
+            "resultado": "enero/resul/resul.021-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": "enero/feerrata/feerrata.021-18.pdf"
+                }
+            ]
+        },{
+            "id": 20,
+            "name": "Convocatoria Nº 020 - 2018",
+            "convocatoria": "enero/conv/conv.020-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.020-18.pdf",
+            "resultado": "enero/resul/resul.020-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 19,
+            "name": "Convocatoria Nº 019 - 2018",
+            "convocatoria": "enero/conv/conv.019-18.pdf",
+            "comunicado": "enero/com/com.019-18.pdf",
+            "eval_curricular": null,
+            "resultado": null,
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 18,
+            "name": "Convocatoria Nº 018 - 2018",
+            "convocatoria": "enero/conv/conv.018-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.018-18.pdf",
+            "resultado": "enero/resul/resul.018-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 17,
+            "name": "Convocatoria Nº 017 - 2018",
+            "convocatoria": "enero/conv/conv.017-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.017-18.pdf",
+            "resultado": "enero/resul/resul.017-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 16,
+            "name": "Convocatoria Nº 016 - 2018",
+            "convocatoria": "enero/conv/conv.016-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.016-18.pdf",
+            "resultado": "enero/resul/resul.016-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 15,
+            "name": "Convocatoria Nº 015 - 2018",
+            "convocatoria": "enero/conv/conv.015-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.015-18.pdf",
+            "resultado": "enero/resul/resul.015-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 14,
+            "name": "Convocatoria Nº 014 - 2018",
+            "convocatoria": "enero/conv/conv.014-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.014-18.pdf",
+            "resultado": "enero/resul/resul.014-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 13,
+            "name": "Convocatoria Nº 013 - 2018",
+            "convocatoria": "enero/conv/conv.013-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.013-18.pdf",
+            "resultado": "enero/resul/resul.013-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 12,
+            "name": "Convocatoria Nº 012 - 2018",
+            "convocatoria": "enero/conv/conv.012-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.012-18.pdf",
+            "resultado": "enero/resul/resul.012-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 11,
+            "name": "Convocatoria Nº 011 - 2018",
+            "convocatoria": "enero/conv/conv.011-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.011-18.pdf",
+            "resultado": "enero/resul/resul.011-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 10,
+            "name": "Convocatoria Nº 010 - 2018",
+            "convocatoria": "enero/conv/conv.010-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.010-18.pdf",
+            "resultado": "enero/resul/resul.010-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 9,
+            "name": "Convocatoria Nº 009 - 2018",
+            "convocatoria": "enero/conv/conv.009-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.009-18.pdf",
+            "resultado": "enero/resul/resul.009-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 8,
+            "name": "Convocatoria Nº 008 - 2018",
+            "convocatoria": "enero/conv/conv.008-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.008-18.pdf",
+            "resultado": "enero/resul/resul.008-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 7,
+            "name": "Convocatoria Nº 007 - 2018",
+            "convocatoria": "enero/conv/conv.007-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.007-18.pdf",
+            "resultado": "enero/resul/resul.007-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 6,
+            "name": "Convocatoria Nº 006 - 2018",
+            "convocatoria": "enero/conv/conv.006-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.006-18.pdf",
+            "resultado": "enero/resul/resul.006-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 5,
+            "name": "Convocatoria Nº 005 - 2018",
+            "convocatoria": "enero/conv/conv.005-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.005-18.pdf",
+            "resultado": "enero/resul/resul.005-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 4,
+            "name": "Convocatoria Nº 004 - 2018",
+            "convocatoria": "enero/conv/conv.004-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.004-18.pdf",
+            "resultado": "enero/resul/resul.004-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 3,
+            "name": "Convocatoria Nº 003 - 2018",
+            "convocatoria": "enero/conv/conv.003-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.003-18.pdf",
+            "resultado": "enero/resul/resul.003-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 2,
+            "name": "Convocatoria Nº 002 - 2018",
+            "convocatoria": "enero/conv/conv.002-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.002-18.pdf",
+            "resultado": "enero/resul/resul.002-18.pdf",
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        },{
+            "id": 1,
+            "name": "Convocatoria Nº 001 - 2018",
+            "convocatoria": "enero/conv/conv.001-18.pdf",
+            "comunicado": null,
+            "eval_curricular": "enero/eval/eval.001-18.pdf",
+            "resultado": "enero/resul/resul.001-18.pdf",
             "fe_errata": [
                 {
                     "fe_errata_enl": null
