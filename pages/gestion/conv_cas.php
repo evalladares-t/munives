@@ -2,7 +2,8 @@
 <html>
 		<?php
 		include '../constant/head-web.php';
-		?>		
+        ?>	
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.css"/>	
 	<body>
         <?php
             $src_modal=array("../../img/modal/popup_cas.jpg");
@@ -184,28 +185,13 @@
                                                                     ?>
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2018">                                        
-                                                                    <div class="row">
-                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2018</h4>
-                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
-                                                                                    <div class="simple-search input-group">
-                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                        <span class="input-group-append">
-                                                                                            <button class="btn" type="submit">
-                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                            </button>
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
-                                                                        <?php
-                                                                            include 'tables/tab_cas2018.html'
-                                                                        ?>
-                                                                    </div>
+                                                                    <?php
+                                                                        if($ano=="0"){
+                                                                            $ano="2018";
+                                                                            include 'tables/tab_casgen.php';
+                                                                            $ano="0";
+                                                                        }
+                                                                    ?>
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2017">                                        
                                                                     <div class="row">
@@ -370,27 +356,23 @@
     			include '../constant/footer-web.php';
     		?>
         </div>
+
         
+        <script>
+            
+            </script>
 		<?php
     		include '../constant/scripts-web.php';
         ?>
+        <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.js"></script>
         <?php
-            for($i=2012;$i<2121;$i++){		
+            for($i=2012;$i<2021;$i++){		
         ?>
             <script>
                 // Write on keyup event of keyword input element
-                $(document).ready(function(){
-                    $("#search<?php print_r($i)?>").keyup(function(){
-                    _this = this;
-                // Show only matching TR, hide rest of them
-                    $.each($("#table<?php print_r($i) ?> tbody tr"), function() {
-                        if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1)
-                            $(this).hide();
-                        else
-                            $(this).show();
-                        });
-                    });
-                });
+                $(document).ready( function () {
+                    $('#table<?php print_r($i) ?>').DataTable();
+                } );
             </script>
         <?php } ?>
         <script>

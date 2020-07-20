@@ -28,22 +28,9 @@
 
     <div class="row">
         <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - <?php print_r($convocatorias["ano"]) ?></h4>
-        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">
-                    <div class="simple-search input-group">
-                        <input class="form-control text-1" id="search<?php print_r($convocatorias["ano"]) ?>" name="q" type="search" value="" placeholder="Search...">
-                        <span class="input-group-append">
-                            <button class="btn" type="submit">
-                                <i class="fa fa-search header-nav-top-icon"></i>
-                            </button>
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </div>
-    <table style="margin-top:5%;" class="table table-striped" id="table<?php print_r($convocatorias["ano"]) ?>">
+    <table style="margin-top:5%;" id="table<?php print_r($convocatorias["ano"])?>">
         <thead>
             <tr>
                 <th>
@@ -145,5 +132,8 @@
             <?php }?>
         </tbody>
     </table>
+
+
+    
 
     
