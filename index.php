@@ -93,7 +93,7 @@
 								<div class="header-column justify-content-end">
 									<div class="header-row">
 										<ul class="header-social-icons social-icons d-none d-sm-block social-icons-clean">
-											<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+											<li class="social-icons-facebook"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resgdis','popup', 'width=1300px,height=750px')"  title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
 											<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
 											<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
 										</ul>
@@ -215,17 +215,6 @@
 						<div class="slider-container light rev_slider_wrapper" style="height: 650px;">
 							<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 3000, 'gridwidth': 1170, 'gridheight': 650, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
 								<ul>
-									<li data-transition="slideInRight">
-										<img src="img/slides/slide-corporate-3-1.jpg"  
-											alt=""
-											data-bgposition="center center" 
-											data-bgfit="cover" 
-											data-bgrepeat="no-repeat"
-											data-duration="1000"
-											data-scalestart="100"
-											data-scaleend="100"									
-											class="rev-slidebg">
-									</li>
 									<li data-transition="fade">
 						
 										<img src="img/slides/slide-corporate-3-2.jpg"  

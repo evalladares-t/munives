@@ -195,21 +195,7 @@
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2017">                                        
                                                                     <div class="row">
-                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2017</h4>
-                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
-                                                                                    <div class="simple-search input-group">
-                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                        <span class="input-group-append">
-                                                                                            <button class="btn" type="submit">
-                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                            </button>
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2017</h4>                                                                        
                                                                     </div>
                                                                     <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
                                                                         <?php
@@ -219,21 +205,7 @@
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2016">                                        
                                                                     <div class="row">
-                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2016</h4>
-                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
-                                                                                    <div class="simple-search input-group">
-                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                        <span class="input-group-append">
-                                                                                            <button class="btn" type="submit">
-                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                            </button>
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2016</h4>                                                                        
                                                                     </div>
                                                                     <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
                                                                         <?php
@@ -243,21 +215,7 @@
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2015">                                        
                                                                     <div class="row">
-                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2015</h4>
-                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
-                                                                                    <div class="simple-search input-group">
-                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                        <span class="input-group-append">
-                                                                                            <button class="btn" type="submit">
-                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                            </button>
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2015</h4>                                                                        
                                                                     </div>
                                                                     <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
                                                                         <?php
@@ -267,21 +225,7 @@
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2014">                                        
                                                                     <div class="row">
-                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2014</h4>
-                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
-                                                                                    <div class="simple-search input-group">
-                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                        <span class="input-group-append">
-                                                                                            <button class="btn" type="submit">
-                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                            </button>
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2014</h4>                                                                        
                                                                     </div>
                                                                     <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
                                                                         <?php
@@ -291,21 +235,7 @@
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2013">                                        
                                                                     <div class="row">
-                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2013</h4>
-                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
-                                                                                    <div class="simple-search input-group">
-                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                        <span class="input-group-append">
-                                                                                            <button class="btn" type="submit">
-                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                            </button>
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2013</h4>                                                                        
                                                                     </div>
                                                                     <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
                                                                         <?php
@@ -315,21 +245,7 @@
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2012">                                        
                                                                     <div class="row">
-                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2012</h4>
-                                                                        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-                                                                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                                                                                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">                                                                                
-                                                                                    <div class="simple-search input-group">
-                                                                                        <input class="form-control text-1" id="search" name="q" type="search" value="" placeholder="Search...">
-                                                                                        <span class="input-group-append">
-                                                                                            <button class="btn" type="submit">
-                                                                                                <i class="fa fa-search header-nav-top-icon"></i>
-                                                                                            </button>
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
+                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2012</h4>                                                                        
                                                                     </div>
                                                                     <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
                                                                         <?php
@@ -365,7 +281,6 @@
     		include '../constant/scripts-web.php';
         ?>
         <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.js"></script>
-        <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.21/i18n/Spanish.json"></script>
         <?php
             for($i=2012;$i<2021;$i++){		
         ?>

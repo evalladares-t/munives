@@ -1,0 +1,18 @@
+{
+    "ano": "2017",
+    "data": [
+        {
+            "id": 195,
+            "name": "Convocatoria Nº 195 - 2018",
+            "convocatoria": "noviembre/conv/conv.195-18.pdf",
+            "comunicado": "noviembre/com/com.195-18.pdf",
+            "eval_curricular": null,
+            "resultado": null,
+            "fe_errata": [
+                {
+                    "fe_errata_enl": null
+                }
+            ]
+        }
+    ]
+}
