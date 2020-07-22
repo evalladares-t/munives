@@ -6,7 +6,12 @@
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.css"/>	
 	<body>
         <?php
-            $src_modal=array("../../img/modal/popup_cas.jpg");
+            $src_modal=array(
+                array(
+                    "img"=>"../../img/modal/popup_cas.jpg",
+                    "url"=>null
+                )
+            );
             $ano="0";
             include '../constant/modal-web.php';
         ?>

@@ -75,7 +75,21 @@
 	<body>
 
 	<?php
-		$src_modal=array("img/modal/popup_licencias.jpg","img/modal/popup_amnistia07_20.jpg");
+		//$src_modal=array("img/modal/popup_ofer_laboral.png","img/modal/popup_licencias.jpg","img/modal/popup_amnistia07_20.jpg");
+		$src_modal=array(
+			array(
+				"img"=>"img/modal/popup_ofer_laboral.png",
+				"url"=>"resources/trabaja_peru/FichaInscripcionPostulante.pdf"
+			),
+			array(
+				"img"=>"img/modal/popup_licencias.jpg",
+				"url"=>null
+			),
+			array(
+				"img"=>"img/modal/popup_amnistia07_20.jpg",
+				"url"=>null
+			)
+		);
 		include 'pages/constant/modal-web.php';
 	?>
 		<div class="body">
