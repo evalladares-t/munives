@@ -71,7 +71,7 @@
                     <td style="text-align:center;">
                         <?php
                             if($resgdis["data"][$i]["recurso"]!=null){?>
-                                <a href="../../resources/transparencia/resgdis/<?php echo $resgdis["ano"];?>/<?php echo $resgdis["data"][$i]["recurso"];?>" target="_blank"><i class="icon-doc icons"></i></a>
+                                <a href="../../../../resources/transparencia/normas_emitidas/resgdis/<?php echo $resgdis["ano"];?>/<?php echo $resgdis["data"][$i]["recurso"];?>" target="_blank"><i class="icon-doc icons"></i></a>
                         <?php
                             }
                             else{

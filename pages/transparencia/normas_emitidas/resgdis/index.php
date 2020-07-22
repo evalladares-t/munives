@@ -216,8 +216,9 @@
 			});
 
         </script>
-        
+        <script type="text/javascript" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
         <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.js"></script>
+                
          <?php
             for($i=2014;$i<2021;$i++){		
         ?>
@@ -227,7 +228,9 @@
                 $(document).ready( function () {
                     $('#table<?php print_r($i) ?>').DataTable({
                         "language": {
-                            "sUrl":"https://cdn.datatables.net/plug-ins/1.10.21/i18n/Spanish.json",
+                            "sOrder": [[ 0, "desc" ]],
+                            "sUrl":"https://cdn.datatables.net/plug-ins/1.10.21/i18n/Spanish.json"
+                            
                         }
                     });
                 } );
