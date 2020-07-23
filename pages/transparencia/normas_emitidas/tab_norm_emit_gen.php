@@ -1,38 +1,9 @@
   
 <?php    
-    switch($ano) {
-        case "2020":
-            $data = file_get_contents("data/data_".$origen."2020.json");
-            $origen_data = json_decode($data, true);   
-        break;
-        case "2019":
-            $data = file_get_contents("data/data_".$origen."2019.json");
-            $origen_data = json_decode($data, true);   
-        break;
-        case "2018":
-            $data = file_get_contents("data/data_".$origen."2018.json");
-            $origen_data = json_decode($data, true);   
-        break;
-        case "2017":
-            $data = file_get_contents("data/data_".$origen."2017.json");
-            $origen_data = json_decode($data, true);   
-        break;
-        case "2016":
-            $data = file_get_contents("data/data_".$origen."2016.json");
-            $origen_data = json_decode($data, true);   
-        break;
-        case "2015":
-            $data = file_get_contents("data/data_".$origen."2015.json");
-            $origen_data = json_decode($data, true);   
-        break;
-        case "2014":
-            $data = file_get_contents("data/data_".$origen."2014.json");
-            $origen_data = json_decode($data, true);   
-        break;
-    }
+    $data = file_get_contents("data/data_".$origen.$ano.".json");
+    $origen_data = json_decode($data, true);
 ?>
-
-    <h4 style="text-align:justify; margin-right:5%;"><?php print_r($title) ?> - <?php print_r($origen_data["ano"]) ?></h4>        
+    <h4 style="text-align:justify; margin-right:5%;"><?php print_r($title) ?> - <?php print_r($origen_data["ano"]) ?></h4>
     <table id="table<?php print_r($origen_data["ano"])?>" style="font-size:14px" >
         <thead>
             <tr>
@@ -83,8 +54,3 @@
             <?php }?>
         </tbody>
     </table>
-
-
-    
-
-    
