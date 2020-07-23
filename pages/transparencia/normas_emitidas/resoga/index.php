@@ -57,8 +57,8 @@
     <body>
         <?php            
             $ano="0";
-            $title="RESOLUCIÓN DE GERENCIA DE DESARROLLO E INCLUSION SOCIAL";
-            $origen="resgdis";
+            $title="RESOLUCIÓN DE OFICINA GENERAL DE ADMINISTRACIÓN";
+            $origen="resoga";
         ?>
 
         <div class="body">
@@ -89,25 +89,25 @@
                                     <div class="tabs tabs-vertical tabs-right tabs-navigation tabs-navigation-simple">
                                         <ul class="nav nav-tabs col-sm-3">
                                             <li class="nav-item active">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple1" data-toggle="tab">RESOLUCIONES GDIS 2020</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple1" data-toggle="tab">RESOLUCIONES OGA 2020</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple2" data-toggle="tab">RESOLUCIONES GDIS 2019</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple2" data-toggle="tab">RESOLUCIONES OGA 2019</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">RESOLUCIONES GDIS 2018</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">RESOLUCIONES OGA 2018</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple4" data-toggle="tab">RESOLUCIONES GDIS 2017</a>
+                                                <a class="nav-link" href="#tabsNavigationVertSimple4" data-toggle="tab">RESOLUCIONES OGA 2017</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple5" data-toggle="tab">RESOLUCIONES GDIS 2016</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple5" data-toggle="tab">RESOLUCIONES OGA 2016</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple6" data-toggle="tab">RESOLUCIONES GDIS 2015</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple6" data-toggle="tab">RESOLUCIONES OGA 2015</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple7" data-toggle="tab">RESOLUCIONES GDIS 2014</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple7" data-toggle="tab">RESOLUCIONES OGA 2014</a>													
                                             </li>
                                         </ul>
                                     </div>
