@@ -96,16 +96,16 @@
                                                 <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">RESOLUCIONES GDIS 2018</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">RESOLUCIONES GDIS 2017</a>
+                                                <a class="nav-link" href="#tabsNavigationVertSimple4" data-toggle="tab">RESOLUCIONES GDIS 2017</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">RESOLUCIONES GDIS 2016</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple5" data-toggle="tab">RESOLUCIONES GDIS 2016</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">RESOLUCIONES GDIS 2015</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple6" data-toggle="tab">RESOLUCIONES GDIS 2015</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">RESOLUCIONES GDIS 2014</a>													
+                                                <a class="nav-link" href="#tabsNavigationVertSimple7" data-toggle="tab">RESOLUCIONES GDIS 2014</a>													
                                             </li>
                                         </ul>
                                     </div>
@@ -137,7 +137,16 @@
                                                 $ano="0";
                                             }
                                         ?>  											
-                                    </div>									
+                                    </div>
+                                    <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple4">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2017";
+                                                include 'tab_resgdisgen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
+                                    </div>								
                                 </div>
                             </div>
                         </div>
