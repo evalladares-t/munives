@@ -146,6 +146,15 @@
                                                 $ano="0";
                                             }
                                         ?>  											
+                                    </div>	
+                                    <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple5">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2016";
+                                                include 'tab_resgdisgen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
                                     </div>								
                                 </div>
                             </div>
