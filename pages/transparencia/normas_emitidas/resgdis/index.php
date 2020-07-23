@@ -128,7 +128,16 @@
                                                 $ano="0";
                                             }
                                         ?>  											
-                                    </div>										
+                                    </div>	
+                                    <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple3">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2018";
+                                                include 'tab_resgdisgen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
+                                    </div>									
                                 </div>
                             </div>
                         </div>
