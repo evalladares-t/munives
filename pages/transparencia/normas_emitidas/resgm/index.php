@@ -58,7 +58,7 @@
         <?php            
             $ano="0";
             $title="RESOLUCIÓN DE GERENCIA MUNICIPAL";
-            $origen="resgdis";
+            $origen="resgm";
         ?>
 
         <div class="body">
