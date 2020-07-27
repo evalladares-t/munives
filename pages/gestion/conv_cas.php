@@ -199,14 +199,13 @@
                                                                     ?>
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2017">                                        
-                                                                    <div class="row">
-                                                                        <h4 style="text-align:justify; margin-right:5%;">CONVOCATORIA CAS - 2017</h4>                                                                        
-                                                                    </div>
-                                                                    <div class="col-lg-8" style="margin-left:18%; margin-top:4%;">
-                                                                        <?php
-                                                                            include 'tables/tab_cas2017.html'
-                                                                        ?>
-                                                                    </div>
+                                                                <?php
+                                                                        if($ano=="0"){
+                                                                            $ano="2017";
+                                                                            include 'tables/tab_casgen.php';
+                                                                            $ano="0";
+                                                                        }
+                                                                    ?>
                                                                 </div>
                                                                 <div class="tab-pane tab-pane-navigation mt-4" id="tabsconvcas2016">                                        
                                                                     <div class="row">
