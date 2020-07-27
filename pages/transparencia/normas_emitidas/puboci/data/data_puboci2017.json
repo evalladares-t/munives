@@ -1,0 +1,23 @@
+{
+    "ano": "2017",
+    "data": [
+        {
+            "id": 3,
+            "name": "DIRECTIVA Nº 006-2016-CG/GPROD",
+            "descripcion": "Estado de implementación de las recomendaciones del informe de Auditorio orientadas a la mejora de la gestión. <br> 01 de setiembre al 15 de Diciembre de 2017",
+            "recurso": "dir-oci-006-01-09-17.pdf"
+        },
+        {
+            "id": 2,
+            "name": "DIRECTIVA Nº 006-2016-CG/GPROD",
+            "descripcion": "Estado de implementación de las recomendaciones del informe de Auditorio orientadas a la mejora de la gestión. <br> 03 de Julio al 31 de Agosto 2017",
+            "recurso": "dir-oci-006-03-07-17.pdf"
+        },
+        {
+            "id": 1,
+            "name": "DIRECTIVA Nº 006-2016-CG/GPROD",
+            "descripcion": "Estado de implementación de las recomendaciones del informe de Auditorio orientadas a la mejora de la gestión.<br> 02 de Mayo al 30 de Junio 2017",
+            "recurso": "dir-oci-006-02-05-19.pdf"
+        }
+    ]
+}
