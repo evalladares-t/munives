@@ -1,0 +1,635 @@
+{
+    "ano": "2020",
+    "data": [
+        {
+            "id": 113,
+            "name": "Resolución de Alcaldía Nº 113-2020 ALC/MVES",
+            "descripcion": "MODIFICAR el Artículo Primero de la Resolución de Alcaldía Nº 190-2019-ALC/MVES modificada con Resolución de Alcaldía Nº 249-2019-ALC/MVES y la Resolución de Alcaldía Nº 068-2020-ALC/MVES, en cuanto a la designación del Presidente y Secretaría del Comité de Administración del Programa del Vaso de Leche de la Municipalidad de Villa El Salvador, quedando de la siguiente manera:",
+            "recurso": "resalc.113-20.pdf"
+        },
+        {
+            "id": 111,
+            "name": "Resolución de Alcaldía Nº 111-2020 ALC/MVES",
+            "descripcion": "DESIGNAR al Sr. EDGAR JESÚS HINOJOSA ALARCÓN como GERENTE DE RENTAS Y ADMINISTRACIÓN TRIBUTARIA de la Municipalidad Distrital de Villa el Salvador, a partir del 27 de julio del 2020, bajo el Régimen de Especial de Contratación Administrativa de Servicios-Decreto Legislativo N°1057.",
+            "recurso": "resalc.111-20.pdf"
+        },
+        {
+            "id": 110,
+            "name": "Resolución de Alcaldía Nº 110-2020 ALC/MVES",
+            "descripcion": "DAR POR CON CONCLUIDA la designación de la Lic. CATHERINE ÁNGELA VILLANES VILLA, como GERENTE DE RENTAS Y ADMINISTRACIÓN TRIBUTARIA de la Municipalidad  Distrital de Villa el Salvador, siendo su último en el cargo el día 26 de Julio del 2020.",
+            "recurso": "resalc.110-20.pdf"
+        },
+        {
+            "id": 109,
+            "name": "Resolución de Alcaldía Nº 109-2020 ALC/MVES",
+            "descripcion": "DAR POR CONCLUIDA la encargatura de la Lic. NELLY MILAGROS HUAMANI CANDIA -Subgerente de Educación, Cultura, Deporte y Juventud, como GERENTE DE DESARROLLO E INCLUSIÓN SOCIAL de la Municipalidad de Distrital de Villa el Salvador, siendo su último día de encargatura el 26 de julio del 2020.",
+            "recurso": "resalc.109-20.pdf"
+        },
+        {
+            "id": 105,
+            "name": "Resolución de Alcaldía Nº 105-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA de la ABOG. DIANA DE LOS MILAGROS SÁNCHEZ VALENCIA, al cargo de GERENTE DE DESARROLLO E INCLUSIÓN SOCIAL de la Municipalidad Distrital de Villa el Salvador, siendo su último día de labores el 22 de julio del 2020, agradeciéndole por los servicios prestados a esta Comuna.",
+            "recurso": "resalc.105-20.pdf"
+        },
+        {
+            "id": 104,
+            "name": "Resolución de Alcaldía Nº 104-2020 ALC/MVES",
+            "descripcion": "DESIGNAR al Abog. MANUEL JUAN OCAMPO RODRÍGUEZ como Procurador Publico Municipal de la Municipalidad Distrital de Villa El Salvador, a partir de la fecha, bajo el Régimen de Contratación Administrativa de Servicios - Decreto Legislativo N° 1057.",
+            "recurso": "resalc.104-20.pdf"
+        },
+        {
+            "id": 103,
+            "name": "Resolución de Alcaldía Nº 103-2020 ALC/MVES",
+            "descripcion": "DESIGNAR al Abog. JOSÉ LUIS ESPICHAN PÉREZ - Gerente Municipal de la Municipalidad Distrital de Villa el Salvador, como RESPONSABLE DEL MONITOREO DEL PROCESO DE IMPLEMENTACIÓN Y SEGUIMIENTO A LAS RECOMENDACIONES DEL ÓRGANO DE CONTROL INSTITUCIONAL DE LA MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR, conforme a lo dispuesto en la Directiva N° 006-2016-CG-GPROD.",
+            "recurso": "resalc.103-20.pdf"
+        },
+        {
+            "id": 102,
+            "name": "Resolución de Alcaldía Nº 102-2020 ALC/MVES",
+            "descripcion": "DESIGNAR al Abog. JOSÉ LUIS ESPICHAN PÉREZ como GERENTE MUNICIPAL de la Municipalidad Distrital de Villa El Salvador, a partir del 22 de julio del 2020, sujeto al Régimen Laboral del Sector Público, Ley N° 30057, Ley del Servicio Civil y el Decreto Supremo Ñ° 023-2014-EF.",
+            "recurso": "resalc.102-20.pdf"
+        },
+        {
+            "id": 101,
+            "name": "Resolución de Alcaldía Nº 101-2020 ALC/MVES",
+            "descripcion": "DAR POR CONCLUIDA la encargatura del Sr. TITO HUICSA HUAMÁN - Gerente de Desarrollo Económico y Empresarial de la Municipalidad Distrital de Villa El Salvador como GERENTE MUNjCIPAL de esta Corporación Edil, siendo su último día de encargatura el 22 de julio del 2020.",
+            "recurso": "resalc.101-20.pdf"
+        },
+        {
+            "id": 100,
+            "name": "Resolución de Alcaldía Nº 100-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA del ABOG. CARLOS DANIEL ESPICHAN PÉREZ, al cargo de PROCURADOR PÚBLICO MUNICIPAL de la Municipalidad Distrital de Villa El Salvador, siendo su ultimo día de labores el 21 de julio del 2020, agradeciéndole por los servicios prestados a esta Comuna.",
+            "recurso": "resalc.100-20.pdf"
+        },
+        {
+            "id": 99,
+            "name": "Resolución de Alcaldía Nº 099-2020 ALC/MVES",
+            "descripcion": "DESIGNAR al Coronel EP(R) ENRIQUE AGUILAR DEL ALCAZAR como GERENTE DE SEGURIDAD Y VIAL de la Municipalidad Distrital de Villa El Salvador, a partir del 21 de Julio del 2020, bajo el Regimen Especial de Contratación Administrativa de Servicios - Decreto Legislativo Nº 1057.",
+            "recurso": "resalc.099-20.pdf"
+        },
+        {
+            "id": 98,
+            "name": "Resolución de Alcaldía Nº 098-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA del Teniente Coronel EP(r) EDWARDS YNGA GONZAGA, al cargo de GERENTE DE SEGURIDAD CIUDADANA Y VIAL de la Municipalidad de Villa El Salvador, siendo su último día de labores el 20 de Julio del 2020, agradeciéndole por los servicios prestados a esta Comuna.",
+            "recurso": "resalc.098-20.pdf"
+        },
+        {
+            "id": 97,
+            "name": "Resolución de Alcaldía Nº 097-2020 ALC/MVES",
+            "descripcion": "OTORGAR LICENCIA CON GOCE DE REMUNERACIONES POR ENFERMEDAD, a partir de la fecha, al funcionario JOSÉ MANUEL MANRIQUE DIAZ - SUBGERENTE DE SERENAZGO de la Municipalidad distrital de Villa El Salvador, por las razones expuestas en la parte considerativa de la presente Resolución",
+            "recurso": "resalc.097-20.pdf"
+        },
+        {
+            "id": 96,
+            "name": "Resolución de Alcaldía Nº 096-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA de la Srta. ÁNGELA RAQUEL TRINIDAD SUÁREZ, al cargo de Subgerente de la Unidad de Presupuesto de la Municipalidad Distrital de Villa el Salvador, siendo su último día de labores el 12 de Julio del 2020, agradeciéndole por los servicios prestados a esta Comuna.",
+            "recurso": "resalc.096-20.pdf"
+        },
+        {
+            "id": 95,
+            "name": "Resolución de Alcaldía Nº 095-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el numeral 6.3 del artículo 6° del Decreto de Urgencia N°081-2020,  en el Presupuesto Institucional año fiscal 2020 de la Municipalidad de Villa el Salvador, por un monto  de S/ 67,200.00(Sesenta y Siete Mil Doscientos con 00/100 soles) con cargo a la Fuente de Financiamiento :1 Recursos Ordinarios y Genéricas  de Gasto :2.1 Personal y Obligaciones Sociales y 2.2 Pensiones y Otras Prestaciones Sociales ;para apoyar el financiamiento del gasto operativo esencial del año fiscal 2020, vinculado a la prestación de servicios públicos de competencia de la entidad , de acuerdo  al detalle en el Anexo que forma parte integrante de la presente Resolución.",
+            "recurso": "resalc.095-20.pdf"
+        },
+        {
+            "id": 94,
+            "name": "Resolución de Alcaldía Nº 094-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR al servidor FRANCISCO MANUEL NARREA LAURA-SUBGERENTE DE LA UNIDAD DE PLANEAMIENTO ESTRATÉGICO Y MODERNIZACIÓN de la Municipalidad Distrital de Villa el Salvador, el uso de su descanso físico vacacional, por el término de siete (07) días, esto es, del 07 al 13 Julio del 2020. ",
+            "recurso": "resalc.094-20.pdf"
+        },
+        {
+            "id": 93,
+            "name": "Resolución de Alcaldía Nº 093-2020 ALC/MVES",
+            "descripcion": "CONFORMAR el COMITÉ DE SEGURIDAD Y SALUD EN EL TRABAJO DE LA MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR POR EL PERIODO DE DOS (02) AÑOS, la misma que estará integrada de la siguiente manera:",
+            "recurso": "resalc.093-20.pdf"
+        },
+        {
+            "id": 92,
+            "name": "Resolución de Alcaldía Nº 092-2020 ALC/MVES",
+            "descripcion": "DELEGAR  en el GERENTE MUNICIPAL la facultad de autorizar la suscripción de los acuerdos que deriven de una conciliación extrajudicial al Procurador Público Municipal, en representación de la Municipalidad Distrital de Villa el Salvador, conforme a lo previsto en el Decreto Legislativo N°1326, Decreto Legislativo que reestructura  el Sistema Administrativo de Defensa Jurídica del Estado y crea la Procuraduría General del Estado , así como su Reglamento aprobado con Decreto Supremo N°018-2019-JUS, debiendo cumplir previamente con los requisitos establecidos en la norma..",
+            "recurso": "resalc.092-20.pdf"
+        },
+        {
+            "id": 91,
+            "name": "Resolución de Alcaldía Nº 091-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR a la Abog. RINA SCARLETT SÁNCHEZ -GERENTE DE LA OFICINA DE ASESORÍA JURÍDICA de la Municipalidad Distrital de Villa el Salvador, el uso de su descanso físico vacacional, por el término de diez (10) días, comprendidos del 06 al 15 de julio del 2020..",
+            "recurso": "resalc.091-20.pdf"
+        },
+        {
+            "id": 90,
+            "name": "Resolución de Alcaldía Nº 090-2020 ALC/MVES",
+            "descripcion": "DEJAR SIN EFECTO la encargatura otorgada al Blgo. FERNANDO MARTÍN MEJÍA VARGAS, al cargo de SUBGERENTE DE PARQUES Y JARDINES, INFORMACIÓN Y EVALUACIÓN AMBIENTAL de la Municipalidad Distrital de Villa el Salvador, siendo su último día de labores el 03 de julio del 2020.",
+            "recurso": "resalc.090-20.pdf"
+        },
+        {
+            "id": 88,
+            "name": "Resolución de Alcaldía Nº 088-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el numeral 1.1 del Decreto Supremo N° 152-2020-EF, en el presupuesto institucional año fiscal 2020 de la Municipalidad de Villa el Salvador, por un monto de SI 9'197,885.00 (Nueve Millones Ciento Noventa y Siete Mil Ochocientos Ochenta y Cinco con 00/100 soles) con cargo a la Fuente de Financiamiento: 1 Recursos Ordinarios, y Genérica de Gasto: 2.6 Adquisición de Activos No Financieros, de acuerdo al detalle en el Anexo que forma parte integrante de la presente Resolución.",
+            "recurso": "resalc.088-20.pdf"
+        },
+        {
+            "id": 87,
+            "name": "Resolución de Alcaldía Nº 087-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el numeral 10.1 del Decreto de Urgencia N° 070-2020, en el presupuesto institucional del Año Fiscal 2020 de la Municipalidad Distrital de Villa el Salvador, por un monto de S/. 112,000.00 (Ciento doce mil con 00/100 soles) con cargo a la Fuente de Financiamiento: 1 Recursos Ordinarios, Categoría de Gasto 5 Gastos Corrientes y Genéricas de Gasto 2.3 Bienes y Servicios; para financiar la elaboración de fichas de actividades de intervención inmediata, en el marco de la emergencía Sanitaria Nacional producida por el COVID-19, de acuerdo al siguiente detalle :",
+            "recurso": "resalc.087-20.pdf"
+        },
+        {
+            "id": 86,
+            "name": "Resolución de Alcaldía Nº 086-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el numeral 7.1 del Decreto de Urgencia N° 070-2020, en el Presupuesto Institucional año fiscal 2020 de la Municipalidad de Villa el Salvador, por un monto de SI 67,690.00 (Sesenta y Siete Mil Seiscientos Noventa con 00/100 soles) con cargo a la Fuente de Financiamiento: 1 Recursos Ordinarios, y Genérica de Gasto: 2.3 Bienes y Servicios; para financiar la contratación temporal de personal técnico clave especializados en materia de inversiones y contrataciones vinculado a la gestión de inversiones, para la optimización de la gestión de inversiones en esta comuna, de acuerdo al detalle en el Anexo que forma parte integrante de la presente Resolución.",
+            "recurso": "resalc.086-20.pdf"
+        },
+        {
+            "id": 85,
+            "name": "Resolución de Alcaldía Nº 085-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el numeral 4.3 del Decreto de Emergencía N° 070-2020, en el Presupuesto Institucional del Año Fiscal 2020 de la Municipalidad de Villa el Salvador, monto de S/. 354,134.00 (Trescientos Cincuenta y Cuatro Mil Ciento Treinta y Cuatro con 00/100 soles) con carrgo a la Fuente de Financíamiento: 1 Recursos Ordinarios, y Genérica de Gasto: 2.6 Adquisición de Activos No Financieros, para financiar la elaboración de IOARR y de sus Expedientes Técnicos o documentos equivalentes, en teria de Vías Urbanas, de acuerdo al siguiente detalle:",
+            "recurso": "resalc.085-20.pdf"
+        },
+        {
+            "id": 84,
+            "name": "Resolución de Alcaldía Nº 084-2020 ALC/MVES",
+            "descripcion": "ENCARGAR con eficacia anticipada, del 09 al 15 de junio del 2020, las funciones pias de la UNIDAD DE CONTABILIDAD de la Municipalidad Distrital de Villa El Salvador, a la Ing. MARINA LUZ NABRIA LIMACO - Gerente de la Oficina General de Administración de esta Corporación Edil, con retención de su cargo, en tanto dure el adelanto de vacaciones del titular, otorgadas con Acuerdo de Adelanto del Descanso Vacacional N° 28-2020-UGRH-OGA, autorizado por la Unidad de Gestión de Recursos Humanos, al amparo de lo establecido en el Decreto Legislativo N° 1405 y su Reglamento, convalidando los actos administrativos y de administración que hubiese efectuado.",
+            "recurso": "resalc.084-20.pdf"
+        },
+        {
+            "id": 83,
+            "name": "Resolución de Alcaldía Nº 083-2020 ALC/MVES",
+            "descripcion": "CONFORMAR la COMISIÓN ESPECIAL DE CAUTELA para hacer guimiento a las actividades realizadas por la Sociedad Auditora Ventosílla Vásquez y Asociados, encargada de la Auditoría Financiera y Presupuestaria Gubernamental del ejercicio económico 2019, de conformidad con la Resolución de Contraloría N° 469-2018-CG que aprueba la Directiva N° 009-2018-CG/NORM modificada con Resolución de Contraloría N° 509-2018-CG, \"Gestión de Sociedades de Auditoría\", la misma que estará integrado de la siguiente manera:",
+            "recurso": "resalc.083-20.pdf"
+        },
+        {
+            "id": 82,
+            "name": "Resolución de Alcaldía Nº 082-2020 ALC/MVES",
+            "descripcion": "DEJAR SIN EFECTO a partir del 22 de junio del 2020, la licencia sin goce de remuneraciones otorgada al ABOG. CARLOS DANIEL ESPICHÁN PÉREZ- PROCURADOR PÚBLICO MUNICIPAL de la Municipalidad Distrital de Villa el Salvador, con Resolución de Alcaldía N°076-2020—ALC/MVES, por las razones expuestas en la parte considerativa de la presente Resolución. ",
+            "recurso": "resalc.082-20.pdf"
+        },
+        {
+            "id": 81,
+            "name": "Resolución de Alcaldía Nº 081-2020 ALC/MVES",
+            "descripcion": "MODIFICAR el Artículo Primero de la Resolución de Alcaldía N° 125-2019-ALC/MVES de fecha 28 de marzo del 2019, que conforma  la INSTANCIA DE ARTICULACIÓN LOCAL- IAL denominada “IAL VILLA EL SALVADOR”, INCORPORANDO UN PÁRRAFO FINAL con el siguiente texto: ",
+            "recurso": "resalc.081-20.pdf"
+        },
+        {
+            "id": 80,
+            "name": "Resolución de Alcaldía Nº 080-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA del Mayor PNP (r) AQUILES PEDRO BERNAL MÉJIA, al cargo del Subgerente de Transporte y Seguridad Vial de la Municipalidad de Villa el Salvador, siendo su último día de labores el 10 de junio del 2020, agradeciéndole por los servicios prestados a esta comuna.",
+            "recurso": "resalc.080-20.pdf"
+        },
+        {
+            "id": 79,
+            "name": "Resolución de Alcaldía Nº 079-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el del Decreto Supremo N° 125-2020-EF, en el presupuesto institucional año fiscal 2020 de la Municipalidad de Villa el Salvador, por un monto de S/. 2,669,720.00 (Dos millones seiscientos sesenta y nueve mil setecientos veinte con 00/100 soles) en la Fuente de Fjnanciamiento: 5 Recursos Determinados, Rubro de Financiamiento 18 Canon y Sobrecanon, Regalías, Renta de Aduanas y Participaciones, Categoría Gasto: 5 Gastos Corrientes y Genéricas de Gasto: 2.3 Bienes y Servicios, de acuerdo al detalle en el Anexo que forma parte integrante de la presente Resolución.",
+            "recurso": "resalc.079-20.pdf"
+        },
+        {
+            "id": 78,
+            "name": "Resolución de Alcaldía Nº 078-2020 ALC/MVES",
+            "descripcion": "OTORGAR con eficacia anticipada, LICENCIA SIN GOCE DE REMUNERACIONES al Ing. JAVIER ALEX BERNUY ESPINOZA – GERENTE DE DESARROLLO URBANO de la Municipalidad Distrital de Villa el Salvador, por el término de tres (03) días, comprendidos del 01 al 03 de junio del 2020, por las razones expuestas en la parte considerativa de la presente Resolución.",
+            "recurso": "resalc.078-20.pdf"
+        },
+        {
+            "id": 77,
+            "name": "Resolución de Alcaldía Nº 077-2020 ALC/MVES",
+            "descripcion": "ENCARGAR del 01 al 30 de junio, las funciones propias de la Procuraduría lica Municipal de la Municipalidad Distrital de Villa El Salvador, al ABOG. CONCEPCIÓN SILVINO MEJIA CORAL, ESPECIALISTA LEGAL adscrito a la Procuraduría Publica Municipal, mientras dure la licencia del titular aprobada con Resolución de Alcaldía N° 076-2020-ALC/MVES.",
+            "recurso": "resalc.077-20.pdf"
+        },
+        {
+            "id": 76,
+            "name": "Resolución de Alcaldía Nº 076-2020 ALC/MVES",
+            "descripcion": "OTORGAR LICENCIA SIN GOCE DE REMUNERACIONES al ABOG. ARLOS DANIEL ESPICHAN PÉREZ - PROCURADOR PÚBLICO MUNICIPAL de la Municipalidad Distrital de illa El Salvador, por el término de treinta (30) días, comprendidos del 01 al 30 de junio del 2020, por las razones expuestas en la parte considerativa de la presente Resolución.",
+            "recurso": "resalc.076-20.pdf"
+        },
+        {
+            "id": 75,
+            "name": "Resolución de Alcaldía Nº 075-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA del Sr. YONER FLORES FLORES al cargo como RESPONSABLE DE LA AGENCIA MUNICIPAL N° 02, dependiente funcional de la Gerencia Municipal de la Municipalidad Distrital de Villa El Salvador, siendo su último día de labores el 27 de mayo del 2020, exonerándolo del plazo establecido en la Ley, agradeciéndole por los servicios prestados a esta Comuna.",
+            "recurso": "resalc.075-20.pdf"
+        },
+        {
+            "id": 74,
+            "name": "Resolución de Alcaldía Nº 074-2020 ALC/MVES",
+            "descripcion": "OTORGAR LICENCIA SIN GOCE DE REMUNERACIONES a la Srta. INGRID CHRISTY CRISÓSTOMO BERROCAL - SUBGERENTE DE FISCALIZACIÓN TRIBUTARIA de la Municipalidad Distrital de Villa El Salvador, por el término de treinta (30) días, comprendidos del 01 al 30 de junio del 2020, por las razones expuestas en la parte considerativa de la presente Resolución.",
+            "recurso": "resalc.074-20.pdf"
+        },
+        {
+            "id": 73,
+            "name": "Resolución de Alcaldía Nº 073-2020 ALC/MVES",
+            "descripcion": "OTORGAR LICENCIA CON GOCE DE REMUNERACIONES POR ENFERMEDAD al funcionario LONI OLIVER ROSALES PALOMINO - SUBGERENTE DE PARTICIPACIÓN CIUDADANA de la Municipalidad Distrital de Villa El Salvador, por las razones expuestas en la parte considerativa de la presente Resolución.",
+            "recurso": "resalc.073-20.pdf"
+        },
+        {
+            "id": 72,
+            "name": "Resolución de Alcaldía Nº 072-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR a la Srta. LORENA JULIANA MONTOYA LUJAN SUBGÉRENTE DE LA UNIDAD DE PROGRAMACIÓN MULTIANUAL DE INVERSIONES de la Municipalidad &|ftoístritáí de Villa El Salvador, el uso de su descanso físico vacacional, por el término de veintitrés (23) días, comprendidos del 02 al 24 de junio del 2020.",
+            "recurso": "resalc.072-20.pdf"
+        },
+        {
+            "id": 71,
+            "name": "Resolución de Alcaldía Nº 071-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR a la Abog. DIANA DE LOS MILAGROS SÁNCHEZ VALENCIA - GERENTE DE DESARROLLO E INCLUSIÓN SOCIAL de la Municipalidad Distrital de Villa El Salvador, el uso de su descanso físico vacacional, por el término de treinta (30) días, comprendidos del 01 al 30 de junio del 2020.",
+            "recurso": "resalc.071-20.pdf"
+        },
+        {
+            "id": 70,
+            "name": "Resolución de Alcaldía Nº 070-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR a la Lic. NELLY MILAGROS HUAMANI CANDÍA -SUBGERENTE DE EDUCACIÓN, CULTURA, DEPORTE Y JUVENTUD de la Municipalidad Distrital de Villa El Salvador, el uso de su descanso físico vacacional, por el término de treinta (30) días, comprendidos del 01 al 30 de junio del 2020.",
+            "recurso": "resalc.070-20.pdf"
+        },
+        {
+            "id": 69,
+            "name": "Resolución de Alcaldía Nº 069-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR al CPC. JOSÉ FRANCISCO JAUREGUI BASOMBRIO - SUBGERENTE DE LA UNIDAD DE CONTABILIDAD de la Municipalidad Distrital de Villa El Salvador, el uso de su descanso físico vacacional, por el término de nueve (09) días, comprendidos del 01 al 09 de junio del 2020.",
+            "recurso": "resalc.069-20.pdf"
+        },
+        {
+            "id": 68,
+            "name": "Resolución de Alcaldía Nº 068-2020 ALC/MVES",
+            "descripcion": "MODIFICAR el Artículo Primero de la Resolución de Alcaldía N° 190-2019-ALC/MVES modificada con Resolución de Alcaldía N° 249-2019-ALC/MVES, en cuanto a la designación del Presidente del Comité de Administración del Programa del Vaso de Leche de la Municipalidad de Villa el Salvador, de la siguiente manera:",
+            "recurso": "resalc.068-20.pdf"
+        },
+        {
+            "id": 67,
+            "name": "Resolución de Alcaldía Nº 067-2020 ALC/MVES",
+            "descripcion": " APROBAR 51 \"Planes de Vigilancia, Prevención y Control del COVID-19 en el mercado de abasto o espacio temporal habilitado para el comercio de alimentos\" correspondientes a: 47 mercados de abasto vinculados a la Meta 1: \"Regulación del funcionamiento de ios mercados de abastos para la prevención y contención del COVID-19\"; y, 4 espacios temporales en proceso de habilitación vinculados a la Meta 2 \"Generación de espacios temporales para comercio con la finalidad de reducir la aglomeración en los mercados de abastos\", los mismos que forman parte integrante de la presente Resolución.",
+            "recurso": "resalc.067-20.pdf"
+        },
+        {
+            "id": 66,
+            "name": "Resolución de Alcaldía Nº 066-2020 ALC/MVES",
+            "descripcion": "DESIGNAR a LIC. LUCERO CATHERINE MOLERO DURAND como DEFENSORA RESPONSABLE DE LA DEFENSORÍA MUNICIPAL DEL NIÑO, NIÑA Y DEL ADOLESCENTE -DEMUNA DE LA MUNICIPALIDAD DE VILLA EL SALVADOR, DE SU SEDE CENTRAL Y DESCENTRALIZADOS, encargada de dirigir el procedimiento por riesgo establecido en el Decreto Legislativo N°1297, Decreto Legislativo para la protección de niñas, niños y adolescentes sin cuidados parentales o en riesgo de perderlos y su Reglamento aprobado mediante Decreto supremo N° 001-2018-MIMP, debiendo cumplir las demás funciones inherentes establecidas en las normas que rigen el servicio de las DEMUNAS.",
+            "recurso": "resalc.066-20.pdf"
+        },
+        {
+            "id": 65,
+            "name": "Resolución de Alcaldía Nº 065-2020 ALC/MVES",
+            "descripcion": "DESIGNAR a la SUBGERENTE DE LA UNIDAD DE ABASTECIMIENTO como responsable de la implementación de la \"META 3: Entrega efectiva de canastas familiares\" del Programa de centivos a la Mejora de la Gestión Municipal del Año 2020.",
+            "recurso": "resalc.065-20.pdf"
+        },
+        {
+            "id": 64,
+            "name": "Resolución de Alcaldía Nº 064-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el numeral 2.1 del Decreto de Urgencia N° 057-2020, en el presupuesto institucional año fiscal 2020 de la Municipalidad de Villa el Salvador, por un monto de S/. 306,251.00 (Trescientos seis mil doscientos cincuenta y uno con 00/100 soles) con cargo a la Fuente de Financiamiento: 1 Recursos Ordinarios, Categoría de Gasto 5: Gastos Corrientes y Genéricas de Gasto: 2.2 Pensiones y Otras Prestaciones Sociales; para financiar la adquisición de kits de limpieza, desinfección y seguridad ara comedores en el marco del Programa de Complementación Alimentaria, del Distrito de Villa el Salvador.",
+            "recurso": "resalc.064-20.pdf"
+        },
+        {
+            "id": 63,
+            "name": "Resolución de Alcaldía Nº 063-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el numeral 3.1 del Decreto de gerencia N° 057-2020, en el presupuesto institucional del Año Fiscal 2020 de la Municipalidad de Villa el Salvador, por monto de S/. 228,928.00 (Doscientos veintiocho mil novecientos veintiocho con 00/100 soles) con cargo a la Fuente de Financiamiento: 1 Recursos Ordinarios, Categoría de Gasto 5: Gastos Corrientes y Genéricas de Gasto 2.3 Bienes y Servicios; para la implementación de medidas para la prevención y contención del del contagio del COVID-19 en los mercados de abastos de la jurisdicción del Distrito de Villa el Salvador.",
+            "recurso": "resalc.063-20.pdf"
+        },
+        {
+            "id": 62,
+            "name": "Resolución de Alcaldía Nº 062-2020 ALC/MVES",
+            "descripcion": "DESIGNAR a la SUGERENTE DE FISCALIZACIÓN ADMINISTRATIVA como responsable de la iplementación de la Meta 2: Generación de espacios temporales para comercio con la finalidad de reducir la aglomeración en los mercados de abastos\" del Programa de Incentivos a la Mejora de la Gestión del Año 2020.",
+            "recurso": "resalc.062-20.pdf"
+        },
+        {
+            "id": 61,
+            "name": "Resolución de Alcaldía Nº 061-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR ál ABOG. CARLOS DANIEL ESPICHAN PÉREZ -ROCURADOR PUBLICO MUNICIPAL de la Municipalidad Distrital de Villa El Salvador, el uso de su descanso físico vacacional, con eficacia anticipada, por el término de veinte (20) días, comprendidos del 16 de abril al 05 de mayo del 2020.",
+            "recurso": "resalc.061-20.pdf"
+        },
+        {
+            "id": 60,
+            "name": "Resolución de Alcaldía Nº 060-2020 ALC/MVES",
+            "descripcion": "DAR POR CONCLUIDA la designación del Ing. CELSO WILDER BECERRA CALDERÓN como GERENTE MUNICIPAL de la Municipalidad Distrital de Villa El Salvador, siendo su último día de labores el 12 de mayo del 2020, dándole las gracias por los servicios prestados a la Entidad Edil, dejando sin efecto cualquier disposición que se oponga.",
+            "recurso": "resalc.060-20.pdf"
+        },
+        {
+            "id": 59,
+            "name": "Resolución de Alcaldía Nº 059-2020 ALC/MVES",
+            "descripcion": " DESIGNAR a la SUBGERENTE DE SALUD, SANIDAD Y BIENESTAR SOCIAL (DEMUNA, OMAPED Y CIAM) como responsable de la implementación de la Meta 1: “Regulación del funcionamiento de los mercados de abastos para la prevención y contención del COVID-19” del Programa de Incentivos a la Mejora de la Gestión Municipal del Año 2020.",
+            "recurso": "resalc.059-20.pdf"
+        },
+        {
+            "id": 58,
+            "name": "Resolución de Alcaldía Nº 058-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR al CPC. JOSÉ FRANCISCO JAUREGUI BASOMBRIO - SUBGERENTE DE LA UNIDAD DE CONTABILIDAD de la Municipalidad Distrital de Villa El Salvador, el uso de su descanso físico vacacional, con eficacia anticipada, por el término de trece (13) días, comprendidos del 05 al 17 de Mayo del 2020.",
+            "recurso": "resalc.058-20.pdf"
+        },
+        {
+            "id": 57,
+            "name": "Resolución de Alcaldía Nº 057-2020 ALC/MVES",
+            "descripcion": "ENCARGAR con eficacia anticipada, del 04 al 26 de mayo del 2020, las funciones propias de la SUBGERENCIA DE PARQUES Y JARDINES, INFORMACIÓN Y EVALUACIÓN AMBIENTAL de la Municipalidad Distrital de Villa El Salvador, al Ing. JORGE MANUEL LAOS CHUNG - Gerente de Servicios a la Ciudad y Gestión Ambiental de esta Corporación Edil, con retención de su cargo, en tanto dure el adelanto de vacaciones del titular, otorgadas con Acuerdo de Adelanto del Descanso Vacacional N° 27-2020-UGRH-OGA, autorizado por la Unidad de Gestión de Recursos Humanos, al amparo de lo establecido en el Decreto Legislativo Nº 1405 y su Reglamento, convalidando los actos administrativos y de administración que hubiese efectuado.",
+            "recurso": "resalc.057-20.pdf"
+        },
+        {
+            "id": 56,
+            "name": "Resolución de Alcaldía Nº 056-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA del Teniente General PNP® EDISON PASTOR SALAS ZÚÑIGA, al cargo de GERENTE DE SEGURIDAD CIUDADANA Y VIAL de la Municipalidad Distrital de Villa El Salvador, siendo su último día de labores el 08 de mayo del 2020, agradeciéndole por los servicios prestados a esta Comuna.",
+            "recurso": "resalc.056-20.pdf"
+        },
+        {
+            "id": 55,
+            "name": "Resolución de Alcaldía Nº 055-2020 ALC/MVES",
+            "descripcion": "DESIGNAR al Mayor PNP(r) AQUILES PEDRO BERNAL MEJIA como SUBGERENTE DE TRANSPORTE Y SEGURIDAD VIAL de la Municipalidad Distrital de Villa El Salvador, a partir del 09 de mayo del 2020, bajo el Régimen Especial de Contratación Administrativa de Servicios - Decreto Legislativo Nº 1057.",
+            "recurso": "resalc.055-20.pdf"
+        },
+        {
+            "id": 54,
+            "name": "Resolución de Alcaldía Nº 054-2020 ALC/MVES",
+            "descripcion": "DESIGNAR al Sr. TITO HUICSA HUAMÁN – Gerente de Desarrollo Económico y Empresarial y encargado de la Gerencia Municipal, como RESPONSABLE DEL MONITOREO DEL PROCESO DE IMPLEMENTACIÓN Y SEGUIMIENTO A LAS RECOMENDACIONES DEL ÓRGANO DE CONTROL INSTITUCIONAL DE LA MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR, conforme a lo dispuesto en la Directiva N° 006-2016-CGGPROD – “Implementación y seguimiento a las recomendaciones derivadas de los informes de auditoría y su publicación en el Portal de Transparencia Estándar de la Entidad” aprobada con Resolución de Contraloría N° 120-2016-CG, modificada con Resolución de Contraloría N° 222-2017-CG, ello mientras dure la licencia otorgada en el artículo primero de la Resolución de Alcaldía N° 053-2020-ALC/MVES.",
+            "recurso": "resalc.054-20.pdf"
+        },
+        {
+            "id": 53,
+            "name": "Resolución de Alcaldía Nº 053-2020 ALC/MVES",
+            "descripcion": "OTORGAR LICENCIA CON GOCE DE REMUNERACIONES al ING. CELSO BECERRA CALDERÓN - GERENTE MUNICIPAL de la Municipalidad Distrital de Villa El Salvador, y ENCARGAR al Sr. TITO HUISCA HUAMÁN-GERENTE DE DESARROLLO ECONÓMICO Y EMPRESARIAL de la municipalidad Distrital de Villa el Salvador, las funciones propias de la GERENCIA MUNICIPAL, a partir de la fecha.",
+            "recurso": "resalc.053-20.pdf"
+        },
+        {
+            "id": 51,
+            "name": "Resolución de Alcaldía Nº 051-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR al Ing. JAVIER ALEX BERNUY ESPINOZA – GERENTE DE DESARROLLO URBANO de la Municipalidad Distrital de Villa El Salvador, el uso de su descanso físico vacacional, por el término de veintiséis (26) días, comprendidos del 06 al 31 de Mayo del 2020.",
+            "recurso": "resalc.051-20.pdf"
+        },
+        {
+            "id": 50,
+            "name": "Resolución de Alcaldía Nº 050-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR a la Srta. INGRID CHRISTY CRISÒSTOMO BERROCAL - SUBGERENTE DE FISCALIZACIÓN TRIBUTARIA de la Municipalidad Distrital de Villa El Salvador, el uso de su descanso físico vacacional, por el término de veintiocho (28) días, correspondiente al año 2019, esto es del 04 al 31 de Mayo del 2020.",
+            "recurso": "resalc.050-20.pdf"
+        },        
+        {
+            "id": 49,
+            "name": "Resolución de Alcaldía Nº 049-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR a la Srta. HILDA ALDY GONZALES ORTIZ - SUBGERENTE DE RECAUDACIÓN Y CONTROL de la Municipalidad Distrital de Villa El Salvador, el uso de su descanso físico vacacional, por el término de veintiocho (28) días, correspondiente al año 2019, esto es del 04 al 31 de Mayo del 2020.",
+            "recurso": "resalc.049-20.pdf"
+        },
+        {
+            "id": 48,
+            "name": "Resolución de Alcaldía Nº 048-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos autorizados mediante el numeral 2.3 del Decreto de Urgencia Nº 047-2020, en el presupuesto institucional año fiscal 2020 de la Municipalidad de Villa El Salvador, por un monto de S/. 907,578.00 (Novecientos Siete Mil Quinientos Setenta y Ocho con 00/100 Soles) con cargo a la Fuente de Financiamiento: 1 Recursos Ordinarios y Genéricas de Gasto: 2.1 Personal y Obligaciones Sociales, 2.2 Pensiones y Otras Prestaciones Sociales, y 2.3 Bienes y Servicios; para apoyar el financiamiento del gasto operativo esencial del año fiscal 2020, vinculado a la prestación de servicios públicos de competencia de la entidad, de acuerdo al detalle en el Anexo que forma parte integrante de la presente Resolución",
+            "recurso": "resalc.048-20.pdf"
+        },
+        {
+            "id": 47,
+            "name": "Resolución de Alcaldía Nº 047-2020 ALC/MVES",
+            "descripcion": "APROBAR la desagregación de los recursos aprobados mediante el artículo 1° de la Resolución Ministerial N° 069-2020-MIDIS, que autoriza una Transferencia Financiera, para ser incorporada mediante Crédito Suplementario en el Presupuesto Institucional año fiscal 2020 de la Municipalidad Distrital de Villa el Salvador, por un monto de S/ 476,881.00 (Cuatrocientos Setenta y Seis Mil Ochocientos Ochenta y uno con 00/100 soles), redondeado a la asignación, en la Fuente de Financiamiento: 4 Donaciones y Transferencias, para la organización y desarrollo de un servicio de visitas domiciliaras y seguimiento nominal a la persona Adulto Mayor con Alto Riesgo y la persona con Discapacidad Severa en el distrito de Villa El Salvador, de acuerdo al siguiente detalle",
+            "recurso": "resalc.047-20.pdf"
+        },
+        {
+            "id": 46,
+            "name": "Resolución de Alcaldía Nº 046-2020 ALC/MVES",
+            "descripcion": "Rectificar el error material contenido en la Resolución de Alcaldía N°045-2020-ALC/MVES de fecha 07 de Abril del 2020, respecto a los días de licencia con goce de remuneraciones otorgados a favor de la Abog. Jaqueline Uscamayta Sotelo - Subgerente de la Unidad de Abastecimiento, en el sentido que corresponde a un (01) día, esto es el 05 de Abril del 2020, precisando que el artículo primero, segundo y tercero de la citada resolución quedaran redactadas de la siguiente manera:",
+            "recurso": "resalc.046-20.pdf"
+        },        
+        {
+            "id": 45,
+            "name": "Resolución de Alcaldía Nº 045-2020 ALC/MVES",
+            "descripcion": "ENCARGAR en vías de regularización del 05 al 08 de Abril del 2020, a la ING. MARINA LUZ ZANABRIA LIMACO - Gerente de la Oficina General de Administración de esta Corporación Edil, las funciones propias de la SUBGERENCIA DE ABASTECIMIENTO, mientras dure la ausencia del titular, con retención al cargo que ostenta, convalidando los actos administrativos y de administración que hubiese efectuado.",
+            "recurso": "resalc.045-20.pdf"
+        },
+        {
+            "id": 44,
+            "name": "Resolución de Alcaldía Nº 044-2020 ALC/MVES",
+            "descripcion": "DESIGNAR a la ABOG. JAQUELINE USCAMAYTA SOTELO Subgerente de la Unidad de Abastecimiento de la Municipalidad Distrital de Villa El Salvador como RESPONSABLE DEL REGISTRO DE LA INFORMACIÓN REQUERIDA POR LA CONTRALORÍA GENERAL DE LA REPÚBLICA, EN LA \"PLATAFORMA PARA LA TRANSPARENCIA DE LA GESTIÓN PÚBLICA EN LA EMERGENCIA SANITARIA COVID-19\".",
+            "recurso": "resalc.044-20.pdf"
+        },
+        {
+            "id": 43,
+            "name": "Resolución de Alcaldía Nº 043-2020 ALC/MVES",
+            "descripcion": "CONFORMAR el GRUPO DE TRABAJO PARA ORGANIZAR E IMPLEMENTAR LA ENTREGA DE PRODUCTOS DE PRIMERA NECESIDAD DE LA CANASTA BÁSICA FAMILIAR EN EL MARCO DE LA EMERGENCIA NACIONAL POR EL COVID-19 A FAVOR DE LA POBLACIÓN EN SITUACIÓN DE VULNERABILIDAD DEL DISTRITO DE VILLA EL SALVADOR el mismo que quedará conformado por los siguientes funcionarios:",
+            "recurso": "resalc.043-20.pdf"
+        },
+        {
+            "id": 42,
+            "name": "Resolución de Alcaldía Nº 023-2020 ALC/MVES",
+            "descripcion": "Apruébese la desagregación de los recursos aprobados mediante el numeral 2.4 del Decreto de Urgencia N° 033-2020,en el presupuesto Institucional año fiscal 2020 de la Municipalidad de Villa el Salvador, por un monto de S/ 1,000,000.00 (Un millón con 00/100 Soles) con cargo a la Fuente de Financiamiento: 1 Recursos Ordinarios, para financiar la adquisición de bienes de primera necesidad de la canasta básica familiar, a favor de la población en situación de vulnerabilidad del distrito de Villa El Salvador, de acuerdo al siguiente detalle:",
+            "recurso": "resalc.042-20.pdf"
+        },
+        {
+            "id": 41,
+            "name": "Resolución de Alcaldía Nº 041-2020 ALC/MVES",
+            "descripcion": "DAR POR CONCLUIDA la designacion del Blgo. JIMMY WILLIAM NIQUÉN CASTILLO como SUBGERENTE DE TRANSPORTE Y SEGURIDAD VIAL de la Municipalidad Distrital de Villa el Salvador, siendo su último día de labores el 27 de Marzo del 2020, agradeciéndole por los servicios prestados a esta comuna. ",
+            "recurso": "resalc.041-20.pdf"
+        },
+        {
+            "id": 40,
+            "name": "Resolución de Alcaldía Nº 040-2020 ALC/MVES",
+            "descripcion": "DESIGNAR al Ing. JORGE MANUEL LAOS  CHUNG, como GERENTE DE SERVICIOS A LA CIUDAD Y GESTIÓN AMBIENTAL  de la Municipalidad Distrital de Villa el Salvador, a partir del 16 de Marzo del 2020, bajo  el Régimen Especial de Contratación Administrativa de Servicios -Decreto Legislativo N°1057",
+            "recurso": "resalc.040-20.pdf"
+        },
+        {
+            "id": 39,
+            "name": "Resolución de Alcaldía Nº 039-2020 ALC/MVES",
+            "descripcion": "DAR POR CONCLUIDA la encargatura del Blgo. FERNANDO MARTÍN MEJÍA VARGAS- Subgerente Parques y Jardines, Información y Evaluación Ambiental de esta Corporación Edil, como GERENTE DE SERVICIOS A LA CIUDAD Y GESTIÓN AMBIENTAL de la Municipalidad Distrital de Villa el Salvador, siendo su último día de encargatura el 15 de Marzo del 2020.   ",
+            "recurso": "resalc.039-20.pdf"
+        },
+        {
+            "id": 38,
+            "name": "Resolución de Alcaldía Nº 038-2020 ALC/MVES",
+            "descripcion": "APROBAR el \"PLAN ANUAL DE EVALUACIÓN Y FISCALIZACIÓN AMBIENTAL - PLANEFA DE LA MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR PARA EL AÑO 2021\",que en Anexo forman parte integrante de la presente Resolución.",
+            "recurso": "resalc.038-20.pdf"
+        },
+        {
+            "id": 37,
+            "name": "Resolución de Alcaldía Nº 037-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR a la Bach. LORENA JULIANA MONTOYA LUJAN, Subgerente de la Unidad de Programación Multianual de Inversiones de la Municipalidad Distrital de Villa el Salvador, el uso de su descanso físico vacacional, por el término de siete (07) días, esto es del 16 al 22 de marzo del 2020.",
+            "recurso": "resalc.037-20.pdf"
+        },
+        {
+            "id": 36,
+            "name": "Resolución de Alcaldía Nº 036-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR a la Abg. LEILA GIOVANNA GARCÍA ANTEZANA, Subgerente de Riesgo Civil y Cementerio de la Municipalidad Distrital de Villa el Salvador, el uso de su descanso físico vacacional, por el término de quince (15) días, esto es del 16 al 30 de marzo del 2020.",
+            "recurso": "resalc.036-20.pdf"
+        },
+        {
+            "id": 35,
+            "name": "Resolución de Alcaldía Nº 035-2020 ALC/MVES",
+            "descripcion": "DECLARAR EL CESE DEFINITIVO a partir del 01 de Abril del 2020, por causal de Renuncia voluntaria de la servidora MARÍA LUISA RUGEL MONCADA, nombrada en el cargo de Secretaria IV de la Dirección de Juventudes,  en la plaza N°132 , con código T4.05675.4, al amparo del Régimen Laboral del Decreto Legislativo N°276, Ley de Bases de la Carrera Administrativa y de Remuneraciones del Sector Público y su Reglamento , por los fundamentos expuestos en la parte considerativa de la presente Resolución, agradeciéndole por los servicios prestados a la comuna de Villa el Salvador.",
+            "recurso": "resalc.035-20.pdf"
+        },
+        {
+            "id": 34,
+            "name": "Resolución de Alcaldía Nº 034-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA del Lic. ALEXANDER JULIO BAZÁN GUZMÁN, al cargo de Gerente de Servicios a la Ciudad y Gestión Ambiental de la Municipalidad Distrital de Villa el Salvador, siendo su último día de labores el 27 de febrero del 2020, agradeciéndole por los servicios prestados a esta comuna. ",
+            "recurso": "resalc.034-20.pdf"
+        },
+        {
+            "id": 33,
+            "name": "Resolución de Alcaldía Nº 033-2020 ALC/MVES",
+            "descripcion": "DELEGAR al señor regidor RAFAEL HERNÁN CUMPEN BONIFAZ, la facultad para celebrar el matrimonio civil del Sr. ENYER JOSEPH PALACIOS SUYBATE y la Srta. ELIANA SANDRA PAULINO OMONTE, a efectuarse el día 28 de febrero del 2020, en el Distrito de Villa el Salvador.",
+            "recurso": "resalc.033-20.pdf"
+        },
+        {
+            "id": 32,
+            "name": "Resolución de Alcaldía Nº 032-2020 ALC/MVES",
+            "descripcion": "DELEGAR a la señora regidora ROCÍO CELESTE PAZ RUIZ, la facultad para celebrar el Matrimonio Civil del Sr. HENRY PAZ RUIZ y la Srta. KAROLL JANETT FIGUEROA SAJAMI, a efectuarse el día 29 de febrero del 2020, en el Distrito de Villa el Salvador.",
+            "recurso": "resalc.032-20.pdf"
+        },
+        {
+            "id": 31,
+            "name": "Resolución de Alcaldía Nº 031-2020 ALC/MVES",
+            "descripcion": "ENCARGAR al señor JOSÉ SANTOS CAYAO RUBIO servidor nombrado adscrito bajo el régimen laboral del Decreto Legislativo N°276, como RESPONSABLE DEL ARCHIVO CENTRAL de la Municipalidad Distrital de Villa el Salvador, área dependiente de la Unidad de Atención al Ciudadano, Gestión Documentaria y Archivo.",
+            "recurso": "resalc.031-20.pdf"
+        },
+        {
+            "id": 30,
+            "name": "Resolución de Alcaldía Nº 030-2020 ALC/MVES",
+            "descripcion": "APROBAR el “PROGRAMA MULTIANUAL DE INVERSIONES -PMI 2021-2023 DEL DISTRITO DE VILLA EL SALVADOR” que contiene el Diagnóstico de la situación de las Brechas y la Cartera de Inversiones, que forma parte integrante de la presente Resolución de Alcaldía, formulada bajo los lineamientos de la Directiva N°001-2019-EF/63.01, Directiva General del Sistema Nacional de Programación Multianual y Gestión de Inversiones aprobada mediante Resolución Directoral N°001-2019-EF/63.01.",
+            "recurso": "resalc.030-20.pdf"
+        },
+        {
+            "id": 29,
+            "name": "Resolución de Alcaldía Nº 029-2020 ALC/MVES",
+            "descripcion": "MODIFICAR el Artículo Primero de la Resolución de Alcaldía N° 057-2019-ALC/MVES modificada con Resolución de Alcaldía N°298-2019-ALC/MVES, en cuanto a la designación de la Primera Responsable Titular del Manejo de cuentas Bancarias de la Municipalidad Distrital de Villa el Salvador, quedando redactado de la siguiente manera y conforme al Anexo adjunto en la presente Resolución:",
+            "recurso": "resalc.029-20.pdf"
+        },
+        {
+            "id": 28,
+            "name": "Resolución de Alcaldía Nº 028-2020 ALC/MVES",
+            "descripcion": "DELEGAR al señor regidor RAFAEL HERNÁN CUMPÉN BONIFAZ, la facultad para celebrar el Matrimonio Civil del Sr. SEGUNDO SIGIFREDO PÉREZ SAAVEDRA y la Srta. GABRIELA ZARATE GUTIERREZ, a efectuarse el día de 28 de febrero del 2020, en el distrito de Villa el Salvador.",
+            "recurso": "resalc.028-20.pdf"
+        },
+        {
+            "id": 27,
+            "name": "Resolución de Alcaldía Nº 027-2020 ALC/MVES",
+            "descripcion": "CONFORMAR la “Comisión de Programación Multianual Presupuestaria y Formulación Presupuestaria 2021-2023 ”de la Municipalidad Distrital de Villa el Salvador, la misma que estará integrada por los siguientes miembros:",
+            "recurso": "resalc.027-20.pdf"
+        },
+        {
+            "id": 26,
+            "name": "Resolución de Alcaldía Nº 026-2020 ALC/MVES",
+            "descripcion": "DELEGAR  a la señora regidora ROCÍO CELESTE PAZ RUIZ, la facultad para celebrar el Matrimonio Civil del Sr. EDSON JAHIR MONCADA CHUMPITAZ y la Srta. JULIETH KATHERINE AMORIN MACHACA, a efectuarse el día 21 de Febrero del 2020, en el Distrito de Villa el Salvador.",
+            "recurso": "resalc.026-20.pdf"
+        },
+        {
+            "id": 24,
+            "name": "Resolución de Alcaldía Nº 024-2020 ALC/MVES",
+            "descripcion": "Autorizarse la incorporación de mayores ingresos públicos en el Presupuesto Institucional de la Municipalidad Distrital de Villa el Salvador del Departamento de Lima, para el Año Fiscal 2020, hasta por la suma de S./259,000.00(Doscientos Cincuenta y Nueve Mil con /100 Soles), por Incorporación del Saldo de Balance , en la Fuente de Financiamiento 03 Recursos por Operaciones Oficiales de crédito -Rubro de Financiamiento 19 Recursos Por Operaciones Oficiales de Crédito en la Genérica de Gasto 2.6 Gasto de Capital, según detalle del ANEXO N°01 y N°02 que forma parte de la presente resolución.",
+            "recurso": "resalc.024-20.pdf"
+        },
+        {
+            "id": 23,
+            "name": "Resolución de Alcaldía Nº 023-2020 ALC/MVES",
+            "descripcion": "Apruébese la desagregación de los recursos aprobados  mediante Decreto  Supremo N°010-2020-EF, en el Presupuesto Institucional año fiscal 2020 de la Municipalidad de Villa el Salvador , por un monto de S/. 800,073.00(Ochocientos Mil Setenta  y Tres con 00/100 Soles ) en la Fuente de Financiamiento : 1 Recursos Ordinarios , para financiar el desarrollo del servicio de visitas domiciliarias en sus jurisdicciones ,según corresponda , a familias con niños y niñas entre cuatro (4)meses y doce (12) meses de edad, de acuerdo al siguientes detalle : ",
+            "recurso": "resalc.023-20.pdf"
+        },
+        {
+            "id": 22,
+            "name": "Resolución de Alcaldía Nº 022-2020 ALC/MVES",
+            "descripcion": "DELEGAR a la señora regidora ROCÍO CELESTE PAZ RUIZ, la facultad para celebrar el Matrimonio Civil del Sr.DANIEL SAÚL MENDOZA YAÑEZ y la Srta.GUDELIA BORDA ZUÑIGA, a efectuarse el día 15 de febrero del 2020, en el Distrito de Villa el Salvador.",
+            "recurso": "resalc.022-20.pdf"
+        },
+        {
+            "id": 21,
+            "name": "Resolución de Alcaldía Nº 021-2020 ALC/MVES",
+            "descripcion": "DESIGNAR   a la Srta YETTY ZEVALLOS MAMANI como SUBGERENTE DE LA UNIDAD DE TESORERÍA de la Municipalidad Distrital de Villa el Salvador, a partir  del 06 de febrero del 2020,bajo el Régimen de Especial de Contratación Administrativa de Servicios  Decreto Legislativo N° 1057",
+            "recurso": "resalc.021-20.pdf"
+        },
+        {
+            "id": 20,
+            "name": "Resolución de Alcaldía Nº 029-2020 ALC/MVES",
+            "descripcion": "ACEPTAR LA RENUNCIA de la Sra.MARIA DEL ROSARIO PAREDES SALAZAR , al cargo de Subgerente de la Unidad de Tesorería de la Municipalidad Distrital de Villa el Salvador , siendo su ultimo dia de labores  el 05 de febrero del 2020,agradeciéndole por los servicios prestados a esta comuna.",
+            "recurso": "resalc.020-20.pdf"
+        },        
+        {
+            "id": 19,
+            "name": "Resolución de Alcaldía Nº 019-2020 ALC/MVES",
+            "descripcion": "Autorizarse la incorporación de mayores ingresos públicos en el Presupuesto Institucional de la Municipalidad Distrital de Villa el Salvador del Departamento de Lima, para el Año Fiscal 2020, hasta por la suma de S./16 950,093.00 (Dieciséis millones novecientos cinco mil noventa y tres con 00/100 Soles), por incorporación de Saldo de Balance, distribuido de la siguiente manera: en la Rubro de Financiamiento 18 Canon Y Sobrecanon ,Regalías , Rentas de Aduana y Participaciones por un monto de S./14 904,881.00 (Catorce millones novecientos  cuatro mil ochocientos  ochenta y uno con 00/100 Soles ) y con el Rubro de Financiamiento 07 Fondo de Compensación Municipal por un monto de S./2 000,212.00 (Dos millones doscientos  doce con 00/100 Soles), según detalle del ANEXO N° 01 Y N° 02 que forma parte de la presente Resolución.  ",
+            "recurso": "resalc.019-20.pdf"
+        },
+        {
+            "id": 18,
+            "name": "Resolución de Alcaldía Nº 018-2020 ALC/MVES",
+            "descripcion": "CONCEDER en vías de regularización LA LICENCIA CON GOCE DE REMUNERACIÓN  POR FALLECIMIENTO DE FAMILIAR DIRECTO - hermana , quien en vida fue Doña Ludy Elizabeth Garcia Antezana , a la funcionaria ,LEILA GIOVANNA GARCÍA ANTEZANA , Subgerente de Registro Civil y Cementerio de la Municipalidad Distrital de Villa el Salvador, por cinco (05) días hábiles,  comprendidos del 20 al 24 de enero del 2020.",
+            "recurso": "resalc.018-20.pdf"
+        },
+        {
+            "id": 17,
+            "name": "Resolución de Alcaldía Nº 017-2020 ALC/MVES",
+            "descripcion": "DELEGAR al señor regidor RAFAEL HERNÁN  CUMPEN BONIFAZ, la facultad para celebrar el Matrimonio Civil del Sr.MIGUEL ÁNGEL SALAZAR SILVA  y la Srta. MARÍA CRISTINA  HURTADO PIZARRO, a efectuarse  el día 01 de febrero del 2020,en el distrito de Villa el Salvador.",
+            "recurso": "resalc.017-20.pdf"
+        },
+        {
+            "id": 16,
+            "name": "Resolución de Alcaldía Nº 016-2020 ALC/MVES",
+            "descripcion": "APROBAR los CRITERIOS DE PRIORIZACIÓN DEL PROGRAMA MULTIANUAL DE INVERSIONES - PMI 2021-2023 DE LA MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR, denominados: \"Criterios de priorización para el Servicio de movilidad urbana (Pistas y Veredas)\", \"Criterios de priorización para Servicios de espacios públicos verdes ( Parques y/o jardines)\" ,\"Criterios de priorización para el Servicio de limpieza pública (Residuos sólidos municipales)\" y \"Criterios de priorización para la infraestructura deportiva y recreativa\", los mismos que como anexo,forman parte de la presente Resolución de Alcaldía.",
+            "recurso": "resalc.016-20.pdf"
+        },
+        {
+            "id": 15,
+            "name": "Resolución de Alcaldía Nº 015-2020 ALC/MVES",
+            "descripcion": "DESIGNAR  a la Srta. ANGELA RAQUEL TRINIDAD SUÁREZ como SUBGERENTE  DE LA UNIDAD DE PRESUPUESTO de la Municipalidad Distrital de Villa el Salvador, a partir del 27 de enero del 2020, bajo el Régimen Especial de Contratación Administrativa de  Servicios -Decreto Legislativo N°1057 ",
+            "recurso": "resalc.015-20.pdf"
+        },
+        {
+            "id": 14,
+            "name": "Resolución de Alcaldía Nº 014-2020 ALC/MVES",
+            "descripcion": "Autorizarse  la Incorporación de mayores fondos públicos en el Presupuesto  Institucional  de la Municipalidad Distrital de Villa el Salvador del Departamento de Lima, para el Año Fiscal 2020, hasta  por la suma de S/.1\"807,272.00 (UN MILLÓN OCHOCIENTOS  SIETE MIL DOSCIENTOS SETENTA Y DOS CON 00/100 SOLES), por Incorporación del Saldo de Balance , distribuido de la siguiente manera : <br>En la Fuente de Financiamiento 2 Recursos Directamente Recaudados, Rubro de Financiamiento  09-Recursos Directamente Recaudados , distribuidos de acuerdo al ANEXO  N° 01 Y N°02 que forma parte de la presente Resolución.   ",
+            "recurso": "resalc.014-20.pdf"
+        },
+        {
+            "id": 13,
+            "name": "Resolución de Alcaldía Nº 013-2020 ALC/MVES",
+            "descripcion": "DECLARAR la NULIDAD DE OFICIO DEL PROCEDIMIENTO DE SELECCIÓN denominado LICITACIÓN PÚBLICA N°007-2019-CS/MVES,\"MEJORAMIENTO DEL ENTORNO URBANO DE LA AV.JOSÉ CARLOS MARIÁTEGUI TRAMOS COMPRENDIDOS ENTRE AV.PACHACUTEC Y LOMO DE CORVINA DISTRITO DE VILLA EL SALVADOR - PROVINCIA DE LIMA  - DEPARTAMENTO DE LIMA, CON CÓDIGO ÚNICO N°2453966\",retrotrayendo el proceso de la Convocatoria, en mérito al Informe IVN N°011-2020/DGR,de la Dirección de Gestión de Riesgos del Organismos Supervisor de las Contrataciones del Estado -OSCE, ello conforme a lo establecido en el numeral 44.2 del artículo 44° del Texto Único Ordenado de la Ley N°30225, Ley de Contrataciones del Estado ,aprobado mediante Decreto Supremo N°082-2019-EF ",
+            "recurso": "resalc.013-20.pdf"
+        },
+        {
+            "id": 12,
+            "name": "Resolución de Alcaldía Nº 012-2020 ALC/MVES",
+            "descripcion": "DECLARAR EL CESE DEFINITIVO por causal de límite de edad del servidor Felix Américo Muñante Uribe, personal obrero municipal en el cargo de chofer en la Subgerencia de Limpieza Pública y Maestranza  de esta corporación Edil,bajo el Régimen Laboral regulado por el Decreto Legislativo N°728,Ley de Productividad y Competitividad Laboral ,FORMALIZÁNDOSE el cese desde 02 de Diciembre del 2019,por los fundamentos expuesto en la parte considerativa de la presente Resolución ,agradeciéndole por los servicios prestados a la comuna de Villa el Salvador.",
+            "recurso": "resalc.012-20.pdf"
+        },
+        {
+            "id": 11,
+            "name": "Resolución de Alcaldía Nº 011-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR al Sra. ROSA MARÍA CARRASCO LÓPEZ- Responsable de la Agencia Municipal N°4 de la Municipalidad Distrital de Villa el Salvador,  el uso de su descanso físico vacacional, por el término de siete (7) días, correspondientes al año 2019, esto es del 13 al 19 de enero del 2020.",
+            "recurso": "resalc.011-20.pdf"
+        },
+        {
+            "id": 10,
+            "name": "Resolución de Alcaldía Nº 010-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR al Sr. MIGUEL RUJEL ORTIZ- Responsable de la Agencia Municipal N°3 de la Municipalidad Distrital de Villa el Salvador, en vías de regularización,el uso de su descanso físico vacacional,por el término de quince (15) días,correspondientes al año 2019, esto es del 09 al 23 de enero del 2020",
+            "recurso": "resalc.010-20.pdf"
+        },
+        {
+            "id": 9,
+            "name": "Resolución de Alcaldía Nº 009-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR al Sr.YONER FLORES FLORES -Responsable de la Agencia Municipal N° 2 de la Municipalidad Distrital de Villa el Salvador,en vías de regularización ,el uso de su descanso físico vacacional , por el término de quince (15) días,correspondientes al año 2019, esto es del 09 al 23 de enero del 2020",
+            "recurso": "resalc.009-20.pdf"
+        },
+        {
+            "id": 7,
+            "name": "Resolución de Alcaldía Nº 007-2020 ALC/MVES",
+            "descripcion": "DESIGNAR  como COORDINADORA DEL PROGRAMA DE INCENTIVOS A LA MEJORA DE LA GESTIÓN MUNICIPAL  DEL AÑO 2020, a la funcionaria que a continuación se menciona.   ",
+            "recurso": "resalc.007-20.pdf"
+        },
+        {
+            "id": 6,
+            "name": "Resolución de Alcaldía Nº 006-2020 ALC/MVES",
+            "descripcion": "ENCARGAR del 10 al 15 de Enero del 2020,las funciones propias del Despacho de Alcaldía a la Sra.Regidora ANA LOURDES CALVO MORI, en tanto dure su descanso físico vacacional del Alcalde y por la Licencia del primer Regidor Eloy Chávez Fernández,otorgada mediante Acuerdo de Concejo N°065-20.19/MVES.",
+            "recurso": "resalc.006-20.pdf"
+        },
+        {
+            "id": 5,
+            "name": "Resolución de Alcaldía Nº 005-2020 ALC/MVES",
+            "descripcion": "ENCARGAR en vías de regularización, del 02 al 06 de Enero del 2020, las funciones de la Unidad de Abastecimiento de la Municipalidad Distrital de Villa el Salvador a la Ing.MARINA LUZ ZANABRIA  LÍMACO-Gerente de la Oficina General de Administración de esta corporación Edil,con retención de su cargo,en tanto dure el adelanto de vacaciones de la titular,otorgadas con Acuerdo de Adelanto de Descanso Vacacional N°N°78-2019-UGRH-OGA, autorizado por la Unidad de Gestión de Recursos Humanos,al amparo de lo establecido en el Decreto Legislativo N°1405 y su Reglamento;convalidando los actos administrativos y de administración que hubiese afectado durante dicho periodo.",
+            "recurso": "resalc.005-20.pdf"
+        },
+        {
+            "id": 4,
+            "name": "Resolución de Alcaldía Nº 004-2020 ALC/MVES",
+            "descripcion": "MODIFICAR el Artículo Primero de la Resolución de Alcaldía N°146-2019-ALC/MVES,de fecha 12 de Abril del 2019,cuyo texto quedará redactado de la siguiente manera: ",
+            "recurso": "resalc.004-20.pdf"
+        },
+        {
+            "id": 3,
+            "name": "Resolución de Alcaldía Nº 003-2020 ALC/MVES",
+            "descripcion": "ESTABLECER que la UNIDAD DE GESTIÓN DE RECURSOS HUMANOS ejercerá las funciones correspondientes a la OFICINA DE INTEGRIDAD INSTITUCIONAL de la Municipalidad Distrital de Villa el Salvador, teniendo entre sus funciones las siguientes.",
+            "recurso": "resalc.003-20.pdf"
+        },
+        {
+            "id": 2,
+            "name": "Resolución de Alcaldía Nº 002-2020 ALC/MVES",
+            "descripcion": "PROMULGAR el presupuesto Institucional de Gastos correspondiente al Año  Fiscal 2020 del Pliego : Municipal Distrital de Villa el Salvador 2020,de acuerdo a lo siguiente:",
+            "recurso": "resalc.002-20.pdf"
+        },
+        {
+            "id": 1,
+            "name": "Resolución de Alcaldía Nº 001-2020 ALC/MVES",
+            "descripcion": "AUTORIZAR al Sr. LONI OLIVER ROSALES PALOMINO - Subgerente de Participación Ciudadana de la Municipalidad Distrital de Villa el Salvador, el uso de su descanso físico vacacional,por el término de veintiún (21)días,  correspondiente al año 2019,esto es del 06 al 26 de enero del 2020",
+            "recurso": "resalc.001-20.pdf"
+        }
+    ]
+}
