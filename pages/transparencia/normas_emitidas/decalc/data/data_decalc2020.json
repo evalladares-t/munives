@@ -1,0 +1,47 @@
+{
+    "ano": "2020",
+    "data": [
+        {
+            "id": 7,
+            "name": "Decretos de Alcaldía Nº 007-2018 DA/MVES",
+            "descripcion": "DISPONER el embanderamiento general de las viviendas, instituciones públicas y privadas, locales comerciales y demás predios del Distrito de Villa el Salvador por el mes de Julio de 2020, con motivo de la celebración del 199” Aniversario de la Proclamación de la Independencia del Perú.",
+            "recurso": "decalc.007-20.pdf"
+        },
+        {
+            "id": 6,
+            "name": "Decretos de Alcaldía Nº 006-2018 DA/MVES",
+            "descripcion": "ESTABLECER el horario de funcionamiento de los mercados de abastos y/o los espacios temporales habilitados para el comercio de alimentos en el distrito de Villa El Salvador, en el marco de las acciones de prevención y contención del COVID-19.",
+            "recurso": "decalc.006-20.pdf"
+        },
+        {
+            "id": 5,
+            "name": "Decretos de Alcaldía Nº 005-2018 DA/MVES",
+            "descripcion": "PRORROGAR a partir del 28 de mayo del 2020 hasta el 10 de junio del 2020 la vigencia del Artículo Segundo de la Ordenanza N° 427-MVES, ampliado con Decreto de Alcaldía Nº004-2020-ALC/MVES, que suspende el cómputo de los plazos de inicio y de tramitación de los procedimientos administrativos y servicios prestados en exclusividad seguidos bajo los alcances de la Ordenanza Nº 394-MVES, Texto Único de Procedimientos Administrativos (TUPA) de la Municipalidad Distrital de Villa El Salvador, incluso los regulados por leyes y disposiciones especiales, que se encuentren sujetos a plazo y que se tramiten en esta Corporación Edil.",
+            "recurso": "decalc.005-20.pdf"
+        },
+        {
+            "id": 4,
+            "name": "Decretos de Alcaldía Nº 004-2018 DA/MVES",
+            "descripcion": "PRORROGAR a partir del 07 de mayo del 2020 por quince (15) días hábiles la vigencia del Artículo Segundo de la Ordenanza N° 427-MVES, que suspende el cómputo de los plazos de inicio y de tramitación de los procedimientos administrativos y servicios prestados en exclusividad seguidos bajo los alcances de la Ordenanza Nº 394-MVES, Texto Único de Procedimientos Administrativos (TUPA) de la Municipalidad Distrital de Villa El Salvador, incluso los regulados por leyes y disposiciones especiales, que se encuentren sujetos a plazo y que se tramiten en e sta Corporación Edil.",
+            "recurso": "decalc.004-20.pdf"
+        },
+        {
+            "id": 3,
+            "name": "Decretos de Alcaldía Nº 003-2018 DA/MVES",
+            "descripcion": "PRORROGAR hasta el 30 de Abril del 2020, el vencimiento de Pago de la Primera Cuota del Impuesto Predial y de la Primera y Segunda cuota de los Arbitrios Municipales del ejercicio 2020.",
+            "recurso": "decalc.003-20.pdf"
+        },
+        {
+            "id": 2,
+            "name": "Decretos de Alcaldía Nº 002-2018 DA/MVES",
+            "descripcion": "PRORROGAR hasta el 31 de Marzo del 2020, el vencimiento de Pago de la Primera Cuota del Impuesto Predial y de la Primera y Segunda cuota de los Arbitrios Municipales del ejercicio 2020.",
+            "recurso": "decalc.002-20.pdf"
+        },
+        {
+            "id": 1,
+            "name": "Decretos de Alcaldía Nº 001-2018 DA/MVES",
+            "descripcion": "PRECISAR que la Comisión Ambiental Municipal del Distrito de Villa el Salvador -CAM del año 2019 y 2020,está conformada por las siguientes entidades públicas y privadas.",
+            "recurso": "decalc.001-20.pdf"
+        }
+    ]
+}

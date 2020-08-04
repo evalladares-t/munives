@@ -70,8 +70,8 @@
                                                 include '../tab_norm_emit_gen.php';
                                                 $ano="0";
                                             }
-                                        ?>  											
-                                    </div>	
+                                        ?>
+                                    </div>
                                     <div class="tab-pane tab-pane-navigation" id="resalc2018">
                                         <?php
                                             if($ano=="0"){

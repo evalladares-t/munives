@@ -41,11 +41,20 @@
                     </td>
                     <td style="text-align:center;">
                         <?php
-                            if($origen_data["data"][$i]["recurso"]!=null){?>
+                            if($origen_data["data"][$i]["recurso"]!=null && is_string($origen_data["data"][$i]["recurso"])){?>
                                 <a href="../../../../resources/transparencia/normas_emitidas/<?php echo $origen;?>/<?php echo $origen_data["ano"];?>/<?php echo $origen_data["data"][$i]["recurso"];?>" target="_blank"><i class="icon-doc icons"></i></a>
                         <?php
                             }
-                            else{
+                            if($origen_data["data"][$i]["recurso"]!=null && is_array($origen_data["data"][$i]["recurso"])){
+                                for($j=0;$j<count($origen_data["data"][$i]["recurso"]);$j++){
+                                    if($origen_data["data"][$i]["recurso"][$j]["recurso_enl"]!=null){?>
+                                <a href="../../../../resources/transparencia/normas_emitidas/<?php echo $origen;?>/<?php echo $origen_data["ano"];?>/<?php echo $origen_data["data"][$i]["recurso"][$j]["recurso_enl"];?>" target="_blank"><i class="icon-doc icons"></i></a>
+
+                        <?php
+                                    }
+                                }
+                            }   
+                            if($origen_data["data"][$i]["recurso"]==null){
                                 print_r("-");
                             }
                         ?>   

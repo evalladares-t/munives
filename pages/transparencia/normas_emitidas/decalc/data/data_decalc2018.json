@@ -1,0 +1,59 @@
+{
+    "ano": "2018",
+    "data": [
+        {
+            "id": 9,
+            "name": "Decretos de Alcaldía Nº 009-2018 DA/MVES",
+            "descripcion": "PRORROGAR hasta el 31 DE AGOSTO DEL 2018, la vigencia de la Ordenanza N° 397-MVES, que establece Beneficios para el pago de Deudas Tributarias, Administrativas, Sanciones Generadas y Regularización Predial en el Distrito de Villa el Salvador.",
+            "recurso": "decalc.009-18.pdf"
+        },
+        {
+            "id": 8,
+            "name": "Decretos de Alcaldía Nº 008-2018 DA/MVES",
+            "descripcion": "DEJAR SIN EFECTO, el derecho de tramite del suguiente procedimiento administrativo establecido en el Texto Unico de Procedimientos Administrativos - TUPA de la MUNICIPALIDAD DE VILLA EL SALVADOR, aprobado mediante Ordenanza Nº394-2018, Procedimiento 89",
+            "recurso": "decalc.008-18.pdf"
+        },
+        {
+            "id": 7,
+            "name": "Decretos de Alcaldía Nº 007-2018 DA/MVES",
+            "descripcion": "PRORROGAR hasta el 31 DE AGOSTO DEL 2018, la vigencia de la Ordenanza N° 390-MVES, prorogado con Decreto de Alcaldía N° 005-2018 ALC/MVES y N° 006-2018 ALC/MVES, que establece beneficios para el pago de deudas tributarias, administrativas, sanciones generadas y regularizacion predial en el distrito de Villa el Salvador.",
+            "recurso": "decalc.007-18.pdf"
+        },
+        {
+            "id": 6,
+            "name": "Decretos de Alcaldía Nº 006-2018 DA/MVES",
+            "descripcion": "MODIFICAR el Texto Único de Procedimientos Administrativos y Servicios Exclusivos - TUPA aprobado con Ordenanza N° 310-2014-MVES y ratificado con Acuerdo de Concejo N° 2359-MML, siendo un total de 63 Derechos de Trámite Gratuitos y 94 Derechos de Trámite con Costo, conforme se detalla en el Anexo N° 01 y 129 Procedimientos Administrativos y 19 Servicios Exclusivos, conforme se detalla en el Anexo N° 02, que forman parte integrante de la presente Ordenanza.",
+            "recurso": "decalc.006-18.pdf"
+        },
+        {
+            "id": 5,
+            "name": "Decretos de Alcaldía Nº 005-2018 DA/MVES",
+            "descripcion": "PRORROGAR hasta el 15 DE JULIO DEL 2018, la vigencia de la Ordenanza N° 390-MVES que establece Beneficios para el pago de Deudas Tributarias, Administrativas, Sanciones Generadas y Regularización Predial en el Distrito de Villa el Salvador.",
+            "recurso": "decalc.005-18.pdf"
+        },
+        {
+            "id": 4,
+            "name": "Decretos de Alcaldía Nº 004-2018 DA/MVES",
+            "descripcion": "APROBAR el \"PROGRAMA LOCAL DE VIGILANCIA Y MONITOREO DE LA CONTAMINACION SONORA PARA EL DISTRITO DE VILLA EL SALVADOR\" del ejercicio fiscal 2018cuyo texto como anexo forma parte integrante del presente Decreto.",
+            "recurso": "decalc.004-18.pdf"
+        },
+        {
+            "id": 3,
+            "name": "Decretos de Alcaldía Nº 003-2018 DA/MVES",
+            "descripcion": "AUTORIZAR la celebracion del I y II MATRIMONIO COMUNITARIO 2018, a realizarse:",
+            "recurso": "decalc.003-18.pdf"
+        },
+        {
+            "id": 2,
+            "name": "Decretos de Alcaldía Nº 002-2018 DA/MVES",
+            "descripcion": ".PRORROGAR hasta el 14 de Abril de 2018, el vencimiento de Pago de la Primera Cuota del Impuesto Predial y la Primera y Segunda Cuota de los Arbitrios Municipales del ejercicio 2018. establecida con Ordenanza Nº 386-MVES y prorrogada con Decreto de Alcaldia Nº 001-2018-ALC/MVES",
+            "recurso": "decalc.002-18.pdf"
+        },
+        {
+            "id": 1,
+            "name": "Decretos de Alcaldía Nº 001-2018 DA/MVES",
+            "descripcion": ".PRORROGAR hasta el 31 de Marzo del 2018, el vencimiento de Pago de la Primera Cuota del Impuesto Predial y la Primera y Segunda Cuota de los Arbitrios Municipales del ejercicio 2018.",
+            "recurso": "decalc.001-18.pdf"
+        }
+    ]
+}

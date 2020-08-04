@@ -1,0 +1,66 @@
+{
+    "ano": "2019",
+    "data": [
+        {
+            "id": 9,
+            "name": "Decretos de Alcaldía Nº 009-2019 DA/MVES",
+            "descripcion": "MODIFICAR el horario del Sorteo \"AL DÍA CON VILLA\" aprobado con Ordenanza N°417-MVES, el mismo que se efectuará el 03 DE ENERO DEL 2020, A HORAS 10:00 AM en el Frontis del Palacio Municipal del Distrito de Villa El Salvador.",
+            "recurso": "decalc.009-19.pdf"
+        },
+        {
+            "id": 8,
+            "name": "Decretos de Alcaldía Nº 008-2019 DA/MVES",
+            "descripcion": "MODIFICAR la fecha del Sorteo \"AL DÍA CON VILLA\" aprobado con Ordenanza N° 417-MVES, el mismo que se efectuará el 03 DE ENERO DEL 2020, a horas 06:00 pm en el  Frontis del Palacio Municipal del Distrito de Villa el Salvador, consecuentemente, se considerará contribuyentes hábiles a todas las personas naturales y sociedades conyugales propietarios o poseedores de una o más predio, cuyo uso se casa habitación y/o terrenos sin construir y que al 31 DE DICIEMBRE DEL 2019 hayan cumplido con pagar la totalidad del Impuesto Predial y Arbitrios municipales, de los diferentes ejercicios, incluyendo el año 2019.",
+            "recurso": "decalc.008-19.pdf"
+        },
+        {
+            "id": 7,
+            "name": "Decretos de Alcaldía Nº 007-2019 DA/MVES",
+            "descripcion": "PRORROGAR  hasta el 31 DE DICIEMBRE DE 2019, la vigencia de la Ordenanza N° 421-MVES, que establece Beneficios para el pago de deudas tributarias, Administrativas, Sanciones Generadas y de Regularización Predial en el Distrito de Villa el Salvador.",
+            "recurso": "decalc.007-19.pdf"
+        },
+        {
+            "id": 6,
+            "name": "Decretos de Alcaldía Nº 006-2019 DA/MVES",
+            "descripcion": "APROBAR las bases para la realizaciòn del Sorteo \"AL DÎA CON VILLA\", aprobado con Ordenanza Nª 417-MVES, la misma que tiene como finalidad premiar la puntualidad tributaria de los vecinos de Villa El Salvador con Deuda Cero, la misma que consta de diecisiete(17) Artìculos y que como Anexo forma parte del presente Decreto de Alcaldìa.",
+            "recurso": "decalc.006-19.pdf"
+        },
+        {
+            "id": 5,
+            "name": "Decretos de Alcaldía Nº 005-2019 DA/MVES",
+            "descripcion": "PRORROGAR hasta el 31 DE AGOSTO DEL 2019, la vigencia de la Ordenanza N° 409-MVES que establece Beneficios para el Pago de Deudas Tributarias, Administrativas, Sanciones Generadas y de Regularización Predial en el Distrito de Villa El Salvador.",
+            "recurso": "decalc.005-19.pdf"
+        },
+        {
+            "id": 4,
+            "name": "Decretos de Alcaldía Nº 004-2019 DA/MVES",
+            "descripcion": "PRORROGAR hasta el 31 de JULIO DEL 2019, la vigencia de la Ordenanza N° 409-MVES que establece Beneficios para el Pago de Deudas Tributarias, Administrativas, Sanciones Generadas y de Regularización Predial en el Distrito de Villa El Salvador.",
+            "recurso": "decalc.004-19.pdf"
+        },
+        {
+            "id": 3,
+            "name": "Decretos de Alcaldía Nº 003-2019 DA/MVES",
+            "descripcion": "PRORROGAR hasta el 31 de Marzo del 2019, el vencimiento de Pago de la Primera Cuota del Impuesto Predial y de la Primera y Segunda cuota de los Arbitrios Muncipales del ejercicio 2019.",
+            "recurso": "decalc.003-19.pdf"
+        },
+        {
+            "id": 2,
+            "name": "Decretos de Alcaldía Nº 002-2019 DA/MVES",
+            "descripcion": "AUTORIZAR la Celebracion del PRIMER y SEGUNDO MATRIMONIO CIVIL COMUNITARIO 2019.",
+            "recurso": "decalc.002-19.pdf"
+        },
+        {
+            "id": 1,
+            "name": "Decretos de Alcaldía Nº 001-2019 DA/MVES",
+            "descripcion": "CONVOCAR a elecciones para elegir a los REPRESENTANTES DE LA SOCIEDAD CIVIL de Villa El Salvador ante el Consejo de Coordinacion Local Distrital para el periodo 2019-2021",
+            "recurso": [
+                {
+                    "recurso_enl" :"decalc.001-19.pdf"
+                },
+                {
+                    "recurso_enl" :"feerrata_decalc.001-19.pdf"
+                }
+            ]
+        }
+    ]
+}
