@@ -1,0 +1,41 @@
+{
+    "ano": "2014",
+    "data": [
+        {
+            "id": 69,
+            "name": "Acuerdo de consejo Nº 069-2014 MVES",
+            "descripcion": "ESTABLECER como Depósito Municipal para el internamiento de bienes retenidos y/o decomisados por la Subgerencia de Fiscalización Administrativa, el local ubicado a espaldas del Estadio Uván Elías Moreno en el Distrito de villa El Salvador, conforme a los fundamentos expuestos en el presente.",
+            "recurso": "acucon.069-14.pdf"
+        },
+        {
+            "id": 47,
+            "name": "Acuerdo de consejo Nº 047-2014 MVES",
+            "descripcion": "CONSIDERANDO Que, el Artículo 194º de la Constitución Política del Perú concordado con el artículo II del Título Preliminar de la Ley Nº 27972, Ley Orgánica de Municipalidades, establece que los gobiernos locales gozan de autonomía radica en la facultad de ejercer actos de gobierno, administrativos y de administración, con sujeción al ordenamiento jurídico;",
+            "recurso": "acucon.047-14.pdf"
+        },
+        {
+            "id": 27,
+            "name": "Acuerdo de consejo Nº 027-2014 MVES",
+            "descripcion": "CONSIDERANDO Que, la Ley Nº 27972, Ley Orgánica de Municipalidades, en su artículo 541 establece entre otros que, fenecido el ejercicio presupuestal, bajo responsabilidad del Gerente Municipal o quien haga sus veces, se formula el balance general de ingresos y egresos y se presenta la memoria anual, documentos que deben ser aprobados por el Consejo Municipal dentro de los plazos establecidos por el Sistema Nacional de Contabilidad;",
+            "recurso": "acucon.027-14.pdf"
+        },
+        {
+            "id": 6,
+            "name": "Acuerdo de consejo Nº 006-2014 MVES",
+            "descripcion": "CONSIDERANDO Que el articulo 194º de la constitución politica del estado, modificada por la Ley de Reforma Nº 28607 , establece que la Municipalidades provinciales y distritales son órganos de gobierno local con autonomía política, económica y administrativa en los asuntos de su competencia;",
+            "recurso": "acucon.006-14.pdf"
+        },
+        {
+            "id": 2,
+            "name": "Acuerdo de consejo Nº 002-2014 MVES",
+            "descripcion": "APROBAR el texto de CONVENIO DE COOPERACIÓN INTERINSTITUCIONAL ENTRE LA COMISIÓN NACIONAL PARA EL DESARROLLO Y VIDA SIN DROGAS Y LA MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR EN EL MARCO DE LOS PROGRAMAS PRESUPUESTALES DE VIDA.",
+            "recurso": "acucon.002-14.pdf"
+        },
+        {
+            "id": 1,
+            "name": "Acuerdo de consejo Nº 001-2014 MVES",
+            "descripcion": "APROBAR el texto del convenio específico de cooperación técnica interinstitucional entre la municipalidad de villa el salvador y save the children international.",
+            "recurso": "acucon.001-14.pdf"
+        }
+    ]   
+}     
