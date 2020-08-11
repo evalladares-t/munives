@@ -8,6 +8,24 @@
             "recurso": "resoga.061-20.pdf"
         },
         {
+            "id": 60,
+            "name": "Resolución de Administración Nº 060-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 59,
+            "name": "Resolución de Administración Nº 059-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 58,
+            "name": "Resolución de Administración Nº 058-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
             "id": 57,
             "name": "Resolución de Administración Nº 057-2020 OGA/MVES",
             "descripcion": "SE RESUELVE: APROBAR la Quinta Modificación del Plan Anual de Contrataciones de la Municipalidad de Villa el Salvador correspondiente al ejercicio 2020, aprobado mediante Resolución de la Oficina General de Administración N°007-2020-OGA/MVES, de fecha 13 de enero del 2020, a fin de incluir un (01) procedimiento de selección, de acuerdo al detalle del Anexo Adjunto, que forma parte integrante de la presente resolución.",
@@ -18,6 +36,24 @@
             "name": "Resolución de Administración Nº 056-2020 OGA/MVES",
             "descripcion": "SE RESUELVE: APROBAR la cuarta modificación del Plan Anual de Contrataciones de la Municipalidad de Villa el Salvador correspondiente al ejercicio 2020, aprobado mediante Resolución de la Oficina General de Administración N°007-2020-OGA/MVES, de fecha 13 de enero de 2020, a fin de incluir dos (2) procedimientos de selección, de acuerdo al detalle del Anexo Adjunto, que forma parte integrante de la presente resolución:",
             "recurso": "resoga.056-20.pdf"
+        },
+        {
+            "id": 55,
+            "name": "Resolución de Administración Nº 055-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 54,
+            "name": "Resolución de Administración Nº 054-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 53,
+            "name": "Resolución de Administración Nº 053-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
         },
         {
             "id": 52,
@@ -48,7 +84,19 @@
             "name": "Resolución de Administración Nº 048-2020 OGA/MVES",
             "descripcion": "SE RESUELVE: APROBAR, en vías de regularización, la Tercera modificación del Plan Anual de Contrataciones de la Municipalidad de Villa el Salvador correspondiente al ejercicio 2020, aprobado mediante Resolución de la Oficina General de Administración N °007-2020-OGA/MVES, de fecha 13 de enero de 2020, a fin de incluir un (1) procedimiento de selección, de acuerdo   al detalle del Anexo Adjunto, que forma parte integrante de la presente resolución.",
             "recurso": "resoga.048-20.pdf"
-        },        
+        },     
+        {
+            "id": 47,
+            "name": "Resolución de Administración Nº 047-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        }, 
+        {
+            "id": 46,
+            "name": "Resolución de Administración Nº 046-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },    
         {
             "id": 45,
             "name": "Resolución de Administración Nº 045-2020 OGA/MVES",
@@ -68,6 +116,18 @@
             "recurso": "resoga.043-20.pdf"
         },
         {
+            "id": 42,
+            "name": "Resolución de Administración Nº 042-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 41,
+            "name": "Resolución de Administración Nº 041-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },        
+        {
             "id": 40,
             "name": "Resolución de Administración Nº 040-2020 OGA/MVES",
             "descripcion": "SE RESUELVE: ASIGNAR, un fondo en efectivo bajo la modalidad de “Encargo Interno” por el monto de S/ 1,200.00(Mil Doscientos con 00/100 Soles), a nombre de la Abog. GARCIA ANTEZANA LEILA GIOVANNA, Subgerente de Registro Civil y Cementerio, para la elaboración del banner para el restablecimiento del orden en el cementerio Cristo el Salvador, zona Cruz Central, a realizarse el 13 de marzo de 2020",
@@ -84,6 +144,12 @@
             "name": "Resolución de Administración Nº 038-2020 OGA/MVES",
             "descripcion": "SE RESUELVE: DISPONER el pago de S/ 694.49 (Seiscientos noventa y cuatro y 49/100 Soles), por concepto de Liquidación de Beneficios Sociales, a favor del ex servidor FÉLIX AMÉRICO MUÑANTE URIBE, por el  tiempo efectivamente laborado, teniendo en cuenta la retención de S/ 45.60 (Cuarenta y cinco y 60/100 Soles) correspondiente a las contribuciones a ESSALUD, conforme a lo dispuesto en el considerando décimo primero de la presente resolución;    ",
             "recurso": "resoga.038-20.pdf"
+        },
+        {
+            "id": 37,
+            "name": "Resolución de Administración Nº 037-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
         },
         {
             "id": 36,
@@ -183,7 +249,7 @@
         },
         {
             "id": 20,
-            "name": "Resolución de Administración Nº 029-2020 OGA/MVES",
+            "name": "Resolución de Administración Nº 020-2020 OGA/MVES",
             "descripcion": "DECLARAR PROCEDENTE, con eficacia anticipada, la licencia con goce de remuneraciones por fallecimiento de familiar directo, a favor del servidor MANUEL ABRAHAM PODESTÁ AHON, Sereno de Pie en la Subgerencia de Serenazgo, por los fundamentos expuestos en la parte considerativa de la presente Resolución.",
             "recurso": "resoga.020-20.pdf"
         },        
