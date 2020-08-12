@@ -99,7 +99,7 @@
         },
         {
             "id": 20,
-            "name": "Resolución de Gerencia Nº 029-2018 GDIS/MVES",
+            "name": "Resolución de Gerencia Nº 020-2018 GDIS/MVES",
             "descripcion": "DECLARAR IMPROCEDENTE EL RECURSO AMINISTRATIVO DE APELACION , a interpuesto por el Sra. Ernestina Rojas Bolivar, contra la Resolucion Subregerencial Nº 136-2018-SGSSBS-SDIS/MVES, de fecha 21 de Mayo del 2018, y dar por gotada la via administrativa, por las consideraciones expuestas en la parte considerativa de la presente resolucion.",
             "recurso": "resgdis.020-18.pdf"
         },
@@ -156,7 +156,13 @@
             "name": "Resolución de Gerencia Nº 011-2018 GDIS/MVES",
             "descripcion": "DECLARAR la NULIDAD DE OFICIO de la Resolucion SubGerencial Nº 325-217-SGPC-GDIS/MVES, de fecha 30 de Octubre del 2017; por las consideraciones expuestas en la parte considerativa de la presente resolucion.",
             "recurso": "resgdis.011-18.pdf"
-        },        
+        },
+        {
+            "id": 10,
+            "name": "Resolución de Gerencia Nº 010-2018 GDIS/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },           
         {
             "id": 9,
             "name": "Resolución de Gerencia Nº 009-2018 GDIS/MVES",

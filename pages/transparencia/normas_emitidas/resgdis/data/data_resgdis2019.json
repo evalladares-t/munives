@@ -56,6 +56,18 @@
             "recurso": "resgdis.034-19.pdf"
         },
         {
+            "id": 33,
+            "name": "Resolución de Gerencia Nº 033-2019 GDIS/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 32,
+            "name": "Resolución de Gerencia Nº 032-2019 GDIS/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },        
+        {
             "id": 31,
             "name": "Resolución de Gerencia Nº 031-2019 GDIS/MVES",
             "descripcion": "DECLARAR INFUNDADO EL RECURSO ADMINISTRATIVO DE APELACIÓN interpuesto por el Sr. Abraan Braulio Cueva Guerrero, contra la Resolución Subgerencial N°85-2019- SGSSBS-GDIS/MVES, de fecha 18 de marzo del 2019, y dar por agotada la vía administrativa, por las consideraciones expuestas en la parte considerativa de la presente resolución.",
@@ -123,7 +135,7 @@
         },
         {
             "id": 20,
-            "name": "Resolución de Gerencia Nº 029-2019 GDIS/MVES",
+            "name": "Resolución de Gerencia Nº 020-2019 GDIS/MVES",
             "descripcion": "DISPONER la SUSPENSIÓN TEMPORAL de LA ASISTENCIA ALIMENTARIA y/o SUBSIDIO ECONÓMICO por el LAPSO DE CUATRO (04) MESES, al comedor \"LA CAMPESINA\" con SIOP 5531, ubicado en Sector 5, Asociación Villa Victoria Mz A, Lote 6, Distrito de Villa el Salvador.",
             "recurso": "resgdis.020-19.pdf"
         },
@@ -216,6 +228,12 @@
             "name": "Resolución de Gerencia Nº 005-2019 GDIS/MVES",
             "descripcion": "DECLARAR IMPROCEDENTE EL RECURSO DE APELACIÓN, impuesto por el Sr. Marlon M. Minaya Mori, contra la Resolución Subgerencial N° 061-2019-SGSSBS-GDIS/MVES de fecha 08 de Marzo del 2019, y dar por agotada la vía administrativa, por las consideraciones expuestas en la parte considerativa de la presente resolución.",
             "recurso": "resgdis.005-19.pdf"
+        },
+        {
+            "id": 4,
+            "name": "Resolución de Gerencia Nº 003-2019 GDIS/MVES",
+            "descripcion": "-",
+            "recurso": null
         },
         {
             "id": 3,

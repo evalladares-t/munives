@@ -98,7 +98,25 @@
                                                 $ano="0";
                                             }
                                         ?>  											
-                                    </div>							
+                                    </div>
+                                    <div class="tab-pane tab-pane-navigation" id="resalc2014">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2014";
+                                                include '../tab_norm_emit_gen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
+                                    </div>	
+                                    <div class="tab-pane tab-pane-navigation" id="resalc2013">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2013";
+                                                include '../tab_norm_emit_gen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
+                                    </div>					
                                 </div>
                             </div>
                         </div>
