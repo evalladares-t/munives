@@ -99,6 +99,15 @@
                                             }
                                         ?>  											
                                     </div>
+                                    <div class="tab-pane tab-pane-navigation" id="resalc2015">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2015";
+                                                include '../tab_norm_emit_gen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
+                                    </div>
                                     <div class="tab-pane tab-pane-navigation" id="resalc2014">
                                         <?php
                                             if($ano=="0"){
