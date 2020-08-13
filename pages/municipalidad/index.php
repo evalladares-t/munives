@@ -540,7 +540,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2015G.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de gasto
@@ -548,7 +548,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/PIA/PIA2015I.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Detalle de ingreso
@@ -573,7 +573,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/RAS/ordenanza363-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2016/ordmun.363-16.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														RAS (Ordenanza Nº 363-2016)
@@ -581,7 +581,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/RAS/ordenanza385-2017.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2017/ordmun.385-17.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														RAS (Ordenanza Nº 385-2017)
@@ -606,7 +606,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUSNE/res_alcaldia836-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/resalc/2016/resalc.836-16.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Modificación de TUSNE (Carnet de Sanidad)
@@ -614,7 +614,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUSNE/res_alcaldia975-2015.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/resalc/2016/resalc.975-16.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Texto Único de Servicios No Exclusivos (TUSNE)
@@ -639,7 +639,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUSNE/ordenanza419-2019.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2019/ordmun.419-19.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														ROF
@@ -664,7 +664,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza406-2019.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2019/ordmun.406-19.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Nº 406-MVES que aprueba la adecuación de los Procedimientos Administrativos de Licencia de Funcionamiento de la Subgerencia de Licencias, Autorizaciones e Inspecciones Técnicas de Seguridad en Edificaciones.
@@ -672,7 +672,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza394-2018.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2018/ordmun.394-18.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Nº 394-MVES y Anexos N° 1.
@@ -680,7 +680,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza391-2018.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2018/ordmun.391-18.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Nº 391-MVES que aprueba la Modificatoria del TUPA aprobado por la Ordenanza Nº 310-MVES.
@@ -688,7 +688,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUPA/alcaldia001-2017.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/decalc/2017/decalc.001-17.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Decreto de Alcaldia Nº 001-2017-ALC/MVES que Aprueba la Actualización del porcentaje UIT 2017 (Derogado).
@@ -696,15 +696,15 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza360-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2016/ordmun.360-16.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
-														Ordenanza Nº 360-MVES que Modifica el TUPA aprobado por la Ordenanza Nº 310-2014-MVES (Derogado).
+														Ordenanza Nº 360-MVES que Modifica el TUPA aprobado por la Ordenanza Nº 310-2016-MVES (Derogado).
 													</td>
 												</tr>		
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUPA/alcaldia002-2016.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/decalc/2016/decalc.002-16.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Decreto de Alcaldia Nº 002-2016-ALC/MVES que Aprueba la Modificatoria del TUPA aprobado por la Ordenanza Nº 310-MVES (Derogado).
@@ -712,7 +712,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/TUPA/ordenanza310-2014.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2014/ordmun.310-14.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Ordenanza Municipal Nº 310-2014-MVES que Aprueba el TUPA.
@@ -787,7 +787,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/Estructura_Organizacional/ORGANIGRAMA_ORD_419-2019.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2019/ordmun.419-19.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Estructura Organizacional
@@ -816,7 +816,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/Estructura_Organizacional/MEMORIAINSTITUCIONAL2014MVES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Memoria_Institucional/MEMORIAINSTITUCIONAL2014MVES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2014</td>
 													<td>																
@@ -825,7 +825,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/Estructura_Organizacional/MEMORIAINSTITUCIONAL2013MVES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Memoria_Institucional/MEMORIAINSTITUCIONAL2013MVES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2013</td>
 													<td>																
@@ -854,7 +854,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/Res_alcaldia136-2018.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/resalc/2018/resalc.136-18.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2019</td>
 													<td>																
@@ -863,7 +863,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/Res_alcaldia059-2018.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/resalc/2018/resalc.059-18.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2018</td>
 													<td>																
@@ -872,7 +872,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/Plan_Operativo_Institucional/Res_alcaldia230-2017.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/resalc/2017/resalc.230-17.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>2017</td>
 													<td>																
@@ -1016,8 +1016,7 @@
 										</table>
 									</div>
 									<div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple19">
-										<h4 class="pb-4">Monitoreo POI</h4>
-										<h5 style="text-align: center;" class="pt-3">Programa Multianual de Inversiones (Diagnóstico de Cierre de Brechas)</h5>
+										<h4 class="pb-4">Programa Multianual de Inversiones (Diagnóstico de Cierre de Brechas)</h4>
 										<table class="table table-striped">
 											<thead>
 												<tr>
@@ -1032,7 +1031,7 @@
 											<tbody>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/PMI2021_2023.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Programa_MI/PMI2021_2023.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Diagnóstico de la situación de las brechas en el distrito(PMI 2021-2023)
@@ -1040,7 +1039,7 @@
 												</tr>
 												<tr>
 													<td style="text-align: center;">
-														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/PMI2020_2022.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/municipalidad/pdf/Programa_MI/PMI2020_2022.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Diagnóstico de la situación de las brechas en el distrito(PMI 2020-2022)
@@ -1048,7 +1047,7 @@
 												</tr>	
 												<tr>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/resalc/2020/resalc.013-20.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 													<td>																
 														Criterios de priorizacion del PMI 2021-2023 de la MVES

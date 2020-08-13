@@ -31,7 +31,7 @@
                                         <tbody>
                                             <tr>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/PDLC2017-2021MVES.pdf" target="_blank"><i class="far fa-file-excel"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/Anexo4-IRCT-Formato1.xlsx" target="_blank"><i class="far fa-file-excel"></i></a>
                                                 </td>
                                                 <td>
                                                 </td>
@@ -41,7 +41,7 @@
                                             </tr>
                                             <tr>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/Ordenanza347-2016.pdf" target="_blank"><i class="far fa-file-excel"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/Anexo4-IRCT-Formato2.xlsx" target="_blank"><i class="far fa-file-excel"></i></a>
                                                 </td>
                                                 <td>
                                                 </td>
@@ -51,7 +51,7 @@
                                             </tr>
                                             <tr>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="far fa-file-excel"></i></a>                                                
+                                                    <a href="../../resources/gestion/transf-gest/Anexo4-IRCT-Formato3-5.xlsx" target="_blank"><i class="far fa-file-excel"></i></a>                                                
                                                 </td>
                                                 <td>
                                                 </td>
@@ -61,7 +61,7 @@
                                             </tr>
                                             <tr>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="far fa-file-excel"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/Anexo4-IRCT-Formato6.xlsx" target="_blank"><i class="far fa-file-excel"></i></a>
                                                 </td>
                                                 <td>
                                                 </td>
@@ -71,7 +71,7 @@
                                             </tr>
                                             <tr>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="far fa-file-excel"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/Anexo4-IRCT-Formato7.xlsx" target="_blank"><i class="far fa-file-excel"></i></a>
                                                 </td>
                                                 <td>
                                                 </td>
@@ -81,7 +81,7 @@
                                             </tr>
                                             <tr>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="far fa-file-excel"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/Anexo4-IRCT-Formato8.xlsx" target="_blank"><i class="far fa-file-excel"></i></a>
                                                 </td>
                                                 <td>
                                                 </td>
@@ -91,7 +91,7 @@
                                             </tr>
                                             <tr>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="far fa-file-excel"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/Anexo4InfRendCuenTransf.xlsx" target="_blank"><i class="far fa-file-excel"></i></a>
                                                 </td>
                                                 <td>
                                                 </td>
@@ -101,10 +101,10 @@
                                             </tr>
                                             <tr>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="far fa-file-excel"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/Anexo7RepPreRendCuenTransf.xlsx" target="_blank"><i class="far fa-file-excel"></i></a>
                                                 </td>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/Anexo7RepPreRendCuenTransf.pdf" target="_blank"><i class="icon-doc icons"></i></a>
                                                 </td>
                                                 <td>																																
                                                     Anexo 7 Reporte Preliminar de Rendición de Cuentas y Transf.xlsx
@@ -114,7 +114,7 @@
                                                 <td>
                                                 </td>
                                                 <td style="text-align: center;">
-                                                    <a href="../../resources/municipalidad/pdf/PlandeDesarrolloLocalConcertado/NLPDLC2017-2021.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+                                                    <a href="../../resources/gestion/transf-gest/TG-consolidado.pdf" target="_blank"><i class="icon-doc icons"></i></a>
                                                 </td>
                                                 <td>																																                                                    	
                                                     Transferencia de la Gestión Administrativa de los Gobiernos Regionales y Gobiernos Locales

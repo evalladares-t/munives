@@ -69,7 +69,7 @@
 														2020
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2019/ordmun.416-19.pdf" target="_blank" ><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>											
 												<tr>
@@ -80,7 +80,7 @@
 														2020
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/part_ciud/2020/cron_mod.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>
 												<tr>
@@ -91,7 +91,7 @@
 														2020
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/part_ciud/2020/AGENTES_PARTICIPANTES.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>
 												<tr>
@@ -102,7 +102,7 @@
 														2020
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/part_ciud/2020/AGENTES_PARTICIPANTES_2020_ZONA1.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>
 												<tr>
@@ -113,7 +113,7 @@
 														2020
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/part_ciud/2020/AGENTES_PARTICIPANTES_2020_ZONA2.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>
 												<tr>
@@ -124,7 +124,7 @@
 														2020
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/part_ciud/2020/AGENTES_PARTICIPANTES_2020_ZONA3.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>
 												<tr>
@@ -135,7 +135,7 @@
 														2020
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/part_ciud/2020/AGENTES_PARTICIPANTES_2020_ZONA4.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>
 												<tr>
@@ -146,7 +146,7 @@
 														2020
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/part_ciud/2020/AGENTES_PARTICIPANTES_2020_ZONA5.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>
 											</tbody>
@@ -183,7 +183,7 @@
 														2019
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/part_ciud/2019/AGENTES_PARTICIPANTES_2019.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>	
 												<tr>
@@ -197,7 +197,7 @@
 														2019
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/acucon/2018/acucon.066-18.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>	
 												<tr>

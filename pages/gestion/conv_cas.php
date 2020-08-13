@@ -121,7 +121,7 @@
                                                                     <div class="col pb-3">
                                                                         <h4 class="pb-4 mt-4">FORMATO PARA LA INSCRIPCIÓN</h4>
                                                                         <br>
-                                                                        <a href="#"><p>Descargar Formulario de Inscripción</p></a>
+                                                                        <a href="../../resources/gestion/convocatorias-cas/formato/formato_cas.pdf" target="_blank"><p>Descargar Formulario de Inscripción</p></a>
                                                                     </div>
                                                                 </div>
                                                             </div>

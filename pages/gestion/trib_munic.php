@@ -78,7 +78,7 @@
                                                             -
                                                         </td>
                                                         <td style="text-align: center;">
-                                                            <a href="#" target="_blank"> <i class="icon-doc icons"></i></a>
+                                                            <a href="../../resources/gestion/trib_mun/form/hr.pdf" target="_blank"> <i class="icon-doc icons"></i></a>
                                                         </td>
                                                     </tr>   
                                                     <tr>
@@ -89,7 +89,7 @@
                                                             -
                                                         </td>
                                                         <td style="text-align: center;">
-                                                            <a href="#" target="_blank"> <i class="icon-doc icons"></i></a>
+                                                            <a href="../../resources/gestion/trib_mun/form/pu.pdf" target="_blank"> <i class="icon-doc icons"></i></a>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -100,7 +100,7 @@
                                                             -
                                                         </td>
                                                         <td style="text-align: center;">
-                                                            <a href="#" target="_blank"> <i class="icon-doc icons"></i></a>
+                                                            <a href="../../resources/gestion/trib_mun/form/pr.pdf" target="_blank"> <i class="icon-doc icons"></i></a>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -111,7 +111,7 @@
                                                             -
                                                         </td>
                                                         <td style="text-align: center;">
-                                                            <a href="#" target="_blank"> <i class="icon-doc icons"></i></a>
+                                                            <a href="../../resources/gestion/trib_mun/form/IndLlenaDDJJ.pdf" target="_blank"> <i class="icon-doc icons"></i></a>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -122,7 +122,7 @@
                                                             -
                                                         </td>
                                                         <td style="text-align: center;">
-                                                            <a href="#" target="_blank"> <i class="icon-doc icons"></i></a>
+                                                            <a href="../../resources/gestion/trib_mun/form/detCalImpPred.pdf" target="_blank"> <i class="icon-doc icons"></i></a>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -133,7 +133,7 @@
                                                             -
                                                         </td>
                                                         <td style="text-align: center;">
-                                                            <a href="#" target="_blank"> <i class="icon-doc icons"></i></a>
+                                                            <a href="../../resources/gestion/trib_mun/form/detCalArb.pdf" target="_blank"> <i class="icon-doc icons"></i></a>
                                                         </td>
                                                     </tr>    
                                                     <tr>
@@ -144,7 +144,7 @@
                                                             -
                                                         </td>
                                                         <td style="text-align: center;">
-                                                            <a href="#" target="_blank"> <i class="icon-doc icons"></i></a>
+                                                            <a href="../../resources/gestion/trib_mun/form/formPagTrib.pdf" target="_blank"> <i class="icon-doc icons"></i></a>
                                                         </td>
                                                     </tr>                                         
                                                 </tbody>
@@ -172,12 +172,12 @@
                                                     <tr>
                                                         <td>Ley Tributación Muncipal</td>
                                                         <td>-</td>
-                                                        <td><a href="#" target="_blank"> <i class="icon-doc icons"></i></a></td>
+                                                        <td><a href="../../resources/gestion/trib_mun/form/legisl/leyTribMun.pdf" target="_blank"> <i class="icon-doc icons"></i></a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>Ordenanza Municipal Nº 162-163-MVES</td>
                                                         <td>-</td>
-                                                        <td><a href="#" target="_blank"> <i class="icon-doc icons"></i></a></td>
+                                                        <td><a href="../../resources/transperencia/normas_emitidas/legisl/leyTribMun.pdf" target="_blank"> <i class="icon-doc icons"></i></a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>Ordenanza Municipal Nº 173-174-MVES</td>
