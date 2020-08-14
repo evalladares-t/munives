@@ -211,7 +211,7 @@
 														2019
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/resalc/2018/resalc.020-18.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>	
 												<tr>
@@ -225,7 +225,7 @@
 														2019
 													</td>
 													<td style="text-align: center;">
-														<a href="#"><i class="icon-doc icons"></i></a>
+														<a href="../../resources/transparencia/normas_emitidas/ordmun/2018/ordmun.398-18.pdf" target="_blank"><i class="icon-doc icons"></i></a>
 													</td>
 												</tr>	
 												<tr>
