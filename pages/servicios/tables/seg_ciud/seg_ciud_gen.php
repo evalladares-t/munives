@@ -1,6 +1,6 @@
   
 <?php    
-    $data = file_get_contents("data/data_".$origen.$ano.".json");
+    $data = file_get_contents("../../data/data_".$origen.$ano.".json");
     $origen_data = json_decode($data, true);
 ?>
     <h4 style="text-align:justify; margin-right:5%;"><?php print_r($title) ?> - <?php print_r($origen_data["ano"]) ?></h4>

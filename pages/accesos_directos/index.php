@@ -17,10 +17,10 @@
         <div class="row portfolio-list">
             <div class="col-12 col-sm-6 col-lg-3 isotope-item  vermenos">
                 <div class="portfolio-item ">
-                    <a href="./pages/gestion/trib_munic.php">
+                    <a href="./pages/accesos_directos/contact_linea.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/tributosmunicipales.jpg" class="img-fluid border-radius-0" alt="">
+                                <img src="img/accesodirectos/contact_linea.png" class="img-fluid border-radius-0" alt="">
                                 <span class="thumb-info-title ">
                                     <span class="thumb-info-inner">Contactos en línea</span>
                                 </span>
@@ -97,7 +97,7 @@
                     <a href="./pages/accesos_directos/buz_sugerencias.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/licencia_funcionamiento.jpg"
+                                <img src="img/accesodirectos/buz_sugerencias.png"
                                     class="img-fluid border-radius-0" alt="">
                                 <span class="thumb-info-title">
                                     <span class="thumb-info-inner"><span style="font-size: 15px;">Buzón de sugerencias</span></span>
@@ -125,7 +125,7 @@
             </div>
             <div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
                 <div class="portfolio-item">
-                    <a href="./pages/servicios/reg_civil.php">
+                    <a href="./pages/accesos_directos/licen_funcionamiento.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
                                 <img src="img/accesodirectos/registrocivil.jpg" class="img-fluid border-radius-0"
@@ -157,7 +157,7 @@
             </div>
             <div class="col-12 col-sm-6 col-lg-3 isotope-item vermenos">
                 <div class="portfolio-item">
-                    <a href="portfolio-single-wide-slider.html">
+                    <a href="./pages/accesos_directos/dat_abiertos.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
                                 <img src="img/accesodirectos/tusne.jpg" class="img-fluid border-radius-0" alt="">
@@ -172,26 +172,10 @@
             </div>
             <div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
                 <div class="portfolio-item">
-                    <a href="pages/accesos_directos/buzon_sug.php">
+                    <a href="./pages/accesos_directos/geo_portal.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/buzonsugerencias.jpg" class="img-fluid border-radius-0"
-                                    alt="">
-                                <span class="thumb-info-title">
-                                    <span class="thumb-info-inner">TUSNE</span>
-                                </span>
-
-                            </span>
-                        </span>
-                    </a>
-                </div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
-                <div class="portfolio-item">
-                    <a href="portfolio-single-wide-slider.html">
-                        <span class="thumb-info thumb-info-lighten border-radius-0">
-                            <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/geoportal.jpg" class="img-fluid border-radius-0" alt="">
+                                <img src="img/accesodirectos/geo_portal.png" class="img-fluid border-radius-0" alt="">
                                 <span class="thumb-info-title">
                                     <span class="thumb-info-inner">Geo Portal</span>
                                 </span>

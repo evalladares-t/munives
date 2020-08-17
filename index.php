@@ -225,11 +225,10 @@
 			<div role="main" class="main">
 
 			<!--Header-->
-				<div class="slider-container light rev_slider_wrapper" style="height: 650px;">
-					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 3000, 'gridwidth': 1170, 'gridheight': 565, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+			<div class="slider-container light rev_slider_wrapper" style="height: 670px;">
+					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 3000, 'gridwidth': 1170, 'gridheight': 445, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
 						<ul>
 							<li data-transition="fade">
-				
 								<img src="img/slides/slide-corporate-3-2.jpg"  
 									alt=""
 									data-bgposition="right center"
@@ -475,6 +474,7 @@
 						</div>
 					</div>
 				</section>
+
 			<!--Noticias -->
 				<section class="section bg-color-grey-scale-1 section-height-3 border-0 m-0">
 					<div class="container">
