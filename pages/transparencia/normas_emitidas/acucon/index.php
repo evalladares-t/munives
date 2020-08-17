@@ -94,7 +94,34 @@
                                                 $ano="0";
                                             }
                                         ?>  											
-                                    </div>							
+                                    </div>			
+                                    <div class="tab-pane tab-pane-navigation" id="acucon2015">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2015";
+                                                include '../tab_norm_emit_gen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
+                                    </div>		
+                                    <div class="tab-pane tab-pane-navigation" id="acucon2014">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2014";
+                                                include '../tab_norm_emit_gen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
+                                    </div>		
+                                    <div class="tab-pane tab-pane-navigation" id="acucon2013">
+                                        <?php
+                                            if($ano=="0"){
+                                                $ano="2013";
+                                                include '../tab_norm_emit_gen.php';
+                                                $ano="0";
+                                            }
+                                        ?>  											
+                                    </div>					
                                 </div>
                             </div>
                         </div>

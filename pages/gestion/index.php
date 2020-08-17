@@ -55,18 +55,7 @@
 									<div class="process-step col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">
 										
                                     </div>
-                                    <div class="process-step col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-										<div class="process-step-circle">
-											<a href=""><strong class="process-step-circle-content"><i class="icons icon-screen-desktop text-5 text-primary"></i></strong></a>
-                                        </div>
-										<div class="process-step-content">
-											<a href=""><h4 class="mb-1 text-5 font-weight-bold">INFORME DE RENDICIÓN DE CUENTAS POR PERIODO FINAL 2018</h4></a>
-											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus nulla dui, in dapibus magna aliquam et.</p>
-										</div>
-                                    </div>
-									<div class="process-step col-lg-4 mb-5 mb-lg-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
-										
-									</div>
+                                    
 								</div>
 							</div>
 						</div>

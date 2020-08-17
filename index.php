@@ -108,7 +108,7 @@
 								<div class="header-column justify-content-end">
 									<div class="header-row">
 										<ul class="header-social-icons social-icons d-none d-sm-block social-icons-clean">
-											<li class="social-icons-facebook"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/acucon','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+											<li class="social-icons-facebook"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resalc','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
 											<li class="social-icons-twitter"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resgm','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-twitter"></i></a></li>
 											<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
 										</ul>
@@ -124,7 +124,7 @@
 									<div class="header-logo header-logo-sticky-change">
 										<a href="index.php">
 											<img class="header-logo-sticky opacity-0" alt="Porto" width="250" height="80" data-sticky-width="100" data-sticky-height="50" data-sticky-top="100" src="img/logo-dark.png">
-											<img class="header-logo-non-sticky opacity-0" alt="Porto" width="250" height="80" src="img/logo-default.png">
+											<img class="header-logo-non-sticky opacity-0" alt="Porto" width="250" height="80" src="img/logo-default0.png">
 										</a>
 									</div>
 								</div>
@@ -225,8 +225,8 @@
 			<div role="main" class="main">
 
 			<!--Header-->
-			<div class="slider-container light rev_slider_wrapper" style="height: 670px;">
-					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 3000, 'gridwidth': 1170, 'gridheight': 445, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+			<div class="slider-container light rev_slider_wrapper" style="height: 600px;">
+					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 3000, 'gridwidth': 1170, 'gridheight': 600, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
 						<ul>
 							<li data-transition="fade">
 								<img src="img/slides/slide-corporate-3-2.jpg"  
@@ -525,7 +525,7 @@
 							<h5 class="text-5 text-transform-none font-weight-semibold text-color-light mb-4">Dirección</h5>
 							<p class="text-4 mb-0">Sector 2, Grupo 15</p>
 							<p class="text-4 mb-0">Av. Revolucion S/N cruce con Av. Cesar Vallejo</p>
-							<p class="text-4 mb-0">New York</p>
+							<p class="text-4 mb-0">Villa el Salvador - Lima - Perú</p>
 						</div>
 						<div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
 							<h5 class="text-5 text-transform-none font-weight-semibold text-color-light mb-4">Horario de Atención</h5>
@@ -535,7 +535,7 @@
 						</div>
 						<div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
 							<h5 class="text-5 text-transform-none font-weight-semibold text-color-light mb-4">Número de Contacto</h5>
-							<p class="text-7 text-color-light font-weight-bold mb-2">(01)319-2530</p>
+							<p class="text-7 text-color-light font-weight-bold mb-2">319-2530</p>
 							
 						</div>
 						<div class="col-md-6 col-lg-3">

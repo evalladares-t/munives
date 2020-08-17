@@ -50,7 +50,7 @@
                     <a href="./pages/gestion/trib_munic.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/licencia_funcionamiento.jpg"
+                                <img src="img/accesodirectos/trib_munic.png"
                                     class="img-fluid border-radius-0" alt="">
                                 <span class="thumb-info-title">
                                     <span class="thumb-info-inner">Tributos Municipales</span>
@@ -66,7 +66,7 @@
                     <a href="http://192.168.10.10:5056/tupaweb/" target="_blank">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/tributosmunicipales.jpg" class="img-fluid border-radius-0" alt="">
+                                <img src="img/accesodirectos/tupa.png" class="img-fluid border-radius-0" alt="">
                                 <span class="thumb-info-title ">
                                     <span class="thumb-info-inner">TUPA</span>
                                 </span>
@@ -81,7 +81,7 @@
                     <a href="pages/accesos_directos/licen_edificacion.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/licenciaedificacion.jpg" class="img-fluid border-radius-0"
+                                <img src="img/accesodirectos/licen_edificacion.png" class="img-fluid border-radius-0"
                                     alt="">
                                 <span class="thumb-info-title">
                                     <span class="thumb-info-inner">Licencia de Edificación</span>
@@ -113,7 +113,7 @@
                     <a href="./pages/accesos_directos/aten_ciudadano.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/tupa.jpg" class="img-fluid border-radius-0" alt="">
+                                <img src="img/accesodirectos/aten_ciudadano.png" class="img-fluid border-radius-0" alt="">
                                 <span class="thumb-info-title">
                                     <span class="thumb-info-inner">Atención al ciudadano</span>
                                 </span>
@@ -128,7 +128,7 @@
                     <a href="./pages/accesos_directos/licen_funcionamiento.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/registrocivil.jpg" class="img-fluid border-radius-0"
+                                <img src="img/accesodirectos/licen_funcionamiento.png" class="img-fluid border-radius-0"
                                     alt="">
                                 <span class="thumb-info-title">
                                     <span class="thumb-info-inner">Licencia de funcionamiento</span>
@@ -144,25 +144,10 @@
                     <a href="./pages/servicios/reg_civil.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/registrocivil.jpg" class="img-fluid border-radius-0"
+                                <img src="img/accesodirectos/reg_civil.png" class="img-fluid border-radius-0"
                                     alt="">
                                 <span class="thumb-info-title">
-                                    <span class="thumb-info-inner">Registro civiles</span>
-                                </span>
-
-                            </span>
-                        </span>
-                    </a>
-                </div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 isotope-item vermenos">
-                <div class="portfolio-item">
-                    <a href="./pages/accesos_directos/dat_abiertos.php">
-                        <span class="thumb-info thumb-info-lighten border-radius-0">
-                            <span class="thumb-info-wrapper border-radius-0">
-                                <img src="img/accesodirectos/tusne.jpg" class="img-fluid border-radius-0" alt="">
-                                <span class="thumb-info-title">
-                                    <span class="thumb-info-inner">Datos abiertos</span>
+                                    <span class="thumb-info-inner">Registro civil</span>
                                 </span>
 
                             </span>
@@ -172,19 +157,48 @@
             </div>
             <div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
                 <div class="portfolio-item">
+                    <a href="./pages/gestion/dat_abiertos.php">
+                        <span class="thumb-info thumb-info-lighten border-radius-0">
+                            <span class="thumb-info-wrapper border-radius-0">
+                                <img src="img/accesodirectos/dat_abiertos.png"
+                                    class="img-fluid border-radius-0" alt="">
+                                <span class="thumb-info-title">
+                                    <span class="thumb-info-inner">Datos abiertos</span>
+                                </span>
+                            </span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
+                <div class="portfolio-item">
+                    <a href="./resources/transparencia/normas_emitidas/resalc/2015/resalc.975-15.pdf" target="_blank">
+                        <span class="thumb-info thumb-info-lighten border-radius-0">
+                            <span class="thumb-info-wrapper border-radius-0">
+                                <img src="img/accesodirectos/tusne.png"
+                                    class="img-fluid border-radius-0" alt="">
+                                <span class="thumb-info-title">
+                                    <span class="thumb-info-inner">TUSNE</span>
+                                </span>
+                            </span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-3 isotope-item vermenos">
+                <div class="portfolio-item">
                     <a href="./pages/accesos_directos/geo_portal.php">
                         <span class="thumb-info thumb-info-lighten border-radius-0">
                             <span class="thumb-info-wrapper border-radius-0">
                                 <img src="img/accesodirectos/geo_portal.png" class="img-fluid border-radius-0" alt="">
                                 <span class="thumb-info-title">
                                     <span class="thumb-info-inner">Geo Portal</span>
-                                </span>
-            
+                                </span>            
                             </span>
                         </span>
                     </a>
                 </div>
-            </div>																
+            </div>											
         </div>
     </div>
 </div>

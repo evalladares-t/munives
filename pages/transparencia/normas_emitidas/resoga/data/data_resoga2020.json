@@ -2,6 +2,78 @@
     "ano": "2020",
     "data": [
         {
+            "id": 73,
+            "name": "Resolución de Administración Nº 073-2020 OGA/MVES",
+            "descripcion": "APROBAR la Novena modificación del Plan Anual de Contrataciones de la Municipalidad de Villa el Salvador correspondiente al ejercicio 2020, aprobado mediante Resolución de la Oficina General de Administración N°007-2020-OGA/MVES, de fecha 13 de enero de 2020, a fin de incluir dos (02) procedimientos de selección, de acuerdo al detalle del Anexo Adjunto, que forma parte integrante de la presente resolución.",
+            "recurso": "resoga.073-20.pdf"
+        },
+        {
+            "id": 72,
+            "name": "Resolución de Administración Nº 072-2020 OGA/MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 71,
+            "name": "Resolución de Administración Nº 071-2020 OGA/MVES",
+            "descripcion": "APROBAR la Octava modificación del Plan Anual de Contrataciones de la Municipalidad de Villa el Salvador correspondiente al ejercicio 2020, aprobado mediante Resolución de la Oficina General de Administración N°007-2020-OGA/MVES, de fecha 13 de enero de 2020, a fin de incluir once (11) procedimientos de selección, de acuerdo al detalle del Anexo Adjunto, que forma parte integrante de la presente resolución.",
+            "recurso": "resoga.071-20.pdf"
+        },
+        {
+            "id": 70,
+            "name": "Resolución de Administración Nº 070-2020 OGA/MVES",
+            "descripcion": "APROBAR EL ALTA POR LA CAUSAL DE “DONACIÓN “de DIEZ (10) MÓDULOS TEMPORALES DE VIVIENDA INSTALADOS, a favor de la Municipalidad de Villa el Salvador, para el uso de las familias damnificadas producto de la deflagración ocurrida el 23 de enero de 2020 en la Av. Viña del Mar cruce con la Av. Mariano Pastor Sevilla, cuyas características y valor individual se encuentran detallados en el Anexo 1 que forma parte de la presente resolución.",
+            "recurso": "resoga.070-20.pdf"
+        },
+        {
+            "id": 69,
+            "name": "Resolución de Administración Nº 069-2020 OGA/MVES",
+            "descripcion": "DISPONER el pago de S/ 4,790.33 (Cuatro mil setecientos noventa y 33/100 Soles), para la cancelación de la multa impuesta mediante la Resolución Sub Directoral N°118-2016-MTPE/1/20.43, de fecha 19 de febrero de 2016, la misma que fuere confirmada mediante Resolución Directoral    N°286- 16-MTPE/1/20.4, de fecha 26 de agosto de 2016, por la infracción inspectiva grave y muy grave al negarse a recibir un requerimiento de comparecencia en la visita efectuada el 26 de febrero de 2013, y al no asistir a la diligencia de comparecencia programada para el 20  de febrero de 2013 en el Ministerio de Trabajo y Promoción del Empleo, respectivamente",
+            "recurso": "resoga.069-20.pdf"
+        },
+        {
+            "id": 68,
+            "name": "Resolución de Administración Nº 068-2020 OGA/MVES",
+            "descripcion": "APROBAR la Sétima modificación del Plan Anual de Contrataciones de la Municipalidad de Villa el Salvador correspondiente al ejercicio 2020, aprobado mediante Resolución de la Oficina General de Administración N°007-2020-OGA/MVES de fecha 13 de enero de 2020, a fin de incluir un (1) procedimiento de selección, de acuerdo al detalle del Anexo Adjunto, que forma parte integrante de la presente resolución:",
+            "recurso": "resoga.068-20.pdf"
+        },
+        {
+            "id": 67,
+            "name": "Resolución de Administración Nº 067-2020 OGA/MVES",
+            "descripcion": "DECLARAR PROCEDENTE, con eficacia anticipada, la licencia con goce de remuneraciones por fallecimiento del familiar directo, a favor del servidor FRANCISCO ALONSO QUEZADA GARCÍA, chofer de compacta en la Subgerencia de Limpieza Pública y Maestranza, por los fundamentos expuestos en la parte considerativa de la presente Resolución ",
+            "recurso": "resoga.067-20.pdf"
+        },
+        {
+            "id": 66,
+            "name": "Resolución de Administración Nº 066-2020 OGA/MVES",
+            "descripcion": "APROBAR la sexta modificación del Plan Anual de Contrataciones de la Municipalidad de Villa El Salvador correspondiente al ejercicio 2020, aprobado mediante Resolución de la Oficina General de Administración N° 007-2020-OGA/MVES, de fecha 13 de enero de 2020, a fin de incluir dos (2) procedimientos de selección, de acuerdo al detalle del Anexo Adjunto, que forma parte integrante de la presente resolución",
+            "recurso": "resoga.066-20.pdf"
+        },
+        {
+            "id": 65,
+            "name": "Resolución de Administración Nº 065-2020 OGA/MVES",
+            "descripcion": "DECLARAR PROCEDENTE, con eficacia anticipada, la licencia con goce de remuneraciones por fallecimiento de familiar directo, a favor de la servidora NORA ISABEL MORALES ANTÓN, Soporte Legal de la Oficina Genera de Administración, por los fundamentos expuestos en la parte considerativa de la presente Resolución.",
+            "recurso": "resoga.065-20.pdf"
+        },
+        {
+            "id": 64,
+            "name": "Resolución de Administración Nº 064-2020 OGA/MVES",
+            "descripcion": " DECLARAR PROCEDENTE, con eficacia anticipada, la licencia con goce de remuneraciones por fallecimiento de familiar directo, a favor del servidor JUAN RAMON YARLEQUE ZAPATA, chofer de montacargas en la Subgerencia de Limpieza Pública y Maestranza, por los fundamentos expuestos en la parte considerativa de la presente Resolución.",
+            "recurso": "resoga.064-20.pdf"
+        },
+        {
+            "id": 63,
+            "name": "Resolución de Administración Nº 063-2020 OGA/MVES",
+            "descripcion": "DECLARAR PROCEDENTE, con eficacia anticipada, la licencia con goce de remuneraciones por fallecimiento de familiar directo, a favor del servidor ROUSWELL ROLANDO REYES ORTEGA, ayudante de compacta en la Subgerencia de Limpieza Pública y Maestranza, por los fundamentos expuestos en la parte considerativa de la presente Resolución.",
+            "recurso": "resoga.063-20.pdf"
+        },
+        {
+            "id": 62,
+            "name": "Resolución de Administración Nº 062-2020 OGA/MVES",
+            "descripcion": "DECLARAR PROCEDENTE, con eficacia anticipada, la licencia con goce de remuneraciones por fallecimiento de familiar directo, a favor de la servidora CLORINDA RISVELI GARCÍA GONZALES, promotora en la Subgerencia de Programa Sociales, por los fundamentos expuestos en la parte considerativa de la presente Resolución.",
+            "recurso": "resoga.062-20.pdf"
+        },
+        {
             "id": 61,
             "name": "Resolución de Administración Nº 061-2020 OGA/MVES",
             "descripcion": "SE RESUELVE: DECLARAR PROCEDENTE, la solicitud de devolución de dinero efectuado por la administrada ROSA ROCSANA ACERO GALLARDO DE BOCANGEL, en mérito a las consideraciones expuestas en la presente Resolución.",
