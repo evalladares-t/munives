@@ -109,12 +109,6 @@
                                                     </a>
 
                                                 </li>
-                                                <li class="dropdown dropdown-full-color dropdown-light">
-                                                    <a class="dropdown-item dropdown-toggle" href="#">
-                                                        Contacto
-                                                    </a>
-
-                                                </li>
                                             </ul>
                                         </nav>
                                     </div>

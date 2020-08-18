@@ -202,12 +202,6 @@
 															</a>
 
 														</li>
-														<li class="dropdown dropdown-full-color dropdown-light">
-															<a class="dropdown-item dropdown-toggle" href="#">
-																Contacto
-															</a>
-
-														</li>
 													</ul>
 												</nav>
 											</div>
@@ -226,7 +220,7 @@
 
 			<!--Header-->
 			<div class="slider-container light rev_slider_wrapper" style="height: 600px;">
-					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 3000, 'gridwidth': 1170, 'gridheight': 600, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 4500, 'gridwidth': 1170, 'gridheight': 600, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
 						<ul>
 							<li data-transition="fade">
 								<img src="img/slides/slide-corporate-3-2.jpg"  
@@ -245,7 +239,7 @@
 									data-offsetstart="0 0"
 									data-offsetend="0 0"
 									data-bgparallax="0"
-									class="rev-slidebg">
+                                    class="rev-slidebg">                                
 							</li>
 							<li data-transition="fade">
 				
@@ -265,7 +259,21 @@
 									data-offsetstart="0 0"
 									data-offsetend="0 0"
 									data-bgparallax="0"
-									class="rev-slidebg">
+                                    class="rev-slidebg">
+                                    
+                                <a class="tp-caption btn btn-dark font-weight-semibold"
+									data-frames='[{"delay":500,"speed":2000,"frame":"0","from":"opacity:0;y:50%;","to":"o:1;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-hash
+									data-hash-offset="85"
+									href="#main"
+									data-x="left" data-hoffset="0"
+									data-y="bottom" data-voffset="['100','100','100','210']"
+									data-whitespace="nowrap"	
+									data-fontsize="['14','14','14','33']"	
+									data-paddingtop="['16','16','16','40']"
+									data-paddingright="['33','33','33','80']"
+									data-paddingbottom="['16','16','16','40']"				 
+									data-paddingleft="['33','33','33','80']">Más información!</a>
 							</li>
 							<li data-transition="fade">
 				
@@ -285,7 +293,21 @@
 									data-offsetstart="0 0"
 									data-offsetend="0 0"
 									data-bgparallax="0"
-									class="rev-slidebg">
+                                    class="rev-slidebg">
+
+                                <a class="tp-caption btn btn-dark font-weight-semibold"
+									data-frames='[{"delay":500,"speed":2000,"frame":"0","from":"opacity:0;y:50%;","to":"o:1;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-hash
+									data-hash-offset="85"
+									href="#main"
+									data-x="right" data-hoffset="0"
+									data-y="bottom" data-voffset="['100','100','100','210']"
+									data-whitespace="nowrap"	
+									data-fontsize="['14','14','14','33']"	
+									data-paddingtop="['16','16','16','40']"
+									data-paddingright="['33','33','33','80']"
+									data-paddingbottom="['16','16','16','40']"				 
+									data-paddingleft="['33','33','33','80']">Más información!</a>
 							</li>	
 							<li data-transition="fade">
 				
@@ -477,47 +499,45 @@
 
 			<!--Noticias -->
 				<section class="section bg-color-grey-scale-1 section-height-3 border-0 m-0">
-					<div class="container">
-						<div class="row py-5 my-5">
-							<div class="col-md-6 order-2 order-md-1 text-center text-md-left appear-animation mt-2 pt-1" data-appear-animation="fadeInRightShorter">
-								<div class="owl-carousel owl-theme nav-style-1 mb-0" data-plugin-options="{'responsive': {'576': {'items': 1}, '768': {'items': 1}, '992': {'items': 2}, '1200': {'items': 2}}, 'margin': 25, 'loop': true, 'nav': false, 'dots': false, 'autoplay': true, 'autoplayTimeout': 3000}">
-									<div>
-										<img class="img-fluid rounded-0 mb-4" src="img/team/team-1.jpg" alt="" />
-										<h3 class="font-weight-bold text-color-dark text-4 mb-0">John Doe</h3>
-										<p class="text-2 mb-0">CEO</p>
-									</div>
-									<div>
-										<img class="img-fluid rounded-0 mb-4" src="img/team/team-2.jpg" alt="" />
-										<h3 class="font-weight-bold text-color-dark text-4 mb-0">Jessica Doe</h3>
-										<p class="text-2 mb-0">CEO</p>
-									</div>
-									<div>
-										<img class="img-fluid rounded-0 mb-4" src="img/team/team-3.jpg" alt="" />
-										<h3 class="font-weight-bold text-color-dark text-4 mb-0">Chris Doe</h3>
-										<p class="text-2 mb-0">DEVELOPER</p>
-									</div>
-									<div>
-										<img class="img-fluid rounded-0 mb-4" src="img/team/team-4.jpg" alt="" />
-										<h3 class="font-weight-bold text-color-dark text-4 mb-0">Julie Doe</h3>
-										<p class="text-2 mb-0">SEO ANALYST</p>
-									</div>
-									<div>
-										<img class="img-fluid rounded-0 mb-4" src="img/team/team-5.jpg" alt="" />
-										<h3 class="font-weight-bold text-color-dark text-4 mb-0">Robert Doe</h3>
-										<p class="text-2 mb-0">DESIGNER</p>
+                    <div class="row justify-content-center">
+						<div class="col-lg-9 text-center">
+							<div class="appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" style="animation-delay: 100ms;">
+								<h2 class="font-weight-bold mb-2">Noticias</h2>
+								<p class="mb-4">Mantente actualizado con las noticias o anuncios que traemos para ti</p>
+							</div>
+							<!--<p class="pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo. vamus suscipit molestie vestibulum.</p>-->
+						</div>
+					</div>
+					<div class="container py-2">
+						<div class="row ml-5" style="text-align:center;">
+							<div class="col-lg-10" style="margin-left:50px">
+								<div class="tabs tabs-vertical tabs-left">
+									<ul class="nav nav-tabs">
+										<li class="nav-item active">
+											<a class="nav-link" href="#facetabs" data-toggle="tab">Facebook</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" href="#twittabs" data-toggle="tab">Twitter</a>
+										</li>
+									</ul>
+									<div class="tab-content">
+										<div id="facetabs" class="tab-pane active">
+											<div>
+												<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&amp;version=v8.0&amp;appId=170688570940969&amp;autoLogAppEvents=1" nonce="Anh2IrTK">
+												</script>
+											</div>
+											<div class="fb-page" data-href="https://www.facebook.com/munivillaelsalvador" data-tabs="timeline" data-width="600" data-height="550" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/munivillaelsalvador" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/munivillaelsalvador">Municipalidad de Villa El Salvador</a></blockquote></div>
+										</div>
+										<div id="twittabs" class="tab-pane">
+                                            <a class="twitter-timeline"  data-width="600" data-height="550" href="https://twitter.com/VesMuni"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="col-md-6 order-1 order-md-2 text-center text-md-left mb-5 mb-md-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
-								<h2 class="text-color-dark font-weight-normal text-6 mb-2">Meet <strong class="font-weight-extra-bold">Our Team</strong></h2>
-								<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa enim. Nullam id varius nunc.</p>
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
-								<a href="page-team.html" class="btn btn-dark font-weight-semibold rounded-0 px-5 btn-py-2 text-2 p-relative bottom-3">LEARN MORE</a>
-							</div>
+							</div>							
 						</div>
 					</div>
 				</section>
-			</div>
+            </div>
 			<footer id="footer" class="mt-0">
 				<div class="container my-4">
 					<div class="row py-5">

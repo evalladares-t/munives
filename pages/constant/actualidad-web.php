@@ -6,47 +6,47 @@
         </div>
         <div id="containerVideo">
             <div class="vid-container">
-                <iframe id="vid_frame" src="https://www.youtube.com/embed/J7RlRzG2cRs?rel=0&amp;showinfo=0&amp;autohide=1"
+                <iframe id="vid_frame" src="https://www.youtube.com/embed/_7l2yigKcDo?rel=0&amp;showinfo=0&amp;autohide=1"
                     width="560" height="315" frameborder="0"></iframe>
             </div>
             <div class="vid-list-container">
                 <div class="vid-list">
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/J7RlRzG2cRs?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/J7RlRzG2cRs/0.jpg"> </div>
-                        <div class="desc">Entrega de más canastas</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/_7l2yigKcDo?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/_7l2yigKcDo/0.jpg"> </div>
+                        <div class="desc">Aniversario Patrio 2020</div>
                     </div>
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/ZUoDGRf7ZmY?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/ZUoDGRf7ZmY/0.jpg"> </div>
-                        <div class="desc">Discurso por el 49 Aniversario de VES</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/13Nk-wJmTBc?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/13Nk-wJmTBc/0.jpg"> </div>
+                        <div class="desc">Protocolos de boiseguridad que deben cumplir las mototaxis</div>
                     </div>
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/FVyWiIbPH74?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/FVyWiIbPH74/0.jpg"> </div>
-                        <div class="desc">Saludos del Alcalde de Lima por los 49 años de VES</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/vuwX9Xi8LiE?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/vuwX9Xi8LiE/0.jpg"> </div>
+                        <div class="desc">Muni de VES y policía fiscal clausaran centros de salud donde atendía falso médico</div>
                     </div>
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/z2iBR0-TSt8?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/z2iBR0-TSt8/0.jpg"> </div>
-                        <div class="desc">Saludos del Alcade de V. M. T. por los 49 años de VES</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/VFTFE9X1QR4?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/VFTFE9X1QR4/0.jpg"> </div>
+                        <div class="desc">Municipalidad de VES entrega víveres de primera necesidad a las familias de la zona cementerio</div>
                     </div>
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/KDVBLPU1FaE?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/KDVBLPU1FaE/0.jpg"> </div>
-                        <div class="desc">Saludos del Alcalde de Cieneguilla por los 49 años de VES</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/PbgzYTHGcbI?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/PbgzYTHGcbI/0.jpg"> </div>
+                        <div class="desc">Plan de Seguridad "Fortaleza 2020"</div>
                     </div>
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/JnJTqorftYw?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/JnJTqorftYw/0.jpg"> </div>
-                        <div class="desc">Saludos del Alcalde de Pachacamac por los 49 años de VES</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/eO5eqVpVjGA?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/eO5eqVpVjGA/0.jpg"> </div>
+                        <div class="desc">No bajamos la guardia, continuamos batallando contra el coranovirus</div>
                     </div>
-
+                    <!--ACTUALIZAR -->
                     <div class="vid-item"
                         onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/Br54hyytzUA?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
                         <div class="thumb"><img src="http://img.youtube.com/vi/Br54hyytzUA/0.jpg"> </div>
