@@ -24,18 +24,7 @@
                                 </li>
 								<li><strong><i class="fas fa-angle-right mr-2"></i>Twitter:</strong><br>
                                     <a href="https://twitter.com/VesMuni" target="_blank">https://twitter.com/VesMuni</a>
-                                </li>
-                                <li><strong><i class="fas fa-angle-right mr-2"></i>Agencia Municipal N° 3:</strong><br>
-                                    Cruce Av. Pastor Sevilla. (Ruta C) y Av. Bolivar. Teléfono: (01) 287-5997
-                                </li>
-                                <li><strong><i class="fas fa-angle-right mr-2"></i>Agencia Municipal N° 4:</strong><br>
-                                    Cruce Av. Micaela Bastidas (Ruta B) y Av. Los Ángeles Sector 01, Grupo 24. Teléfono: (01) 281-6235
-                                </li>
-                                <li><strong><i class="fas fa-angle-right mr-2"></i>Gerencia de Desarrollo Económico y local</strong><br>
-                                Av. Juan Velazco Alvarado cruce con Av. Solidaridad
-                                Parcela 2, Manzana Z, Lote1, 2do Piso (plaza center)
-                                Teléfono: (01) 319-2530 anexo 151- 152-154
-                                </li>
+                                </li>                                
 							</ul>
 						</div>
 					</div>

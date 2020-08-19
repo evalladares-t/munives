@@ -5,25 +5,26 @@
             "id": 4,
             "name": "DIRECTIVA Nº 006-2016-CG/GPROD",
             "descripcion": "ESTADO DE IMPLEMENTACION DE LAS RECOMENDACIONES DEL INFORME DE AUDITORIA ORIENTADAS A LA MEJORA DE LA GESTION <br> PERIODO 01 octubre al 30 de noviembre 2019",
-            "recurso": "dir-oci-006-30-11-19.pdf"
+            "recurso": "dir-oci-006-01-10-19.pdf"
+            
         },
         {
             "id": 3,
             "name": "DIRECTIVA Nº 006-2016-CG/GPROD",
             "descripcion": "ESTADO DE IMPLEMENTACION DE LAS RECOMENDACIONES DEL INFORME DE AUDITORIA ORIENTADAS A LA MEJORA DE LA GESTION <br> PERIODO 01 julio al 25 de setiembre 2019",
-            "recurso": "dir-oci-006-25-09-19.pdf"
+            "recurso": "dir-oci-006-01-07-19.pdf"
         },
         {
             "id": 2,
             "name": "DIRECTIVA Nº 006-2016-CG/GPROD",
             "descripcion": "ESTADO DE IMPLEMENTACION DE LAS RECOMENDACIONES DEL INFORME DE AUDITORIA ORIENTADAS A LA MEJORA DE LA GESTION <br> PERIODO 01 abril al 25 de junio 2019",
-            "recurso": "dir-oci-006-25-06-19.pdf"
+            "recurso": "dir-oci-006-01-04-19.pdf"
         },
         {
             "id": 1,
             "name": "DIRECTIVA Nº 006-2016-CG/GPROD",
             "descripcion": "ESTADO DE IMPLEMENTACION DE LAS RECOMENDACIONES DEL INFORME DE AUDITORIA ORIENTADAS A LA MEJORA DE LA GESTION  <br> PERIODO 02 Enero al 29 de Marzo 2019",
-            "recurso": "dir-oci-006-29-03-19.pdf"
+            "recurso": "dir-oci-006-02-01-19"
         }
     ]
 }

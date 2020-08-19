@@ -26,13 +26,13 @@
                     <div class="vid-item"
                         onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/vuwX9Xi8LiE?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
                         <div class="thumb"><img src="http://img.youtube.com/vi/vuwX9Xi8LiE/0.jpg"> </div>
-                        <div class="desc">Muni de VES y policía fiscal clausaran centros de salud donde atendía falso médico</div>
+                        <div class="desc">Mun. de V.E.S. y policía fiscal clausaran centros de salud donde atendía falso médico</div>
                     </div>
 
                     <div class="vid-item"
                         onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/VFTFE9X1QR4?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
                         <div class="thumb"><img src="http://img.youtube.com/vi/VFTFE9X1QR4/0.jpg"> </div>
-                        <div class="desc">Municipalidad de VES entrega víveres de primera necesidad a las familias de la zona cementerio</div>
+                        <div class="desc">Mun. de V.E.S. entrega víveres de primera necesidad a las familias de la zona cementerio</div>
                     </div>
 
                     <div class="vid-item"
@@ -48,44 +48,44 @@
                     </div>
                     <!--ACTUALIZAR -->
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/Br54hyytzUA?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/Br54hyytzUA/0.jpg"> </div>
-                        <div class="desc">Saludo del Ejercito y los Bomberos por lso 49 años de VES</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/uIv2tgVWh78?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/uIv2tgVWh78/0.jpg"> </div>
+                        <div class="desc">Trabajos de mantenimiento del parque central del AA.HH. Oasis de Villa</div>
                     </div>
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/4dZJptTeSAY?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/4dZJptTeSAY/0.jpg"> </div>
-                        <div class="desc">Saludos de Artistas nacionales por los 49 años de VES</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/lu9pDS7ahHM?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/lu9pDS7ahHM/0.jpg"> </div>
+                        <div class="desc">Mun. de V.E.S. y ministerio público clausuran 2 panaderías insalubles</div>
                     </div>
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/Re2RuV9YTxo?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/Re2RuV9YTxo/0.jpg"> </div>
-                        <div class="desc">Entrega de pollos y mangos</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/3bhaFtusiSo?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/3bhaFtusiSo/0.jpg"> </div>
+                        <div class="desc">Obras de pistas y veredas de concreto continúan en el sector 9 Grupo 5</div>
                     </div>
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/NGj74w_XDak?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/NGj74w_XDak/0.jpg"> </div>
-                        <div class="desc">Continuamos con la entrega de canastas</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/VsQHVpjUnZM?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/VsQHVpjUnZM/0.jpg"> </div>
+                        <div class="desc">Desinfección de los vehículos de serenazgo para salvaguardar la salud del personal municipal</div>
                     </div>
 
 
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/OskKwVMnk_M?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/OskKwVMnk_M/0.jpg"> </div>
-                        <div class="desc">Reparto de canastas y viveres</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/SKISQERNsv8?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/SKISQERNsv8/0.jpg"> </div>
+                        <div class="desc">Continuamos con las obras, pistas y veredas en el sector 9 Grupo 4</div>
                     </div>
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/J4a712Dv-EM?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/J4a712Dv-EM/0.jpg"> </div>
-                        <div class="desc">Alcalde entregó donaciones a los más necesitados del distrito</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/adEba6ka1Tk?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/adEba6ka1Tk/0.jpg"> </div>
+                        <div class="desc">Continuamos con los trabajos de desinfección</div>
                     </div>
                     <div class="vid-item"
-                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/_Bo5wRL-k24?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
-                        <div class="thumb"><img src="http://img.youtube.com/vi/_Bo5wRL-k24/0.jpg"> </div>
-                        <div class="desc">Operativo Contravirus en Pachacamac</div>
+                        onclick="document.getElementById('vid_frame').src='http://youtube.com/embed/JvEB8xpLA0o?autoplay=1&amp;rel=0&amp;showinfo=0&amp;autohide=1'">
+                        <div class="thumb"><img src="http://img.youtube.com/vi/JvEB8xpLA0o/0.jpg"> </div>
+                        <div class="desc">Trabajos conjuntos: Mercados saludables en Villa el Salvador</div>
                     </div>
 
                 </div>
