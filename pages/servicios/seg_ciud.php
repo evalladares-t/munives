@@ -16,11 +16,10 @@
 				?>
             
                 <div role="main" class="main">
-					<div class="container py-2">
+					<div class="container py-2 mt-5">
 						<div class="row">
-							<div class="col">
-								<hr class="solid my-3">
-								<h4 class="mb-4" style="margin-left:80px;text-align: left;">Documentación</h4>  
+							<div class="col">								
+								<h4 class="mb-4 mt-5" style="margin-left:80px;text-align: left;">Documentación</h4>  
 								<div class="text-center">  								       
 									<div class="row">
 										<div class="col-lg-4">
@@ -42,7 +41,7 @@
 											<div class="tab-pane tab-pane-navigation active" id="seg_ciud2020">
 												<h4>PLAN DISTRITAL DE SEGURIDAD CIUDADANA 2020<br>ACTIVIDADES Y EVALUACION DEL CODISEC</h4>
 												<div class="tabs tabs-quaternary">
-													<ul class="nav nav-tabs">
+													<ul class="nav nav-tabs mt-3">
 														<li class="nav-item active">
 															<a class="nav-link" href="#plan_a" data-toggle="tab">Plan de acción</a>
 														</li>
@@ -65,7 +64,7 @@
 															<a class="nav-link" href="#otros" data-toggle="tab">Otros</a>
 														</li>
 													</ul>
-													<div class="tab-content">
+													<div class="tab-content mt-2">
 														<div id="plan_a" class="tab-pane active">
 															<table class="table table-striped mb-3">
 																<thead>

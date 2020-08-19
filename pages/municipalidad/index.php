@@ -920,6 +920,186 @@
 									</div>
 									<div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple18">
 										<h4 class="pb-4">Monitoreo POI</h4>
+										<h5 style="text-align: center;" class="pt-3">MONITOREO POI 2020</h5>
+										<table class="table table-striped">
+											<thead>
+												<tr>
+													<th>
+														Descarga
+													</th>
+													<th>
+														Nombre del documento
+													</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20201T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO al I TRIM POI 2020
+													</td>
+												</tr>	
+												<tr>
+													<td style="text-align: center;">
+														-
+													</td>
+													<td>																
+														INFORME MONITOREO al II TRIM POI 2020
+													</td>
+												</tr>												
+												<tr>
+													<td style="text-align: center;">
+														-
+													</td>
+													<td>																
+														INFORME MONITOREO AL III TRIM POI 2020
+													</td>
+												</tr>	
+												<tr>
+													<td style="text-align: center;">
+														-
+													</td>
+													<td>																
+														INFORME MONITOREO AL IV TRIM POI 2020
+													</td>
+												</tr>													
+											</tbody>
+										</table>
+										<h5 style="text-align: center;" class="pt-3">MONITOREO POI 2019</h5>
+										<table class="table table-striped">
+											<thead>
+												<tr>
+													<th>
+														Descarga
+													</th>
+													<th>
+														Nombre del documento
+													</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20191T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO al I TRIM POI 2019
+													</td>
+												</tr>	
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20192T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO al II TRIM POI 2019
+													</td>
+												</tr>												
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20193T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO AL III TRIM POI 2019
+													</td>
+												</tr>	
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20194T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO AL IV TRIM POI 2019
+													</td>
+												</tr>													
+											</tbody>
+										</table>
+										<h5 style="text-align: center;" class="pt-3">MONITOREO POI 2018</h5>
+										<table class="table table-striped">
+											<thead>
+												<tr>
+													<th>
+														Descarga
+													</th>
+													<th>
+														Nombre del documento
+													</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20181T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO al I TRIM POI 2018
+													</td>
+												</tr>	
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20182T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO al II TRIM POI 2018
+													</td>
+												</tr>												
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20183T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO AL III TRIM POI 2018
+													</td>
+												</tr>	
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20184T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO AL IV TRIM POI 2018
+													</td>
+												</tr>													
+											</tbody>
+										</table>
+										<h5 style="text-align: center;" class="pt-3">MONITOREO POI 2017</h5>
+										<table class="table table-striped">
+											<thead>
+												<tr>
+													<th>
+														Descarga
+													</th>
+													<th>
+														Nombre del documento
+													</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20171T_2T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO I al II TRIM POI 2017
+													</td>
+												</tr>													
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20173T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO AL III TRIM POI 2017
+													</td>
+												</tr>	
+												<tr>
+													<td style="text-align: center;">
+														<a href="../../resources/municipalidad/pdf/Monitoreo_POI/M_POI_20174T.pdf" target="_blank"><i class="icon-doc icons"></i></a>
+													</td>
+													<td>																
+														INFORME MONITOREO AL IV TRIM POI 2017
+													</td>
+												</tr>													
+											</tbody>
+										</table>
 										<h5 style="text-align: center;" class="pt-3">MONITOREO POI 2016</h5>
 										<table class="table table-striped">
 											<thead>

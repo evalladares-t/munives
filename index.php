@@ -555,7 +555,7 @@
 						</div>
 						<div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
 							<h5 class="text-5 text-transform-none font-weight-semibold text-color-light mb-4">Número de Contacto</h5>
-							<p class="text-7 text-color-light font-weight-bold mb-2">319-2530</p>
+							<p class="text-7 text-color-light font-weight-bold mb-2">(01) 319-2530</p>
 							
 						</div>
 						<div class="col-md-6 col-lg-3">
