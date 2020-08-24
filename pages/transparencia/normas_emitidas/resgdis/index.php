@@ -24,40 +24,40 @@
                                     <div class="tabs tabs-vertical tabs-right tabs-navigation tabs-navigation-simple">
                                         <ul class="nav nav-tabs col-sm-3">
                                             <li class="nav-item active">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple1" data-toggle="tab">RESOLUCIONES GDIS 2020</a>													
+                                                <a class="nav-link" href="#resgdis2020" data-toggle="tab">RESOLUCIONES GDIS 2020</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple2" data-toggle="tab">RESOLUCIONES GDIS 2019</a>													
+                                                <a class="nav-link" href="#resgdis2019" data-toggle="tab">RESOLUCIONES GDIS 2019</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple3" data-toggle="tab">RESOLUCIONES GDIS 2018</a>													
+                                                <a class="nav-link" href="#resgdis2018" data-toggle="tab">RESOLUCIONES GDIS 2018</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple4" data-toggle="tab">RESOLUCIONES GDIS 2017</a>
+                                                <a class="nav-link" href="#resgdis2017" data-toggle="tab">RESOLUCIONES GDIS 2017</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple5" data-toggle="tab">RESOLUCIONES GDIS 2016</a>													
+                                                <a class="nav-link" href="#resgdis2016" data-toggle="tab">RESOLUCIONES GDIS 2016</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple6" data-toggle="tab">RESOLUCIONES GDIS 2015</a>													
+                                                <a class="nav-link" href="#resgdis2015" data-toggle="tab">RESOLUCIONES GDIS 2015</a>													
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#tabsNavigationVertSimple7" data-toggle="tab">RESOLUCIONES GDIS 2014</a>													
+                                                <a class="nav-link" href="#resgdis2014" data-toggle="tab">RESOLUCIONES GDIS 2014</a>													
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="col-lg-9">
-                                    <div class="tab-pane tab-pane-navigation active" id="tabsNavigationVertSimple1">
+                                    <div class="tab-pane tab-pane-navigation active" id="resgdis2020">
                                         <?php
                                             if($ano=="0"){
                                                 $ano="2020";
                                                 include '../tab_norm_emit_gen.php';
                                                 $ano="0";
                                             }
-                                        ?>    
+                                    ?>                                 
                                     </div>
-                                    <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple2">
+                                    <div class="tab-pane tab-pane-navigation" id="resgdis2019">
                                         <?php
                                             if($ano=="0"){
                                                 $ano="2019";
@@ -66,7 +66,7 @@
                                             }
                                         ?>  											
                                     </div>	
-                                    <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple3">
+                                    <div class="tab-pane tab-pane-navigation" id="resgdis2018">
                                         <?php
                                             if($ano=="0"){
                                                 $ano="2018";
@@ -75,7 +75,7 @@
                                             }
                                         ?>  											
                                     </div>
-                                    <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple4">
+                                    <div class="tab-pane tab-pane-navigation" id="resgdis2017">
                                         <?php
                                             if($ano=="0"){
                                                 $ano="2017";
@@ -84,7 +84,7 @@
                                             }
                                         ?>  											
                                     </div>	
-                                    <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple5">
+                                    <div class="tab-pane tab-pane-navigation" id="resgdis2016">
                                         <?php
                                             if($ano=="0"){
                                                 $ano="2016";
@@ -93,7 +93,7 @@
                                             }
                                         ?>  											
                                     </div>
-                                    <div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple7">
+                                    <div class="tab-pane tab-pane-navigation" id="resgdis2014">
                                         <?php
                                             if($ano=="0"){
                                                 $ano="2014";
