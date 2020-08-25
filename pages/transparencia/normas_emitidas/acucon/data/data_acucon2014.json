@@ -8,10 +8,250 @@
             "recurso": "acucon.069-14.pdf"
         },
         {
+            "id": 68,
+            "name": "Acuerdo de consejo Nº 068-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 67,
+            "name": "Acuerdo de consejo Nº 067-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 66,
+            "name": "Acuerdo de consejo Nº 066-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 65,
+            "name": "Acuerdo de consejo Nº 065-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 64,
+            "name": "Acuerdo de consejo Nº 064-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 63,
+            "name": "Acuerdo de consejo Nº 063-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 62,
+            "name": "Acuerdo de consejo Nº 062-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 61,
+            "name": "Acuerdo de consejo Nº 061-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 60,
+            "name": "Acuerdo de consejo Nº 060-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 59,
+            "name": "Acuerdo de consejo Nº 059-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 58,
+            "name": "Acuerdo de consejo Nº 058-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 57,
+            "name": "Acuerdo de consejo Nº 057-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 56,
+            "name": "Acuerdo de consejo Nº 056-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 55,
+            "name": "Acuerdo de consejo Nº 055-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 54,
+            "name": "Acuerdo de consejo Nº 054-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 53,
+            "name": "Acuerdo de consejo Nº 053-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 52,
+            "name": "Acuerdo de consejo Nº 052-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 51,
+            "name": "Acuerdo de consejo Nº 051-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 50,
+            "name": "Acuerdo de consejo Nº 050-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 49,
+            "name": "Acuerdo de consejo Nº 049-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 48,
+            "name": "Acuerdo de consejo Nº 048-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
             "id": 47,
             "name": "Acuerdo de consejo Nº 047-2014 MVES",
             "descripcion": "CONSIDERANDO Que, el Artículo 194º de la Constitución Política del Perú concordado con el artículo II del Título Preliminar de la Ley Nº 27972, Ley Orgánica de Municipalidades, establece que los gobiernos locales gozan de autonomía radica en la facultad de ejercer actos de gobierno, administrativos y de administración, con sujeción al ordenamiento jurídico;",
             "recurso": "acucon.047-14.pdf"
+        },
+        {
+            "id": 46,
+            "name": "Acuerdo de consejo Nº 046-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 45,
+            "name": "Acuerdo de consejo Nº 045-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 44,
+            "name": "Acuerdo de consejo Nº 044-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 43,
+            "name": "Acuerdo de consejo Nº 043-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 42,
+            "name": "Acuerdo de consejo Nº 042-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 41,
+            "name": "Acuerdo de consejo Nº 041-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 40,
+            "name": "Acuerdo de consejo Nº 040-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 39,
+            "name": "Acuerdo de consejo Nº 039-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 38,
+            "name": "Acuerdo de consejo Nº 038-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 37,
+            "name": "Acuerdo de consejo Nº 037-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 36,
+            "name": "Acuerdo de consejo Nº 036-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 35,
+            "name": "Acuerdo de consejo Nº 035-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 34,
+            "name": "Acuerdo de consejo Nº 034-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 33,
+            "name": "Acuerdo de consejo Nº 033-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 32,
+            "name": "Acuerdo de consejo Nº 032-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 31,
+            "name": "Acuerdo de consejo Nº 031-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 30,
+            "name": "Acuerdo de consejo Nº 030-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 29,
+            "name": "Acuerdo de consejo Nº 029-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 28,
+            "name": "Acuerdo de consejo Nº 028-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
         },
         {
             "id": 27,
@@ -20,10 +260,148 @@
             "recurso": "acucon.027-14.pdf"
         },
         {
+            "id": 26,
+            "name": "Acuerdo de consejo Nº 026-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 25,
+            "name": "Acuerdo de consejo Nº 025-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 24,
+            "name": "Acuerdo de consejo Nº 024-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 23,
+            "name": "Acuerdo de consejo Nº 023-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 22,
+            "name": "Acuerdo de consejo Nº 022-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 21,
+            "name": "Acuerdo de consejo Nº 021-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 20,
+            "name": "Acuerdo de consejo Nº 020-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 19,
+            "name": "Acuerdo de consejo Nº 019-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 18,
+            "name": "Acuerdo de consejo Nº 018-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 17,
+            "name": "Acuerdo de consejo Nº 017-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 16,
+            "name": "Acuerdo de consejo Nº 016-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 15,
+            "name": "Acuerdo de consejo Nº 015-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 14,
+            "name": "Acuerdo de consejo Nº 014-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 13,
+            "name": "Acuerdo de consejo Nº 013-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 12,
+            "name": "Acuerdo de consejo Nº 012-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 11,
+            "name": "Acuerdo de consejo Nº 011-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 10,
+            "name": "Acuerdo de consejo Nº 010-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 9,
+            "name": "Acuerdo de consejo Nº 009-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 8,
+            "name": "Acuerdo de consejo Nº 008-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 7,
+            "name": "Acuerdo de consejo Nº 007-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
             "id": 6,
             "name": "Acuerdo de consejo Nº 006-2014 MVES",
             "descripcion": "CONSIDERANDO Que el articulo 194º de la constitución politica del estado, modificada por la Ley de Reforma Nº 28607 , establece que la Municipalidades provinciales y distritales son órganos de gobierno local con autonomía política, económica y administrativa en los asuntos de su competencia;",
             "recurso": "acucon.006-14.pdf"
+        },
+        {
+            "id": 5,
+            "name": "Acuerdo de consejo Nº 005-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 4,
+            "name": "Acuerdo de consejo Nº 004-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 3,
+            "name": "Acuerdo de consejo Nº 003-2014 MVES",
+            "descripcion": "-",
+            "recurso": null
         },
         {
             "id": 2,

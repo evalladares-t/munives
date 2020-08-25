@@ -38,6 +38,12 @@
             "recurso": "acucon.061-13.pdf"
         },
         {
+            "id": 60,
+            "name": "Acuerdo de consejo Nº 060-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
             "id": 59,
             "name": "Acuerdo de consejo Nº 059-2013 MVES",
             "descripcion": "CONSIDERANDO Que conforme lo establece el articulo II del título preliminar de la, Ley Nº 27972, los gobiernos locales gozan de autonomia política, económica y administrativa en los asuntos de su competencia. La autonomía que la Constitución Política del Perú establece para las municipalidades, radica en la facultad de ejercer actos de gobierno, administrativos y de administración, con sujeción al ordenamiento jurídico;",
@@ -128,16 +134,160 @@
             "recurso": "acucon.045-13.pdf"
         },
         {
+            "id": 44,
+            "name": "Acuerdo de consejo Nº 044-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 43,
+            "name": "Acuerdo de consejo Nº 043-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
             "id": 42,
             "name": "Acuerdo de consejo Nº 042-2013 MVES",
             "descripcion": "FORMALIZAR Que el articulo 194º de la constitución politica del estado concordante con el artículo II del titulo preliminar de lay Nº 27972 - ley orgánica de municipalidades, establece que los gobiernos locales gozan de autonomía política, economíca y administrativas en los asuntos de su competencia, ésta autonomía radica en la facultad de ejercer actos de gobiernos, administrativos y de administración , con sujeción al ordenamiento jurídico.",
             "recurso": "acucon.042-13.pdf"
         },
         {
+            "id": 41,
+            "name": "Acuerdo de consejo Nº 041-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 40,
+            "name": "Acuerdo de consejo Nº 040-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 39,
+            "name": "Acuerdo de consejo Nº 039-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 38,
+            "name": "Acuerdo de consejo Nº 038-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 37,
+            "name": "Acuerdo de consejo Nº 037-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 36,
+            "name": "Acuerdo de consejo Nº 036-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 35,
+            "name": "Acuerdo de consejo Nº 035-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 34,
+            "name": "Acuerdo de consejo Nº 034-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 33,
+            "name": "Acuerdo de consejo Nº 033-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 32,
+            "name": "Acuerdo de consejo Nº 032-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 31,
+            "name": "Acuerdo de consejo Nº 031-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 30,
+            "name": "Acuerdo de consejo Nº 030-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 29,
+            "name": "Acuerdo de consejo Nº 029-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 28,
+            "name": "Acuerdo de consejo Nº 028-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 27,
+            "name": "Acuerdo de consejo Nº 027-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 26,
+            "name": "Acuerdo de consejo Nº 026-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 25,
+            "name": "Acuerdo de consejo Nº 025-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 24,
+            "name": "Acuerdo de consejo Nº 024-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 23,
+            "name": "Acuerdo de consejo Nº 023-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 22,
+            "name": "Acuerdo de consejo Nº 022-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
+            "id": 21,
+            "name": "Acuerdo de consejo Nº 021-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
+        },
+        {
             "id": 20,
             "name": "Acuerdo de consejo Nº 020-2013 MVES",
             "descripcion": "APROBAR Los estados financieros y presupuestales correspondiente al Ejercicio Fiscal 2012 de la Municipalidad Distrital de Villa El Salvador, los mismos que forman parte del presente acuerdo.",
             "recurso": "acucon.020-13.pdf"
+        },
+        {
+            "id": 19,
+            "name": "Acuerdo de consejo Nº 019-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
         },
         {
             "id": 18,
@@ -174,6 +324,12 @@
             "name": "Acuerdo de consejo Nº 013-2013 MVES",
             "descripcion": "APROBAR Que la Comisión Especial para la Organización de la Celebración del 42º Aniversario de fundación del Pueblo de Villa el Salvador, este integrado por los señores regidores Eloy Chávez Fernandez, Godofredo Alfaro Candiotti,Refael Hernán Cumpén Bonifaz y César Lerzundi Samanez, quienes conformarán la citada Comisión conjuntamente con funcionarios municipales y representantes de las Organizaciones Sociales del distrito.",
             "recurso": "acucon.013-13.pdf"
+        },
+        {
+            "id": 12,
+            "name": "Acuerdo de consejo Nº 012-2013 MVES",
+            "descripcion": "-",
+            "recurso": null
         },
         {
             "id": 11,
