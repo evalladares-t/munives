@@ -795,6 +795,9 @@
 												</tr>											
 											</tbody>
 										</table>
+										<object data="https://cdn.www.gob.pe/uploads/institution/orgchart/000/002/381/ORGANIGRAMA_-_ORD_419-2019.pdf" width="100%" height="100%">
+        <p> <a href="https://cdn.www.gob.pe/uploads/institution/orgchart/000/002/381/ORGANIGRAMA_-_ORD_419-2019.pdf"></a></p>
+    </object>
 										<iframe src="https://cdn.www.gob.pe/uploads/institution/orgchart/000/002/381/ORGANIGRAMA_-_ORD_419-2019.pdf" width="100%" height="680px"></iframe>
 									</div>
 									<div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple16">
