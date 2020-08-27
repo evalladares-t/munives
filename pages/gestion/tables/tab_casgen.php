@@ -68,6 +68,7 @@
                         <?php
                             if($convocatorias["data"][$i]["convocatoria"]!=null){?>
                                 <a href="../../resources/gestion/convocatorias-cas/<?php echo $convocatorias["ano"];?>/<?php echo $convocatorias["data"][$i]["convocatoria"];?>" target="_blank"><i class="icon-doc icons"></i></a>
+                                
                         <?php
                             }
                             else{
