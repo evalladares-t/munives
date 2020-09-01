@@ -794,10 +794,7 @@
 													</td>
 												</tr>											
 											</tbody>
-										</table>
-				<!--						<object data="https://cdn.www.gob.pe/uploads/institution/orgchart/000/002/381/ORGANIGRAMA_-_ORD_419-2019.pdf" width="100%" height="100%">
-        <p> <a href="https://cdn.www.gob.pe/uploads/institution/orgchart/000/002/381/ORGANIGRAMA_-_ORD_419-2019.pdf"></a></p>
-    </object>-->
+										</table>				
 										<object type="application/pdf" data="https://cdn.www.gob.pe/uploads/institution/orgchart/000/002/381/ORGANIGRAMA_-_ORD_419-2019.pdf#toolbar=1" width="100%" height="680px"></object>
 									</div>
 									<div class="tab-pane tab-pane-navigation" id="tabsNavigationVertSimple16">

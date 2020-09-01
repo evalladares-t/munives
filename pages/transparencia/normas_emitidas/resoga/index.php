@@ -8,6 +8,7 @@
             $ano="0";
             $title="RESOLUCIÓN DE OFICINA GENERAL DE ADMINISTRACIÓN";
             $origen="resoga";
+            $idtipodocmun="2";
         ?>
 
         <div class="body">

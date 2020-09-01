@@ -8,6 +8,7 @@
             $ano="0";
             $title="RESOLUCIÓN DE GERENCIA DE DESARROLLO E INCLUSION SOCIAL";
             $origen="resgdis";
+            $idtipodocmun="1";
         ?>
 
         <div class="body">

@@ -108,7 +108,7 @@
 								<div class="header-column justify-content-end">
 									<div class="header-row">
 										<ul class="header-social-icons social-icons d-none d-sm-block social-icons-clean">
-											<li class="social-icons-facebook"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resalc','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+											<li class="social-icons-facebook"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resgdis','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
 											<li class="social-icons-twitter"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resgm','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-twitter"></i></a></li>
 											<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
 										</ul>
@@ -151,9 +151,9 @@
 							</div>
 							<div class="header-column justify-content-end " style="width:20px;">
 								<div class="header-row" >
-											<a href="pages/transparencia" class="text-decoration-none ">
-												<img src="img/blog/portaltransparencia.png" class="img-fluid hover-effect-2 mb-3" alt="" />
-											</a>
+									<a href="pages/transparencia" class="text-decoration-none ">
+										<img src="img/blog/portaltransparencia.png" class="img-fluid hover-effect-2 mb-3" alt="" />
+									</a>
 								</div>		
 							</div>							
 						</div>
@@ -220,118 +220,118 @@
 
 			<!--Header-->
 			<div class="slider-container light rev_slider_wrapper" style="height: 600px;">
-					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 4500, 'gridwidth': 1170, 'gridheight': 600, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
-						<ul>
-							<li data-transition="fade">
-								<img src="img/slides/slide-corporate-3-2.jpg"  
-									alt=""
-									data-bgposition="right center"
-									data-bgpositionend="center center"
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									data-kenburns="on"
-									data-duration="4000"
-									data-ease="Linear.easeNone"
-									data-scalestart="100"
-									data-scaleend="100"
-									data-rotatestart="0"
-									data-rotateend="0"
-									data-offsetstart="0 0"
-									data-offsetend="0 0"
-									data-bgparallax="0"
-                                    class="rev-slidebg">                                
-							</li>
-							<li data-transition="fade">
-				
-								<img src="img/slides/slide-corporate-3-3.jpg"  
-									alt=""
-									data-bgposition="right center"
-									data-bgpositionend="center center"
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									data-kenburns="on"
-									data-duration="3000"
-									data-ease="Linear.easeNone"
-									data-scalestart="100"
-									data-scaleend="100"
-									data-rotatestart="0"
-									data-rotateend="0"
-									data-offsetstart="0 0"
-									data-offsetend="0 0"
-									data-bgparallax="0"
-                                    class="rev-slidebg">
-                                    
-                                <a class="tp-caption btn btn-dark font-weight-semibold"
-									data-frames='[{"delay":500,"speed":2000,"frame":"0","from":"opacity:0;y:50%;","to":"o:1;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
-									data-hash
-									data-hash-offset="85"
-									href="#main"
-									data-x="left" data-hoffset="0"
-									data-y="bottom" data-voffset="['100','100','100','210']"
-									data-whitespace="nowrap"	
-									data-fontsize="['14','14','14','33']"	
-									data-paddingtop="['16','16','16','40']"
-									data-paddingright="['33','33','33','80']"
-									data-paddingbottom="['16','16','16','40']"				 
-									data-paddingleft="['33','33','33','80']">Más información!</a>
-							</li>
-							<li data-transition="fade">
-				
-								<img src="img/slides/slide-corporate-3-4.jpg"  
-									alt=""
-									data-bgposition="right center"
-									data-bgpositionend="center center"
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									data-kenburns="on"
-									data-duration="3000"
-									data-ease="Linear.easeNone"
-									data-scalestart="100"
-									data-scaleend="100"
-									data-rotatestart="0"
-									data-rotateend="0"
-									data-offsetstart="0 0"
-									data-offsetend="0 0"
-									data-bgparallax="0"
-                                    class="rev-slidebg">
+				<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 4500, 'gridwidth': 1170, 'gridheight': 600, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrows-big arrows-dark' }, 'bullets': {'enable': false, 'style': 'bullets-style-1 bullets-color-primary', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+					<ul>
+						<li data-transition="fade">
+							<img src="img/slides/slide-corporate-3-2.jpg"  
+								alt=""
+								data-bgposition="right center"
+								data-bgpositionend="center center"
+								data-bgfit="cover" 								
+								data-bgrepeat="no-repeat" 
+								data-kenburns="on"
+								data-duration="4000"
+								data-ease="Linear.easeNone"
+								data-scalestart="100"
+								data-scaleend="100"
+								data-rotatestart="0"
+								data-rotateend="0"
+								data-offsetstart="0 0"
+								data-offsetend="0 0"
+								data-bgparallax="0"
+								class="rev-slidebg">                                                                                                  
+						</li>
+						<li data-transition="fade">
+			
+							<img src="img/slides/slide-corporate-3-3.jpg"  
+								alt=""
+								data-bgposition="right center"
+								data-bgpositionend="center center"
+								data-bgfit="cover" 
+								data-bgrepeat="no-repeat"  
+								data-kenburns="on"
+								data-duration="3000"
+								data-ease="Linear.easeNone"
+								data-scalestart="100"
+								data-scaleend="100"
+								data-rotatestart="0"
+								data-rotateend="0"
+								data-offsetstart="0 0"
+								data-offsetend="0 0"
+								data-bgparallax="0"
+								class="rev-slidebg">
+								
+							<a class="tp-caption btn btn-dark font-weight-semibold"
+								data-frames='[{"delay":500,"speed":2000,"frame":"0","from":"opacity:0;y:50%;","to":"o:1;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+								data-hash
+								data-hash-offset="85"
+								href="#main"
+								data-x="left" data-hoffset="0"
+								data-y="bottom" data-voffset="['100','100','100','210']"
+								data-whitespace="nowrap"		
+								data-fontsize="['14','14','14','33']"		
+								data-paddingtop="['16','16','16','40']"
+								data-paddingright="['33','33','33','80']"
+								data-paddingbottom="['16','16','16','40']"				 			 			 
+								data-paddingleft="['33','33','33','80']">Más información!</a>
+						</li>
+						<li data-transition="fade">
+			
+							<img src="img/slides/slide-corporate-3-4.jpg"  
+								alt=""
+								data-bgposition="right center"
+								data-bgpositionend="center center"
+								data-bgfit="cover" 
+								data-bgrepeat="no-repeat" 
+								data-kenburns="on"
+								data-duration="3000"
+								data-ease="Linear.easeNone"
+								data-scalestart="100"
+								data-scaleend="100"
+								data-rotatestart="0"
+								data-rotateend="0"
+								data-offsetstart="0 0"
+								data-offsetend="0 0"
+								data-bgparallax="0"
+								class="rev-slidebg">
 
-                                <a class="tp-caption btn btn-dark font-weight-semibold"
-									data-frames='[{"delay":500,"speed":2000,"frame":"0","from":"opacity:0;y:50%;","to":"o:1;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
-									data-hash
-									data-hash-offset="85"
-									href="#main"
-									data-x="right" data-hoffset="0"
-									data-y="bottom" data-voffset="['100','100','100','210']"
-									data-whitespace="nowrap"	
-									data-fontsize="['14','14','14','33']"	
-									data-paddingtop="['16','16','16','40']"
-									data-paddingright="['33','33','33','80']"
-									data-paddingbottom="['16','16','16','40']"				 
-									data-paddingleft="['33','33','33','80']">Más información!</a>
-							</li>	
-							<li data-transition="fade">
-				
-								<img src="img/slides/slide-corporate-3-5.jpg"  
-									alt=""
-									data-bgposition="right center"
-									data-bgpositionend="center center"
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									data-kenburns="on"
-									data-duration="3000"
-									data-ease="Linear.easeNone"
-									data-scalestart="100"
-									data-scaleend="100"
-									data-rotatestart="0"
-									data-rotateend="0"
-									data-offsetstart="0 0"
-									data-offsetend="0 0"
-									data-bgparallax="0"
-									class="rev-slidebg">
-							</li>																						
-						</ul>
-					</div>
+							<a class="tp-caption btn btn-dark font-weight-semibold"
+								data-frames='[{"delay":500,"speed":2000,"frame":"0","from":"opacity:0;y:50%;","to":"o:1;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+								data-hash
+								data-hash-offset="85"
+								href="#main"
+								data-x="right" data-hoffset="0"
+								data-y="bottom" data-voffset="['100','100','100','210']"
+								data-whitespace="nowrap"	
+								data-fontsize="['14','14','14','33']"		
+								data-paddingtop="['16','16','16','40']"
+								data-paddingright="['33','33','33','80']"
+								data-paddingbottom="['16','16','16','40']"				 			 		 
+								data-paddingleft="['33','33','33','80']">Más información!</a>
+						</li>	
+						<li data-transition="fade">
+			
+							<img src="img/slides/slide-corporate-3-5.jpg"  
+								alt=""
+								data-bgposition="right center"
+								data-bgpositionend="center center"
+								data-bgfit="cover" 
+								data-bgrepeat="no-repeat" 
+								data-kenburns="on"
+								data-duration="3000"
+								data-ease="Linear.easeNone"
+								data-scalestart="100"
+								data-scaleend="100"
+								data-rotatestart="0"
+								data-rotateend="0"
+								data-offsetstart="0 0"
+								data-offsetend="0 0"
+								data-bgparallax="0"
+								class="rev-slidebg">
+						</li>																																											
+					</ul>
 				</div>
+			</div>
 
 			<!--Accesos Directos -->
 				<section id="IDacceos" class="section section-height-2 bg-color-grey-scale-1  border-0 m-0">

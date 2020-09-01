@@ -7,6 +7,7 @@
             $ano="0";
             $title="PUBLICACIONES DE OCI";
             $origen="puboci";
+            $idtipodocmun="3";
         ?>
 
         <div class="body">

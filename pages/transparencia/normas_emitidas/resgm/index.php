@@ -8,6 +8,7 @@
             $ano="0";
             $title="RESOLUCIÓN DE GERENCIA MUNICIPAL";
             $origen="resgm";
+            $idtipodocmun="4";
         ?>
 
         <div class="body">

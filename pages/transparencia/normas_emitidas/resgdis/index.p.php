@@ -9,6 +9,10 @@
             $title="RESOLUCIÓN DE GERENCIA DE DESARROLLO E INCLUSION SOCIAL";
             $origen="resgdis";
         ?>
+        <?php
+            $data = json_decode( file_get_contents('http://localhost:3000/api/v1.0/web/transparencia/docmun/'), true );
+            echo $data['nickname'];
+        ?>
 
         <div class="body">
             <div role="main" class="main">
