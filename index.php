@@ -109,7 +109,7 @@
 									<div class="header-row">
 										<ul class="header-social-icons social-icons d-none d-sm-block social-icons-clean">
 											<li class="social-icons-facebook"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resgdis/index.p.php','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-											<li class="social-icons-twitter"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resgm','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-twitter"></i></a></li>
+											<li class="social-icons-twitter"><a href="#" onClick="window.open('pages/transparencia/normas_emitidas/resoga','popup', 'width=1200px,height=700px')"  title="Facebook"><i class="fab fa-twitter"></i></a></li>
 											<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
 										</ul>
 									</div>
